@@ -1,0 +1,14 @@
+{
+    "arguments": [],
+    "clean_list_file": "clean.list",
+    "clean_original": "1",
+    "commit_autosave_message": "Test of StevenBlack/hosts/data/StevenBlack/hosts",
+    "currently_under_test": "0",
+    "days_until_next_test": "1",
+    "last_test": "0",
+    "list_name": "Testing.list",
+    "name": "StevenBlack/hosts",
+    "ping": [],
+    "raw_link": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+    "stable": "0"
+}
