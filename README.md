@@ -1,20 +1,10 @@
-# Repository structure.
+# About hosts_git_StevenBlack
 
-## Note about this part
+[![Build Status](https://travis-ci.org/dead-hosts/hosts_git_StevenBlack.svg?branch=master)](https://travis-ci.org/dead-hosts/hosts_git_StevenBlack)
 
-**This part should not be into the new created repository.**
-
-## About this repository
-
-This is an example repository which represent the way [all other repository which use Travis CI](https://travis-ci.org/dead-hosts) should be structured.
-
---------------------------------------------------------------------------------
-
-# About [username@repositoryname]
-
-[![Build Status](https://travis-ci.org/dead-hosts/repository-structure.svg?branch=master)](https://travis-ci.org/dead-hosts/repository-structure)
-
-[Description from the original repository]
+```
+Additional sketch domains as I come across them.
+```
 
 --------------------------------------------------------------------------------
 
