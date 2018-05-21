@@ -1,7 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/Testing.list": {
-        "1526752421": [
-            "ads.adtekmedia.com",
+        "1526922680": [
             "adsmws.cloudapp.net",
             "adv.axiatraders.com",
             "alog.umeng.co",
@@ -55,6 +54,9 @@
             "www.us-east1.serve.elixmedia.com",
             "www.wzrkt.com",
             "zamora.axiatraders.com"
+        ],
+        "to_test": [
+            "ads.adtekmedia.com"
         ]
     }
 }
