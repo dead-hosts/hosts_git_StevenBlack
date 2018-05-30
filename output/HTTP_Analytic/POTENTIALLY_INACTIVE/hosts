@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 29 May 17:05:40 UTC 2018 
+# Date of generation: Wed 30 May 17:05:31 UTC 2018 
 
 0.0.0.0 4436230.fls.doubleclick.net 
 0.0.0.0 4448269.fls.doubleclick.net 
@@ -13,6 +13,7 @@
 0.0.0.0 adservice.google.nl 
 0.0.0.0 analytics-digit-in.cdn.ampproject.org 
 0.0.0.0 analytics-static.ugc.bazaarvoice.com 
+0.0.0.0 analytics.digit.in 
 0.0.0.0 analytics.jabong.com 
 0.0.0.0 analytics.lk.api.ditto.com 
 0.0.0.0 analytics.logsss.com 
@@ -32,17 +33,16 @@
 0.0.0.0 app-measurement.com 
 0.0.0.0 app.adjust.com 
 0.0.0.0 app.storage.yunvm.com 
-0.0.0.0 applog.uc.cn 
 0.0.0.0 asap.sharethrough.com 
 0.0.0.0 assets.alphonso.tv 
 0.0.0.0 bale.alphonso.tv 
 0.0.0.0 batchlogging4.truecaller.com 
 0.0.0.0 c.webengage.com 
-0.0.0.0 c2i-cdn.startappnetwork.com 
 0.0.0.0 canuck-method.com 
 0.0.0.0 cdn-settings.segment.com 
 0.0.0.0 cdn.ad.xiaomi.com 
 0.0.0.0 cdn.auditude.com 
+0.0.0.0 cdn.moengage.com 
 0.0.0.0 cdn.segment.com 
 0.0.0.0 cdn.tsyndicate.com 
 0.0.0.0 cdn.zarget.com 
@@ -123,6 +123,7 @@
 0.0.0.0 tags.news.com.au 
 0.0.0.0 telecommand.telemetry.microsoft.com 
 0.0.0.0 test.ad.xiaomi.com 
+0.0.0.0 token.rubiconproject.com 
 0.0.0.0 track.tenjin.io 
 0.0.0.0 tracking.i2w.io 
 0.0.0.0 tracking.miui.com 
@@ -130,7 +131,6 @@
 0.0.0.0 udm.scorecardresearch.com 
 0.0.0.0 unconf.adkmob.com 
 0.0.0.0 urldelivery.com 
-0.0.0.0 users.quantumgraph.com 
 0.0.0.0 vrl.m.conviva.com 
 0.0.0.0 wc-tracking.lavasoft.com 
 0.0.0.0 wsdk-files.webengage.com 
@@ -139,7 +139,6 @@
 0.0.0.0 www.googletagservices.com 
 0.0.0.0 www.hitcpm.com 
 0.0.0.0 www.performanceadexchange.com 
-0.0.0.0 www.quickcash-system.com 
 0.0.0.0 www.urldelivery.com 
 0.0.0.0 www.www.cpm20.com 
 0.0.0.0 zee.cws.conviva.com 
