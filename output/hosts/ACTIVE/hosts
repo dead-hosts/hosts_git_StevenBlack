@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 05 Jun 17:06:45 UTC 2018 
+# Date of generation: Fri 08 Jun 17:06:08 UTC 2018 
 
 0.0.0.0 1493361689.rsc.cdn77.org 
 0.0.0.0 15.taboola.com 
@@ -69,6 +69,7 @@
 0.0.0.0 ad.api.kaffnet.com 
 0.0.0.0 ad.apsalar.com 
 0.0.0.0 ad.click.kaffnet.com 
+0.0.0.0 adn.insight.ucweb.com 
 0.0.0.0 ads.aerserv.com 
 0.0.0.0 ads.alphonso.tv 
 0.0.0.0 ads.feedly.com 
@@ -185,11 +186,13 @@
 0.0.0.0 ceromobi.club 
 0.0.0.0 cfvod.kaltura.com 
 0.0.0.0 chuknu.sokrati.com 
+0.0.0.0 click.union.ucweb.com 
 0.0.0.0 clickopon.com 
 0.0.0.0 client-analytics.braintreegateway.com 
 0.0.0.0 clockskew.alphonso.tv 
 0.0.0.0 connect.facebook.net 
 0.0.0.0 consumerproductsusa.com 
+0.0.0.0 convhkmp.taboola.com 
 0.0.0.0 convlatbmp.taboola.com 
 0.0.0.0 cosiloon.com 
 0.0.0.0 cruyff.alphonso.tv 
@@ -234,11 +237,16 @@
 0.0.0.0 fc.yahoo.com 
 0.0.0.0 fcanr.tracking.miui.com 
 0.0.0.0 feedback.adrecover.com 
+0.0.0.0 feedback.uc.cn 
 0.0.0.0 fgoogle.com 
 0.0.0.0 files.ctnet4.space 
+0.0.0.0 g.alicdn.com 
 0.0.0.0 gamblerush.com 
 0.0.0.0 geofence.sys.miui.com 
+0.0.0.0 gj.applog.uc.cn 
+0.0.0.0 gj.track.uc.cn 
 0.0.0.0 gjapplog.uc.cn 
+0.0.0.0 gjtrack.ucweb.com 
 0.0.0.0 globalapi.ad.xiaomi.com 
 0.0.0.0 go.ad1data.com 
 0.0.0.0 goodblock.gladly.io 
@@ -256,8 +264,10 @@
 0.0.0.0 i1.dl-ad.com 
 0.0.0.0 ibeat.indiatimes.com 
 0.0.0.0 imp.startappservice.com 
+0.0.0.0 imprhkmp.taboola.com 
 0.0.0.0 imprlatbmp.taboola.com 
 0.0.0.0 imysurvey.com 
+0.0.0.0 in-gmtdmp.mookie1.com 
 0.0.0.0 in-star.videoplaza.tv 
 0.0.0.0 in-starlive-preroll.videoplaza.tv 
 0.0.0.0 in-starlive.videoplaza.tv 
@@ -267,6 +277,7 @@
 0.0.0.0 init.startappservice.com 
 0.0.0.0 insight.ucweb.com 
 0.0.0.0 insights.alphonso.tv 
+0.0.0.0 instory-log.ucnews.ucweb.com 
 0.0.0.0 jackbootedroom.com 
 0.0.0.0 jira.face2trade.com 
 0.0.0.0 js-agent.newrelic.com 
@@ -276,7 +287,6 @@
 0.0.0.0 kuikdelivery.com 
 0.0.0.0 kushat.roboinside.me 
 0.0.0.0 l-v1.presage.io 
-0.0.0.0 l2.visiblemeasures.com 
 0.0.0.0 largeloot.com 
 0.0.0.0 lepodownload.mediatek.com 
 0.0.0.0 letitbefaster.website 
@@ -287,6 +297,7 @@
 0.0.0.0 login.dotomi.com 
 0.0.0.0 logitechlogitechglobal.112.2o7.net 
 0.0.0.0 logs.gaana.com 
+0.0.0.0 logserver.insight.ucweb.com 
 0.0.0.0 logx.optimizely.com 
 0.0.0.0 ma1310-r.analytics.edgekey.net 
 0.0.0.0 ma312-r.analytics.edgesuite.net 
@@ -376,6 +387,7 @@
 0.0.0.0 service.face2trade.com 
 0.0.0.0 service.videoplaza.tv 
 0.0.0.0 settings.crashlytics.com 
+0.0.0.0 sg.mmstat.com 
 0.0.0.0 silva.alphonso.tv 
 0.0.0.0 sionicmedia.com 
 0.0.0.0 sixstitch.win 
