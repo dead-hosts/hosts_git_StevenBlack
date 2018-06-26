@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 24 Jun 17:06:05 UTC 2018 
+# Date of generation: Tue 26 Jun 17:06:27 UTC 2018 
 
 0.0.0.0 4436230.fls.doubleclick.net 
 0.0.0.0 4448269.fls.doubleclick.net 
@@ -11,6 +11,7 @@
 0.0.0.0 ads.aerserv.com 
 0.0.0.0 adservice.google.co.in 
 0.0.0.0 adservice.google.nl 
+0.0.0.0 adv.sec.intl.miui.com 
 0.0.0.0 analytics-digit-in.cdn.ampproject.org 
 0.0.0.0 analytics-static.ugc.bazaarvoice.com 
 0.0.0.0 analytics.jabong.com 
@@ -23,12 +24,15 @@
 0.0.0.0 api.ad.intl.xiaomi.com 
 0.0.0.0 api.ad.snappea.com 
 0.0.0.0 api.alphonso.tv 
+0.0.0.0 api.brs.intl.miui.com 
 0.0.0.0 api.c.avazunativeads.com 
 0.0.0.0 api.d.xiaomi.com 
-0.0.0.0 api.eqmob.com 
+0.0.0.0 api.hybrid.intl.xiaomi.com 
 0.0.0.0 api.pubnative.net 
 0.0.0.0 api.quantumgraph.com 
 0.0.0.0 api.redshell.io 
+0.0.0.0 api.sec.intl.miui.com 
+0.0.0.0 api.setting.intl.miui.com 
 0.0.0.0 api.taplytics.com 
 0.0.0.0 app-measurement.com 
 0.0.0.0 app.adjust.com 
@@ -36,6 +40,7 @@
 0.0.0.0 applog.uc.cn 
 0.0.0.0 asap.sharethrough.com 
 0.0.0.0 assets.alphonso.tv 
+0.0.0.0 authbe.sec.intl.miui.com 
 0.0.0.0 bale.alphonso.tv 
 0.0.0.0 batchlogging4.truecaller.com 
 0.0.0.0 c.webengage.com 
@@ -54,6 +59,7 @@
 0.0.0.0 data.cnn.com 
 0.0.0.0 data.mistat.intl.xiaomi.com 
 0.0.0.0 data.mistat.xiaomi.com 
+0.0.0.0 data.sec.intl.miui.com 
 0.0.0.0 datacollect.vmall.com 
 0.0.0.0 device-api.urbanairship.com 
 0.0.0.0 engine.bitmedianetwork.com 
@@ -65,6 +71,7 @@
 0.0.0.0 fcanr.tracking.miui.com 
 0.0.0.0 feedback.adrecover.com 
 0.0.0.0 feedback.uc.cn 
+0.0.0.0 flash.sec.intl.miui.com 
 0.0.0.0 gj.applog.uc.cn 
 0.0.0.0 gj.track.uc.cn 
 0.0.0.0 gjapplog.uc.cn 
@@ -117,6 +124,7 @@
 0.0.0.0 secure.footprint.net 
 0.0.0.0 service.videoplaza.tv 
 0.0.0.0 settings.crashlytics.com 
+0.0.0.0 sgp.o2o.api.xiaomi.com 
 0.0.0.0 specialsections.siteseer.ca 
 0.0.0.0 srv.pixel.parsely.com 
 0.0.0.0 ssl.widgets.webengage.com 
@@ -137,7 +145,6 @@
 0.0.0.0 udm.scorecardresearch.com 
 0.0.0.0 unconf.adkmob.com 
 0.0.0.0 urldelivery.com 
-0.0.0.0 users.quantumgraph.com 
 0.0.0.0 vrl.m.conviva.com 
 0.0.0.0 wc-tracking.lavasoft.com 
 0.0.0.0 woodpecker.uc.cn 
@@ -150,3 +157,4 @@
 0.0.0.0 www.www.cpm20.com 
 0.0.0.0 zee.cws.conviva.com 
 0.0.0.0 zeus.ad.intl.xiaomi.com 
+0.0.0.0 zeus.ad.xiaomi.com 
