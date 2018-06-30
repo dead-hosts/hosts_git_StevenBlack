@@ -1,10 +1,11 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/Testing.list": {
-        "1530207169": [
+        "1530379951": [
             "abc.cosiloon.com",
             "abd.cosiloon.com",
             "ads.adtekmedia.com",
             "ads.chacomedia.com",
+            "ads.feedly.com",
             "ads.grandonmedia.com",
             "adserver.ministryofads.com",
             "adsmws.cloudapp.net",
@@ -12,8 +13,11 @@
             "adv.grandonmedia.com",
             "alog.umeng.co",
             "ampmetrics.techcrunch.com",
+            "analytics.mytvzion.pro",
+            "analytics.thevideo.me",
             "anayltics.kuikr.com",
             "api.axiatraders.com",
+            "api.c.avazunativeads.com",
             "api.grandonmedia.com",
             "apple.com-notice.info",
             "banners.mediaparade.net",
@@ -22,6 +26,7 @@
             "bid.grandonmedia.com",
             "blog.alphonso.tv",
             "cdn.beginads.com",
+            "cdn.tsyndicate.com",
             "click-rtb-useast.kobenetwork.com",
             "click.axiatraders.com",
             "click.elixmedia.com",
@@ -31,6 +36,7 @@
             "com-notice.info",
             "cvent.axiatraders.com",
             "dasdada.fu.ck",
+            "dobre-programy.pl",
             "ext.privacyassistant.net",
             "external.stealthedeal.com",
             "howupdateworks.amazingupdates4youtoday.website",
@@ -89,6 +95,7 @@
             "www.com-notice.info",
             "www.cosiloon.com",
             "www.deshmedia.com",
+            "www.dobre-programy.pl",
             "www.elixmedia.com",
             "www.enatimedia.com",
             "www.grandonmedia.com",
@@ -98,18 +105,22 @@
             "www.mediadirectx.com",
             "www.mediaparade.net",
             "www.ministryofads.com",
+            "www.performanceadexchange.com",
             "www.plaimedia.com",
             "www.powertradeprofit.com",
+            "www.pussysaga.com",
             "www.rotator.buzzclicks.com",
             "www.sf-3.st.adtekmedia.com",
+            "www.sportsinteraction.com",
             "www.static.elixmedia.com",
             "www.support.apple.com-notice.info",
+            "www.torrenty-org.pl"
+        ],
+        "to_test": [
             "www.tradersbrokers.com",
             "www.us-east1.serve.elixmedia.com",
             "www.wzrkt.com",
-            "zamora.axiatraders.com"
-        ],
-        "to_test": [
+            "zamora.axiatraders.com",
             "_thums.ero-advertising.com"
         ]
     }
