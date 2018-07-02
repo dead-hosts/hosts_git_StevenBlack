@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 30 Jun 17:06:11 UTC 2018 
+# Date of generation: Mon 02 Jul 17:07:40 UTC 2018 
 
 0.0.0.0 4436230.fls.doubleclick.net 
 0.0.0.0 4448269.fls.doubleclick.net 
@@ -18,12 +18,14 @@
 0.0.0.0 analytics.lk.api.ditto.com 
 0.0.0.0 analytics.logsss.com 
 0.0.0.0 analytics.posttv.com 
+0.0.0.0 analytics.thevideo.me 
 0.0.0.0 androidads23.adcolony.com 
 0.0.0.0 aoredi.com 
 0.0.0.0 api.ad.intl.xiaomi.com 
 0.0.0.0 api.ad.snappea.com 
 0.0.0.0 api.alphonso.tv 
 0.0.0.0 api.brs.intl.miui.com 
+0.0.0.0 api.c.avazunativeads.com 
 0.0.0.0 api.d.xiaomi.com 
 0.0.0.0 api.hybrid.intl.xiaomi.com 
 0.0.0.0 api.pubnative.net 
@@ -48,6 +50,7 @@
 0.0.0.0 cdn.auditude.com 
 0.0.0.0 cdn.moengage.com 
 0.0.0.0 cdn.segment.com 
+0.0.0.0 cdn.tsyndicate.com 
 0.0.0.0 cdn.zarget.com 
 0.0.0.0 chuknu.sokrati.com 
 0.0.0.0 clockskew.alphonso.tv 
@@ -65,7 +68,6 @@
 0.0.0.0 events.startappservice.com 
 0.0.0.0 events3.adcolony.com 
 0.0.0.0 fc.yahoo.com 
-0.0.0.0 fcanr.tracking.miui.com 
 0.0.0.0 feedback.adrecover.com 
 0.0.0.0 feedback.uc.cn 
 0.0.0.0 flash.sec.intl.miui.com 
@@ -129,6 +131,7 @@
 0.0.0.0 static.clmbtech.com 
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com 
 0.0.0.0 t.appsflyer.com 
+0.0.0.0 t.newlimitedoffer.com 
 0.0.0.0 tag.hockeycurve.com 
 0.0.0.0 tags.news.com.au 
 0.0.0.0 telecommand.telemetry.microsoft.com 
@@ -149,6 +152,7 @@
 0.0.0.0 www.cpm20.com 
 0.0.0.0 www.googletagservices.com 
 0.0.0.0 www.hitcpm.com 
+0.0.0.0 www.performanceadexchange.com 
 0.0.0.0 www.urldelivery.com 
 0.0.0.0 www.www.cpm20.com 
 0.0.0.0 zee.cws.conviva.com 
