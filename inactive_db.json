@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/Testing.list": {
-        "1532022199": [
+        "1532108602": [
             "abc.cosiloon.com",
             "abd.cosiloon.com",
             "ads.adtekmedia.com",
@@ -37,7 +37,6 @@
             "l2.visiblemeasures.com",
             "login.dotomi.net",
             "new.api.ad.xiaomi.com",
-            "o_thus.ero-advertising.com",
             "onlineusagesurveys.com",
             "oz.ministryofads.com",
             "promo.buzzclicks.com",
@@ -109,6 +108,7 @@
             "zamora.axiatraders.com"
         ],
         "to_test": [
+            "o_thus.ero-advertising.com",
             "_thums.ero-advertising.com"
         ]
     }
