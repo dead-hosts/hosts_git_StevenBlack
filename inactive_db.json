@@ -43,9 +43,7 @@
             "mediaparade.net",
             "new.api.ad.xiaomi.com",
             "onlineusagesurveys.com",
-            "oz.ministryofads.com"
-        ],
-        "to_test": [
+            "oz.ministryofads.com",
             "promo.buzzclicks.com",
             "promo.enatimedia.com",
             "promo.kobenetwork.com",
@@ -112,7 +110,9 @@
             "www.tradersbrokers.com",
             "www.us-east1.serve.elixmedia.com",
             "www.wzrkt.com",
-            "zamora.axiatraders.com",
+            "zamora.axiatraders.com"
+        ],
+        "to_test": [
             "_thums.ero-advertising.com"
         ]
     }
