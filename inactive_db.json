@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/Testing.list": {
-        "1533837503": [
+        "1534010486": [
             "abc.cosiloon.com",
             "abd.cosiloon.com",
             "ads.adtekmedia.com",
@@ -29,10 +29,14 @@
             "click.elixmedia.com",
             "click.enatimedia.com",
             "click.grandonmedia.com",
+            "clickopon.com",
             "clickrtb-useast.kobenetwork.com",
             "com-notice.info",
             "cvent.axiatraders.com",
             "dasdada.fu.ck",
+            "deshmedia.com"
+        ],
+        "to_test": [
             "ext.privacyassistant.net",
             "external.stealthedeal.com",
             "l2.visiblemeasures.com",
@@ -106,9 +110,7 @@
             "www.tradersbrokers.com",
             "www.us-east1.serve.elixmedia.com",
             "www.wzrkt.com",
-            "zamora.axiatraders.com"
-        ],
-        "to_test": [
+            "zamora.axiatraders.com",
             "_thums.ero-advertising.com"
         ]
     }
