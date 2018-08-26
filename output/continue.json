@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/Testing.list": {
-        "down": 161,
+        "down": 0,
         "invalid": 0,
-        "tested": 865,
-        "up": 704
+        "tested": 0,
+        "up": 0
     }
 }
