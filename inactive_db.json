@@ -1,6 +1,13 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/Testing.list": {
-        "1536343688": [
+        "1536430095": [
+            "www.tradersbrokers.com",
+            "www.us-east1.serve.elixmedia.com",
+            "www.vdtrack.com",
+            "www.wzrkt.com",
+            "zamora.axiatraders.com"
+        ],
+        "to_test": [
             "_thums.ero-advertising.com",
             "abc.cosiloon.com",
             "abd.cosiloon.com",
@@ -160,13 +167,6 @@
             "www.sf-3.st.adtekmedia.com",
             "www.static.elixmedia.com",
             "www.support.apple.com-notice.info"
-        ],
-        "to_test": [
-            "www.tradersbrokers.com",
-            "www.us-east1.serve.elixmedia.com",
-            "www.vdtrack.com",
-            "www.wzrkt.com",
-            "zamora.axiatraders.com"
         ]
     }
 }
