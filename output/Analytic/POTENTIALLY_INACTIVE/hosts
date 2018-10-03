@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 24 Sep 18:09:16 UTC 2018 
+# Date of generation: Wed 03 Oct 18:10:20 UTC 2018 
 
 0.0.0.0 4436230.fls.doubleclick.net
 0.0.0.0 4448269.fls.doubleclick.net
@@ -29,10 +29,10 @@
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.snappea.com
 0.0.0.0 api.alphonso.tv
+0.0.0.0 api.b2c.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 api.d.xiaomi.com
-0.0.0.0 api.hybrid.intl.xiaomi.com
 0.0.0.0 api.pubnative.net
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.redshell.io
@@ -80,8 +80,8 @@
 0.0.0.0 feedback.adrecover.com
 0.0.0.0 feedback.uc.cn
 0.0.0.0 flash.sec.intl.miui.com
-0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gj.applog.uc.cn
+0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gj.track.uc.cn
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 globalapi.ad.xiaomi.com
@@ -115,15 +115,14 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 mt.rtmark.net
-0.0.0.0 mysterysnooper.com
 0.0.0.0 mywot.net
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 notification-browser.tools
 0.0.0.0 onlineapi.youappi.com
 0.0.0.0 optout.alphonso.tv
-0.0.0.0 pele.alphonso.tv
 0.0.0.0 performanceadexchange.com
+0.0.0.0 platform.bidgear.com
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 pl-v2.presage.io
 0.0.0.0 ppjs.alphonso.tv
@@ -166,11 +165,3 @@
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 www.cpm20.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 www.hitcpm.com
-0.0.0.0 www.performanceadexchange.com
-0.0.0.0 www.urldelivery.com
-0.0.0.0 www.www.cpm20.com
-0.0.0.0 zee.cws.conviva.com
-0.0.0.0 zeus.ad.intl.xiaomi.com
-0.0.0.0 zeus.ad.xiaomi.com
