@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/Testing.list": {
-        "1538850096": [
+        "1539022993": [
             "abc.cosiloon.com",
             "abd.cosiloon.com",
             "acr10.alphonso.tv",
@@ -81,8 +81,8 @@
             "click.elixmedia.com",
             "click.enatimedia.com",
             "click.grandonmedia.com",
-            "click-rtb-useast.kobenetwork.com",
             "clickrtb-useast.kobenetwork.com",
+            "click-rtb-useast.kobenetwork.com",
             "com-notice.info",
             "cvent.axiatraders.com",
             "darkpage.win",
@@ -91,14 +91,13 @@
             "donovan.alphonso.tv",
             "external.stealthedeal.com",
             "ext.privacyassistant.net",
-            "grandonmedia.com",
             "l2.visiblemeasures.com",
             "login.dotomi.net",
-            "mediabarterexchange.com",
-            "mediadirectx.com",
             "new.api.ad.xiaomi.com",
             "onlineusagesurveys.com",
             "oz.ministryofads.com",
+            "powertradeprofit.com",
+            "privacyassistant.net",
             "promo.buzzclicks.com",
             "promo.enatimedia.com",
             "promo.kobenetwork.com",
@@ -119,22 +118,17 @@
             "sf-3.st.adtekmedia.com",
             "ssp.ad.xiaomi.com",
             "static.elixmedia.com",
-            "stealthedeal.com",
             "support.apple.com-notice.info",
             "test.new.api.ad.xiaomi.com",
             "_thums.ero-advertising.com",
             "tracker.clickopon.com",
             "tracking.beginads.com",
-            "www.tradersbrokers.com",
-            "www.us-east1.serve.elixmedia.com",
-            "www.wzrkt.com",
-            "zamora.axiatraders.com"
-        ],
-        "to_test": [
             "uop.umeng.com",
             "us-east1.serve.elixmedia.com",
             "us-east1.serve.enatimedia.com",
-            "ustat.batmobi.net",
+            "ustat.batmobi.net"
+        ],
+        "to_test": [
             "virtual.thewhig.com",
             "www.ads2live.com",
             "www.adserver.ministryofads.com",
@@ -170,7 +164,11 @@
             "www.rotator.buzzclicks.com",
             "www.sf-3.st.adtekmedia.com",
             "www.static.elixmedia.com",
-            "www.support.apple.com-notice.info"
+            "www.support.apple.com-notice.info",
+            "www.tradersbrokers.com",
+            "www.us-east1.serve.elixmedia.com",
+            "www.wzrkt.com",
+            "zamora.axiatraders.com"
         ]
     }
 }
