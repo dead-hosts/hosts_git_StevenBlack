@@ -1,0 +1,439 @@
+{
+    "/home/travis/build/dead-hosts/hosts_git_StevenBlack/Testing.list": {
+        "30-day-change.com": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "adsflame.com": {
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
+        },
+        "adtekmedia.com": {
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
+        "adzerk.com": {
+            "epoch": "1747008000",
+            "expiration_date": "12-may-2025",
+            "state": "future"
+        },
+        "alliance4media.com": {
+            "epoch": "1547596800",
+            "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "amarktflow.com": {
+            "epoch": "1599782400",
+            "expiration_date": "11-sep-2020",
+            "state": "future"
+        },
+        "angiemktg.com": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "annualconsumersurvey.com": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "aoredi.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "app-measurement.com": {
+            "epoch": "1560902400",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
+        "arkonziv.com": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "beauty-tea.com": {
+            "epoch": "1558915200",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "best2017games.com": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "betpromo247.com": {
+            "epoch": "1545264000",
+            "expiration_date": "20-dec-2018",
+            "state": "future"
+        },
+        "bidgear.com": {
+            "epoch": "1598745600",
+            "expiration_date": "30-aug-2020",
+            "state": "future"
+        },
+        "bigsharkmedia.com": {
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "breaksurvey.com": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "buzzclicks.com": {
+            "epoch": "1544832000",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "camsoda.com": {
+            "epoch": "1745798400",
+            "expiration_date": "28-apr-2025",
+            "state": "future"
+        },
+        "canuck-method.com": {
+            "epoch": "1544227200",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "ceromobi.club": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "clickopon.com": {
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "consumerproductsusa.com": {
+            "epoch": "1564185600",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "cosiloon.com": {
+            "epoch": "1597881600",
+            "expiration_date": "20-aug-2020",
+            "state": "future"
+        },
+        "d-and-h.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "data-ero-advertising.com": {
+            "epoch": "1563062400",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
+        "deshmedia.com": {
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
+        },
+        "dobre-programy.pl": {
+            "epoch": "1564444800",
+            "expiration_date": "30-jul-2019",
+            "state": "future"
+        },
+        "dobreprogramy.pro": {
+            "epoch": "1559952000",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "elixmedia.com": {
+            "epoch": "1608768000",
+            "expiration_date": "24-dec-2020",
+            "state": "future"
+        },
+        "enatimedia.com": {
+            "epoch": "1577404800",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "fgoogle.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "gamblerush.com": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "grandonmedia.com": {
+            "epoch": "1544918400",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "hrtya.com": {
+            "epoch": "1549670400",
+            "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "imysurvey.com": {
+            "epoch": "1549152000",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
+        "indiaonclick.com": {
+            "epoch": "1544918400",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "jackbootedroom.com": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "k5market.com": {
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "kuikdelivery.com": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "largeloot.com": {
+            "epoch": "1545177600",
+            "expiration_date": "19-dec-2018",
+            "state": "future"
+        },
+        "lecap-services.fr": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "matchmyip.com": {
+            "epoch": "1543622400",
+            "expiration_date": "01-dec-2018",
+            "state": "future"
+        },
+        "mediabarterexchange.com": {
+            "epoch": "1549497600",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "mediadirectx.com": {
+            "epoch": "1612051200",
+            "expiration_date": "31-jan-2021",
+            "state": "future"
+        },
+        "mediaparade.net": {
+            "epoch": "1544572800",
+            "expiration_date": "12-dec-2018",
+            "state": "future"
+        },
+        "myfreecams.com": {
+            "epoch": "1552953600",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "mysterysnooper.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "mywot.com": {
+            "epoch": "1565740800",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
+        },
+        "mywot.net": {
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
+        },
+        "newlimitedoffer.com": {
+            "epoch": "1558051200",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "nikitinskysport.ru": {
+            "epoch": "1551830400",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "notification-browser.tools": {
+            "epoch": "1559606400",
+            "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "performanceadexchange.com": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
+            "state": "future"
+        },
+        "plaimedia.com": {
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "powertradeprofit.com": {
+            "epoch": "1544832000",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "privacyassistant.net": {
+            "epoch": "1542758400",
+            "expiration_date": "21-nov-2018",
+            "state": "future"
+        },
+        "pushedwebnews.com": {
+            "epoch": "1562889600",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "pussysaga.com": {
+            "epoch": "1702166400",
+            "expiration_date": "10-dec-2023",
+            "state": "future"
+        },
+        "quickcash-system.com": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "redshell.io": {
+            "epoch": "1553644800",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
+        "rereddit.com": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "roboinside.me": {
+            "epoch": "1563840000",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "rollbar.com": {
+            "epoch": "1564963200",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "security-check-551.com": {
+            "epoch": "1546819200",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "sex-and-flirt.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "sionicmedia.com": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "soperson.com": {
+            "epoch": "1639872000",
+            "expiration_date": "19-dec-2021",
+            "state": "future"
+        },
+        "sportsinteraction.com": {
+            "epoch": "1662595200",
+            "expiration_date": "08-sep-2022",
+            "state": "future"
+        },
+        "stealthedeal.com": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "supload.com": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "talk99.cn": {
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
+        },
+        "torrenty-org.pl": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "tradersbrokers.com": {
+            "epoch": "1607731200",
+            "expiration_date": "12-dec-2020",
+            "state": "future"
+        },
+        "trafforsrv.com": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
+        "treasuredata.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "tripan.me": {
+            "epoch": "1569542400",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "ttwitter.com": {
+            "epoch": "1558051200",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "tvpage.com": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "twitter.cm": {
+            "epoch": "1566950400",
+            "expiration_date": "28-aug-2019",
+            "state": "future"
+        },
+        "urldelivery.com": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "vamsoupowoa.com": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "vdtrack.com": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "weconfirmyou.com": {
+            "epoch": "1546819200",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "wzrkt.com": {
+            "epoch": "1598659200",
+            "expiration_date": "29-aug-2020",
+            "state": "future"
+        },
+        "zarget.com": {
+            "epoch": "1693526400",
+            "expiration_date": "01-sep-2023",
+            "state": "future"
+        },
+        "zekiatagur.com": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        }
+    }
+}
