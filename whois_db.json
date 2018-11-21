@@ -283,7 +283,7 @@
         "privacyassistant.net": {
             "epoch": "1542758400",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "pushedwebnews.com": {
             "epoch": "1562889600",
@@ -358,6 +358,11 @@
         "talk99.cn": {
             "epoch": "1579219200",
             "expiration_date": "17-jan-2020",
+            "state": "future"
+        },
+        "theannoyingsite.com": {
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "torrenty-org.pl": {
