@@ -160,6 +160,11 @@
             "expiration_date": "29-aug-2019",
             "state": "future"
         },
+        "freeadult.games": {
+            "epoch": "1576972800",
+            "expiration_date": "22-dec-2019",
+            "state": "future"
+        },
         "gamblerush.com": {
             "epoch": "1555632000",
             "expiration_date": "19-apr-2019",
@@ -211,8 +216,8 @@
             "state": "future"
         },
         "matchmyip.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "mediabarterexchange.com": {
