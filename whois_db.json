@@ -96,9 +96,9 @@
             "state": "future"
         },
         "canuck-method.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
-            "state": "past"
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
         },
         "ceromobi.club": {
             "epoch": "1545091200",
@@ -168,6 +168,11 @@
         "gamblerush.com": {
             "epoch": "1555632000",
             "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "goooooooooogle.com": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
             "state": "future"
         },
         "grandonmedia.com": {
