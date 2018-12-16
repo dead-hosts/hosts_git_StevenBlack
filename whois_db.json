@@ -86,8 +86,8 @@
             "state": "future"
         },
         "buzzclicks.com": {
-            "epoch": "1544832000",
-            "expiration_date": "15-dec-2018",
+            "epoch": "1576368000",
+            "expiration_date": "15-dec-2019",
             "state": "future"
         },
         "camsoda.com": {
@@ -178,7 +178,7 @@
         "grandonmedia.com": {
             "epoch": "1544918400",
             "expiration_date": "16-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "hrtya.com": {
             "epoch": "1549670400",
@@ -193,7 +193,7 @@
         "indiaonclick.com": {
             "epoch": "1544918400",
             "expiration_date": "16-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "jackbootedroom.com": {
             "epoch": "1565136000",
@@ -286,8 +286,8 @@
             "state": "future"
         },
         "powertradeprofit.com": {
-            "epoch": "1544832000",
-            "expiration_date": "15-dec-2018",
+            "epoch": "1576368000",
+            "expiration_date": "15-dec-2019",
             "state": "future"
         },
         "privacyassistant.net": {
