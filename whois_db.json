@@ -66,8 +66,8 @@
             "state": "future"
         },
         "betpromo247.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "bidgear.com": {
@@ -211,9 +211,9 @@
             "state": "future"
         },
         "largeloot.com": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
-            "state": "past"
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
         },
         "lecap-services.fr": {
             "epoch": "1564704000",
