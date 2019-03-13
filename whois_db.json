@@ -56,9 +56,9 @@
             "state": "future"
         },
         "arkonziv.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
-            "state": "past"
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
         },
         "beauty-tea.com": {
             "epoch": "1558915200",
@@ -361,8 +361,8 @@
             "state": "future"
         },
         "rereddit.com": {
-            "epoch": "1552435200",
-            "expiration_date": "13-mar-2019",
+            "epoch": "1584057600",
+            "expiration_date": "13-mar-2020",
             "state": "future"
         },
         "roboinside.me": {
