@@ -155,6 +155,11 @@
             "expiration_date": "30-jul-2019",
             "state": "future"
         },
+        "dobre-programy.xyz": {
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
         "dobreprogramy.pro": {
             "epoch": "1559952000",
             "expiration_date": "08-jun-2019",
@@ -173,6 +178,16 @@
         "fgoogle.com": {
             "epoch": "1567036800",
             "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "fortnight.space": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "fortnitechat.site": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
             "state": "future"
         },
         "freeadult.games": {
@@ -203,6 +218,11 @@
         "grandonmedia.com": {
             "epoch": "1576454400",
             "expiration_date": "16-dec-2019",
+            "state": "future"
+        },
+        "greatmacsoft.tech": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
             "state": "future"
         },
         "hrtya.com": {
@@ -240,6 +260,11 @@
             "expiration_date": "07-aug-2019",
             "state": "future"
         },
+        "joinmy.site": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
         "k5market.com": {
             "epoch": "1576713600",
             "expiration_date": "19-dec-2019",
@@ -264,6 +289,11 @@
             "epoch": "1564704000",
             "expiration_date": "02-aug-2019",
             "state": "future"
+        },
+        "letitbefaster.website": {
+            "epoch": "1550102400",
+            "expiration_date": "14-feb-2019",
+            "state": "past"
         },
         "matchmyip.com": {
             "epoch": "1575158400",
