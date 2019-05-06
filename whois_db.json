@@ -125,6 +125,11 @@
             "expiration_date": "29-oct-2019",
             "state": "future"
         },
+        "com-fasting.live": {
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
+            "state": "future"
+        },
         "com-notice.info": {
             "epoch": "1587945600",
             "expiration_date": "27-apr-2020",
