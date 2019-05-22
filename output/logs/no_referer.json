@@ -1,214 +1,134 @@
 {
-    "1558470258.382908": {
-        "domain": "acr15.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470258.550657": {
-        "domain": "ceromobi.club",
-        "extension": "club"
-    },
-    "1558470258.5655107": {
-        "domain": "zico.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470259.0710697": {
-        "domain": "acr51.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470259.0927594": {
-        "domain": "bale.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470270.9187255": {
-        "domain": "acr13.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470270.974293": {
-        "domain": "acr55.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470270.9990292": {
-        "domain": "acr8.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470271.0020566": {
-        "domain": "pele.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470271.0496645": {
-        "domain": "acr39.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470271.1475081": {
-        "domain": "prov.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470271.2232666": {
-        "domain": "dimaria.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470271.3451617": {
-        "domain": "assets.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470271.395282": {
-        "domain": "bebe.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470271.499949": {
-        "domain": "web2.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470275.3211422": {
-        "domain": "acr16.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470275.409027": {
-        "domain": "acr18.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470275.439873": {
-        "domain": "fortnight.space",
-        "extension": "space"
-    },
-    "1558470275.6258113": {
-        "domain": "in-viacom18.videoplaza.tv",
-        "extension": "tv"
-    },
-    "1558470275.666341": {
-        "domain": "s4udash2.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470275.8007982": {
-        "domain": "tn.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470275.8836956": {
-        "domain": "best.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470279.0290613": {
-        "domain": "acr6.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470279.5518482": {
-        "domain": "degea.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470279.9245663": {
-        "domain": "sterling.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470279.950818": {
-        "domain": "acr23.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470280.018785": {
-        "domain": "promotion.com-rewards.club",
-        "extension": "club"
-    },
-    "1558470305.095496": {
-        "domain": "ads.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470305.1083004": {
-        "domain": "clockskew.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470305.707334": {
-        "domain": "socrates.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470315.8353517": {
-        "domain": "optout.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470315.8754377": {
-        "domain": "yashin.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470315.9991207": {
-        "domain": "files.ctnet4.space",
-        "extension": "space"
-    },
-    "1558470318.1202111": {
-        "domain": "dashboards.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470318.2516057": {
-        "domain": "acr20.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470318.7684066": {
-        "domain": "acr9.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470318.9195042": {
-        "domain": "www2.myishop.co.uk",
-        "extension": "uk"
-    },
-    "1558470322.1505315": {
-        "domain": "in-starlive.videoplaza.tv",
-        "extension": "tv"
-    },
-    "1558470322.2225792": {
-        "domain": "acr43.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470322.314634": {
-        "domain": "demo.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470322.3355086": {
-        "domain": "acr19.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470322.3815117": {
-        "domain": "ads.proc.cc",
-        "extension": "cc"
-    },
-    "1558470322.439028": {
-        "domain": "acr11.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470322.5351286": {
-        "domain": "acr32.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470322.5879812": {
-        "domain": "acr31.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470322.595078": {
-        "domain": "acrdb.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470322.654532": {
-        "domain": "acr14.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470322.682119": {
+    "1558556803.2522311": {
         "domain": "acr53.alphonso.tv",
         "extension": "tv"
     },
-    "1558470322.782093": {
+    "1558556803.2526147": {
+        "domain": "acr54.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556803.2656503": {
+        "domain": "acr56.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556803.2890117": {
+        "domain": "acr55.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556803.2969325": {
+        "domain": "acr59.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556803.3090813": {
+        "domain": "acr58.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556803.3228421": {
+        "domain": "acr7.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556803.3493588": {
+        "domain": "acr6.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556803.3539": {
+        "domain": "acr8.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556803.4019945": {
+        "domain": "acr9.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556804.1008277": {
+        "domain": "bale.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556804.9040625": {
+        "domain": "bebe.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556804.925622": {
+        "domain": "beckham.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556804.933183": {
+        "domain": "best.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556804.9770606": {
+        "domain": "blog.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556804.9826348": {
+        "domain": "ceromobi.club",
+        "extension": "club"
+    },
+    "1558556805.0791388": {
+        "domain": "cruyff.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556805.1584737": {
+        "domain": "dashboards.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556805.2381852": {
+        "domain": "donovan.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556805.3396242": {
+        "domain": "honolulu.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556805.4703932": {
+        "domain": "mahrez.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556805.6165252": {
+        "domain": "oscar.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556805.6661496": {
         "domain": "ozil.alphonso.tv",
         "extension": "tv"
     },
-    "1558470326.3370602": {
-        "domain": "acr45.alphonso.tv",
+    "1558556805.695438": {
+        "domain": "pele.alphonso.tv",
         "extension": "tv"
     },
-    "1558470326.5645673": {
-        "domain": "acr29.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470326.9998407": {
-        "domain": "acr4.alphonso.tv",
-        "extension": "tv"
-    },
-    "1558470331.735102": {
+    "1558556805.8341923": {
         "domain": "pp.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556808.3013227": {
+        "domain": "s4udash2.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556808.3569074": {
+        "domain": "silva.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556808.3804643": {
+        "domain": "socrates.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556808.4409177": {
+        "domain": "sterling.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556808.7061064": {
+        "domain": "vanpersie.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556809.003017": {
+        "domain": "www.api.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556810.1405792": {
+        "domain": "yashin.alphonso.tv",
+        "extension": "tv"
+    },
+    "1558556810.1614788": {
+        "domain": "zico.alphonso.tv",
         "extension": "tv"
     }
 }
