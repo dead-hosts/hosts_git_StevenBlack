@@ -1,4 +1,9 @@
 {
+    "0byv9mgbn0.com": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
     "2no.co": {
         "epoch": 1590278400,
         "expiration_date": "24-may-2020",
@@ -59,9 +64,19 @@
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
+    "arcartall.club": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
     "arkonziv.com": {
         "epoch": "1583884800",
         "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
+    "armantark.com": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
         "state": "future"
     },
     "beauty-tea.com": {
@@ -235,9 +250,9 @@
         "state": "future"
     },
     "greatmacsoft.tech": {
-        "epoch": "1564704000",
+        "epoch": 1564704000,
         "expiration_date": "02-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "hrtya.com": {
         "epoch": "1581206400",
@@ -282,6 +297,11 @@
     "k5market.com": {
         "epoch": "1576713600",
         "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
+    "kt5850pjz0.com": {
+        "epoch": 1577491200,
+        "expiration_date": "28-dec-2019",
         "state": "future"
     },
     "kuikdelivery.com": {
@@ -339,9 +359,14 @@
         "expiration_date": "19-mar-2021",
         "state": "future"
     },
+    "myornamenti.com": {
+        "epoch": 1583971200,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "mysterysnooper.com": {
-        "epoch": "1569196800",
-        "expiration_date": "23-sep-2019",
+        "epoch": 1576108800,
+        "expiration_date": "12-dec-2019",
         "state": "future"
     },
     "mywot.com": {
@@ -402,6 +427,11 @@
     "pussysaga.com": {
         "epoch": "1702166400",
         "expiration_date": "10-dec-2023",
+        "state": "future"
+    },
+    "queensiteforapp.com": {
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "quickcash-system.com": {
