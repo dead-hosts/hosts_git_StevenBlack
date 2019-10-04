@@ -240,7 +240,6 @@
         "1569619793": {},
         "1569792682": {},
         "1569965750": {
-            "new.api.ad.xiaomi.com": "INACTIVE",
             "notification-browser.tools": "INACTIVE",
             "pixel.nc0.co": "INACTIVE",
             "quickmessage.us": "INACTIVE",
@@ -345,7 +344,8 @@
             "greatmacsoft.tech": "INACTIVE",
             "icloud.com-locations.in": "INACTIVE",
             "kushat.roboinside.me": "INACTIVE",
-            "login.dotomi.net": "INACTIVE"
+            "login.dotomi.net": "INACTIVE",
+            "new.api.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
