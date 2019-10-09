@@ -230,15 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1568475558": {},
-        "1568582647": {},
-        "1568755493": {},
-        "1568928313": {},
-        "1569102022": {},
-        "1569274099": {},
-        "1569447322": {},
-        "1569619793": {},
-        "1569792682": {},
         "1569965750": {
             "notification-browser.tools": "INACTIVE",
             "pixel.nc0.co": "INACTIVE",
@@ -346,6 +337,68 @@
             "kushat.roboinside.me": "INACTIVE",
             "login.dotomi.net": "INACTIVE",
             "new.api.ad.xiaomi.com": "INACTIVE"
+        },
+        "1570662740": {
+            "neymar.alphonso.tv": "INACTIVE",
+            "ns.zdbb.net": "INACTIVE"
+        },
+        "1570662741": {
+            "onlineapi.youappi.com": "INACTIVE",
+            "opps.taboola.com": "INACTIVE",
+            "orion.iad.appboy.com": "INACTIVE"
+        },
+        "1570662748": {
+            "pixel.realclever.com": "INACTIVE"
+        },
+        "1570662749": {
+            "ploy.batmobi.net": "INACTIVE"
+        },
+        "1570662750": {
+            "profile.localytics.com": "INACTIVE"
+        },
+        "1570662752": {
+            "prov.alphonso.tv": "INACTIVE"
+        },
+        "1570662881": {
+            "proxy.alphonso.tv": "INACTIVE"
+        },
+        "1570662903": {
+            "pub.grandonmedia.com": "INACTIVE"
+        },
+        "1570662905": {
+            "reports.crashlytics.com": "INACTIVE",
+            "req.startappservice.com": "INACTIVE"
+        },
+        "1570662907": {
+            "rt.applovin.com": "INACTIVE"
+        },
+        "1570662910": {
+            "sdkconfig.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1570662911": {
+            "sdkconfig.ad.xiaomi.com": "INACTIVE"
+        },
+        "1570662913": {
+            "sdklogs.avocarrot.com": "INACTIVE",
+            "sdktm.w.inmobi.com": "INACTIVE"
+        },
+        "1570663105": {
+            "service.face2trade.com": "INACTIVE",
+            "service.videoplaza.tv": "INACTIVE",
+            "settings.crashlytics.com": "INACTIVE"
+        },
+        "1570663108": {
+            "sgp.o2o.api.xiaomi.com": "INACTIVE"
+        },
+        "1570663109": {
+            "smetrics.bestbuy.com": "INACTIVE"
+        },
+        "1570663244": {
+            "sqm.telemetry.microsoft.com": "INACTIVE",
+            "srv.pixel.parsely.com": "INACTIVE"
+        },
+        "1570663375": {
+            "ssp.face2trade.com": "INACTIVE"
         }
     }
 }
