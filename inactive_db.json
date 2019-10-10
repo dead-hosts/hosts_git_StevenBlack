@@ -744,6 +744,47 @@
         },
         "1570702755": {
             "watson.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570706725": {
+            "geofence.sys.miui.com": "INACTIVE"
+        },
+        "1570706923": {
+            "web2.alphonso.tv": "INACTIVE"
+        },
+        "1570707054": {
+            "web.vortex.data.microsoft.com": "INACTIVE",
+            "wf.taboola.com": "INACTIVE"
+        },
+        "1570707055": {
+            "woodpecker.uc.cn": "INACTIVE"
+        },
+        "1570707074": {
+            "www.ads.grandonmedia.com": "INACTIVE"
+        },
+        "1570707075": {
+            "www.ads.mp.mydas.mobi": "INACTIVE"
+        },
+        "1570707088": {
+            "www.adv.grandonmedia.com": "INACTIVE"
+        },
+        "1570707090": {
+            "www.analytics-digit-in.cdn.ampproject.org": "INACTIVE"
+        },
+        "1570707112": {
+            "www.api.grandonmedia.com": "INACTIVE",
+            "www.applicationunificationcontroller.com": "INACTIVE"
+        },
+        "1570707124": {
+            "www.app.storage.yunvm.com": "INACTIVE"
+        },
+        "1570707152": {
+            "www.bid.grandonmedia.com": "INACTIVE"
+        },
+        "1570707168": {
+            "www.click.grandonmedia.com": "INACTIVE"
+        },
+        "1570707169": {
+            "www.cws.conviva.com": "INACTIVE"
         }
     }
 }
