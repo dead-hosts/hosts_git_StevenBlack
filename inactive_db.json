@@ -466,9 +466,6 @@
         "1570685870": {
             "cdn.ad.xiaomi.com": "INACTIVE"
         },
-        "1570686026": {
-            "demo.alphonso.tv": "INACTIVE"
-        },
         "1570686028": {
             "device-api.urbanairship.com": "INACTIVE",
             "dimaria.alphonso.tv": "INACTIVE"
@@ -509,7 +506,6 @@
             "globalapi.ad.xiaomi.com": "INACTIVE"
         },
         "1570690214": {
-            "graph.accountkit.com": "INACTIVE",
             "gtsdk.batmobi.net": "INACTIVE",
             "gum.criteo.com": "INACTIVE",
             "gurgle.zdbb.net": "INACTIVE"
@@ -527,9 +523,6 @@
         "1570690219": {
             "imprhkmp.taboola.com": "INACTIVE",
             "imprlatbmp.taboola.com": "INACTIVE"
-        },
-        "1570690220": {
-            "imp.startappservice.com": "INACTIVE"
         },
         "1570690221": {
             "init.startappservice.com": "INACTIVE"
@@ -599,9 +592,6 @@
             "t.appsflyer.com": "INACTIVE",
             "telecommand.telemetry.microsoft.com": "INACTIVE"
         },
-        "1570694460": {
-            "telemetry.layer.com": "INACTIVE"
-        },
         "1570694462": {
             "test.ad.xiaomi.com": "INACTIVE"
         },
@@ -612,7 +602,6 @@
             "tracking.intl.miui.com": "INACTIVE"
         },
         "1570698395": {
-            "track.tenjin.io": "INACTIVE",
             "tracking.miui.com": "INACTIVE"
         },
         "1570698528": {
@@ -913,6 +902,26 @@
         "1570710786": {
             "www.icloud.com-locations.in": "INACTIVE",
             "www.test.e.ad.xiaomi.com": "INACTIVE"
+        },
+        "1570792427": {
+            "analytics.ext.go-tellm.com": "INACTIVE"
+        },
+        "1570792540": {
+            "banne2s.ero-advertising.com": "INACTIVE"
+        },
+        "1570792817": {
+            "www.parentelement.tk": "INACTIVE"
+        },
+        "1570792847": {
+            "graph.accountkit.com": "INACTIVE",
+            "track.tenjin.io": "INACTIVE"
+        },
+        "1570792978": {
+            "imp.startappservice.com": "INACTIVE",
+            "telemetry.layer.com": "INACTIVE"
+        },
+        "1570793109": {
+            "demo.alphonso.tv": "INACTIVE"
         }
     }
 }
