@@ -230,9 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1570662740": {
-            "ns.zdbb.net": "INACTIVE"
-        },
         "1570662749": {
             "ploy.batmobi.net": "INACTIVE"
         },
@@ -260,12 +257,6 @@
         "1570667481": {
             "ads30.adcolony.com": "INACTIVE"
         },
-        "1570667614": {
-            "adservice.google.nl": "INACTIVE"
-        },
-        "1570667636": {
-            "ads.grandonmedia.com": "INACTIVE"
-        },
         "1570667834": {
             "analytics.lk.api.ditto.com": "INACTIVE"
         },
@@ -288,14 +279,7 @@
             "api.taplytics.com": "INACTIVE",
             "api.tvpage.com": "INACTIVE"
         },
-        "1570672466": {
-            "bwlkup.alphonso.tv": "INACTIVE"
-        },
-        "1570672617": {
-            "convhkmp.taboola.com": "INACTIVE"
-        },
         "1570672619": {
-            "c.webengage.com": "INACTIVE",
             "cws.conviva.com": "INACTIVE"
         },
         "1570672623": {
@@ -305,29 +289,16 @@
             "events.appsflyer.com": "INACTIVE"
         },
         "1570690189": {
-            "gj.applog.uc.cn": "INACTIVE",
-            "gjapplog.uc.cn": "INACTIVE"
+            "gj.applog.uc.cn": "INACTIVE"
         },
         "1570690214": {
             "gurgle.zdbb.net": "INACTIVE"
-        },
-        "1570690215": {
-            "hosted.stats.com.edgesuite.net": "INACTIVE"
-        },
-        "1570690219": {
-            "imprhkmp.taboola.com": "INACTIVE"
-        },
-        "1570690222": {
-            "in-starlive-preroll.videoplaza.tv": "INACTIVE"
         },
         "1570690359": {
             "js34dc10.gamooga.com": "INACTIVE"
         },
         "1570690372": {
             "logs.gaana.com": "INACTIVE"
-        },
-        "1570694329": {
-            "telecommand.telemetry.microsoft.com": "INACTIVE"
         },
         "1570698659": {
             "v10c.events.data.microsoft.com": "INACTIVE"
@@ -338,29 +309,13 @@
         "1570702624": {
             "vortex-win.data.microsoft.com": "INACTIVE"
         },
-        "1570702755": {
-            "watson.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1570706923": {
-            "web2.alphonso.tv": "INACTIVE"
-        },
         "1570707112": {
-            "www.api.grandonmedia.com": "INACTIVE",
             "www.applicationunificationcontroller.com": "INACTIVE"
-        },
-        "1570707169": {
-            "www.cws.conviva.com": "INACTIVE"
-        },
-        "1570710618": {
-            "www.googletagmanager.com": "INACTIVE",
-            "www.googletagservices.com": "INACTIVE"
         },
         "1570710631": {
             "www.hotstar.pubnub.net": "INACTIVE"
         },
         "1570710648": {
-            "www.in-starlive-preroll.videoplaza.tv": "INACTIVE",
-            "www.in-starlive.videoplaza.tv": "INACTIVE",
             "www.in-viacom18.videoplaza.tv": "INACTIVE"
         },
         "1570710727": {
@@ -373,8 +328,7 @@
             "www.api.admob.xiaomi.com": "INACTIVE"
         },
         "1570710730": {
-            "apps3.cointraffic.io": "INACTIVE",
-            "www.analytics.publitas.com": "INACTIVE"
+            "apps3.cointraffic.io": "INACTIVE"
         },
         "1570710733": {
             "www.datacollect.vmall.com": "INACTIVE"
@@ -383,7 +337,6 @@
             "new.api.ad.xiaomi.com": "INACTIVE"
         },
         "1570710735": {
-            "apple.com-notice.info": "INACTIVE",
             "www.roboinside.me": "INACTIVE",
             "xn--srahah-bua.eu": "INACTIVE"
         },
@@ -394,11 +347,7 @@
             "greatmacsoft.tech": "INACTIVE"
         },
         "1570710766": {
-            "4436230.fls.doubleclick.net": "INACTIVE",
             "www.geofence.sys.miui.com": "INACTIVE"
-        },
-        "1570710770": {
-            "www.bi-collector.oneapm.com": "INACTIVE"
         },
         "1570710771": {
             "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
@@ -413,10 +362,7 @@
             "www.apple.com-notice.info": "INACTIVE"
         },
         "1570710783": {
-            "watches-my.stream": "INACTIVE",
             "www.blog.roboinside.me": "INACTIVE",
-            "www.kushat.roboinside.me": "INACTIVE",
-            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
             "www.vidutils.taboola.com": "INACTIVE"
         },
         "1570710784": {
@@ -876,6 +822,52 @@
         },
         "1570824643": {
             "degea.alphonso.tv": "INACTIVE"
+        },
+        "1570833933": {
+            "c.webengage.com": "INACTIVE"
+        },
+        "1570833934": {
+            "bwlkup.alphonso.tv": "INACTIVE",
+            "imprhkmp.taboola.com": "INACTIVE",
+            "www.in-starlive-preroll.videoplaza.tv": "INACTIVE"
+        },
+        "1570833935": {
+            "www.api.grandonmedia.com": "INACTIVE"
+        },
+        "1570833936": {
+            "convhkmp.taboola.com": "INACTIVE",
+            "www.googletagservices.com": "INACTIVE",
+            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1570833937": {
+            "adservice.google.nl": "INACTIVE",
+            "apple.com-notice.info": "INACTIVE",
+            "hosted.stats.com.edgesuite.net": "INACTIVE",
+            "in-starlive-preroll.videoplaza.tv": "INACTIVE",
+            "www.analytics.publitas.com": "INACTIVE",
+            "www.cws.conviva.com": "INACTIVE",
+            "www.in-starlive.videoplaza.tv": "INACTIVE"
+        },
+        "1570833938": {
+            "ads.grandonmedia.com": "INACTIVE",
+            "www.googletagmanager.com": "INACTIVE"
+        },
+        "1570833939": {
+            "ns.zdbb.net": "INACTIVE",
+            "telecommand.telemetry.microsoft.com": "INACTIVE",
+            "www.bi-collector.oneapm.com": "INACTIVE",
+            "www.kushat.roboinside.me": "INACTIVE"
+        },
+        "1570833940": {
+            "gjapplog.uc.cn": "INACTIVE",
+            "watches-my.stream": "INACTIVE"
+        },
+        "1570834069": {
+            "4436230.fls.doubleclick.net": "INACTIVE",
+            "watson.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570834200": {
+            "web2.alphonso.tv": "INACTIVE"
         }
     }
 }
