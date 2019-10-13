@@ -319,8 +319,7 @@
             "service.videoplaza.tv": "INACTIVE"
         },
         "1570811054": {
-            "adservice.google.com.vn": "INACTIVE",
-            "match.taboola.com": "INACTIVE"
+            "adservice.google.com.vn": "INACTIVE"
         },
         "1570811055": {
             "convlatbmp.taboola.com": "INACTIVE"
@@ -362,9 +361,6 @@
         },
         "1570815429": {
             "castoola.tv.lan": "INVALID"
-        },
-        "1570815559": {
-            "api.userstyles.org": "INACTIVE"
         },
         "1570815690": {
             "ads5.truecaller.com": "INACTIVE"
@@ -435,9 +431,6 @@
             "ns.zdbb.net": "INACTIVE",
             "www.bi-collector.oneapm.com": "INACTIVE"
         },
-        "1570833940": {
-            "gjapplog.uc.cn": "INACTIVE"
-        },
         "1570834200": {
             "web2.alphonso.tv": "INACTIVE"
         },
@@ -470,15 +463,9 @@
         "1570838046": {
             "www.api.collect.data.intl.miui.com": "INACTIVE"
         },
-        "1570838176": {
-            "api.admob.xiaomi.com": "INACTIVE"
-        },
         "1570838310": {
             "prov.alphonso.tv": "INACTIVE",
             "www.geofence.sys.miui.com": "INACTIVE"
-        },
-        "1570838441": {
-            "www.opps.taboola.com": "INACTIVE"
         },
         "1570965327": {
             "www.sdkconfig.ad.xiaomi.com": "INACTIVE"
@@ -888,6 +875,17 @@
         },
         "1570996324": {
             "telemetry.layer.com": "INACTIVE"
+        },
+        "1571000002": {
+            "match.taboola.com": "INACTIVE",
+            "www.opps.taboola.com": "INACTIVE"
+        },
+        "1571000133": {
+            "api.admob.xiaomi.com": "INACTIVE",
+            "gjapplog.uc.cn": "INACTIVE"
+        },
+        "1571000263": {
+            "api.userstyles.org": "INACTIVE"
         }
     }
 }
