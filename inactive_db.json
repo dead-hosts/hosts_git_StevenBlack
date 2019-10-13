@@ -291,7 +291,6 @@
         },
         "1570802165": {
             "15.taboola.com": "INACTIVE",
-            "www.in-star.videoplaza.tv": "INACTIVE",
             "www.superlogout.github.io": "INACTIVE"
         },
         "1570802167": {
@@ -309,9 +308,6 @@
         },
         "1570806498": {
             "www.jackbootedroom.com": "INACTIVE"
-        },
-        "1570806500": {
-            "ma1310-r.analytics.edgekey.net": "INACTIVE"
         },
         "1570806631": {
             "tags.news.com.au": "INACTIVE"
@@ -359,9 +355,6 @@
         },
         "1570811062": {
             "www.notification-browser.tools": "INACTIVE"
-        },
-        "1570811193": {
-            "dsp.face2trade.com": "INACTIVE"
         },
         "1570811194": {
             "logx.optimizely.com": "INACTIVE",
@@ -411,9 +404,6 @@
             "analytics.ff.avast.com": "INACTIVE",
             "tracking.i2w.io": "INACTIVE"
         },
-        "1570820233": {
-            "support.apple.com-notice.info": "INACTIVE"
-        },
         "1570820364": {
             "www.4448269.fls.doubleclick.net": "INACTIVE"
         },
@@ -426,9 +416,6 @@
         },
         "1570820367": {
             "analytics.bitrix.info": "INACTIVE"
-        },
-        "1570820497": {
-            "exchange.face2trade.com": "INACTIVE"
         },
         "1570824360": {
             "www.api.ad.snappea.com": "INACTIVE"
@@ -460,8 +447,7 @@
             "www.api.sec.intl.miui.com": "INACTIVE"
         },
         "1570824508": {
-            "woodpecker.uc.cn": "INACTIVE",
-            "www.cc.sys.miui.com": "INACTIVE"
+            "woodpecker.uc.cn": "INACTIVE"
         },
         "1570824510": {
             "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
@@ -888,6 +874,18 @@
         },
         "1570987821": {
             "proxy.alphonso.tv": "INACTIVE"
+        },
+        "1570991955": {
+            "ma1310-r.analytics.edgekey.net": "INACTIVE",
+            "www.in-star.videoplaza.tv": "INACTIVE"
+        },
+        "1570992085": {
+            "dsp.face2trade.com": "INACTIVE",
+            "support.apple.com-notice.info": "INACTIVE",
+            "www.cc.sys.miui.com": "INACTIVE"
+        },
+        "1570992216": {
+            "exchange.face2trade.com": "INACTIVE"
         }
     }
 }
