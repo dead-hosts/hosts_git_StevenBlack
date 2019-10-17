@@ -234,9 +234,6 @@
             "smetrics.bestbuy.com": "INACTIVE",
             "test.ad.xiaomi.com": "INACTIVE"
         },
-        "1570974669": {
-            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE"
-        },
         "1570978325": {
             "www.test.e.ad.xiaomi.com": "INACTIVE"
         },
@@ -255,26 +252,14 @@
         "1570996193": {
             "tracking.i2w.io": "INACTIVE"
         },
-        "1571003974": {
-            "www.tracking.intl.miui.com": "INACTIVE"
-        },
         "1571003984": {
             "www.cws.conviva.com": "INACTIVE"
         },
         "1571003986": {
             "www.api.ad.intl.xiaomi.com": "INACTIVE"
         },
-        "1571004152": {
-            "sdklogs.avocarrot.com": "INACTIVE"
-        },
         "1571004165": {
             "rtblbtr.alphonso.tv": "INACTIVE"
-        },
-        "1571004300": {
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
-        },
-        "1571140015": {
-            "bid.grandonmedia.com": "INACTIVE"
         },
         "1571140016": {
             "www.sebder.roboinside.me": "INACTIVE"
@@ -288,9 +273,6 @@
         "1571140286": {
             "www.api.admob.xiaomi.com": "INACTIVE"
         },
-        "1571144620": {
-            "parentelement.tk": "INACTIVE"
-        },
         "1571149308": {
             "api.alphonso.tv": "INACTIVE"
         },
@@ -299,12 +281,6 @@
         },
         "1571153320": {
             "api.b2c.com": "INACTIVE"
-        },
-        "1571153466": {
-            "www.api.brs.intl.miui.com": "INACTIVE"
-        },
-        "1571156764": {
-            "login.dotomi.net": "INACTIVE"
         },
         "1571156766": {
             "www.api.ad.snappea.com": "INACTIVE",
@@ -851,6 +827,20 @@
         },
         "1571314201": {
             "watson.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1571317951": {
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
+        },
+        "1571318025": {
+            "login.dotomi.net": "INACTIVE",
+            "www.api.brs.intl.miui.com": "INACTIVE",
+            "www.tracking.intl.miui.com": "INACTIVE"
+        },
+        "1571318026": {
+            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1571318156": {
+            "sdklogs.avocarrot.com": "INACTIVE"
         }
     }
 }
