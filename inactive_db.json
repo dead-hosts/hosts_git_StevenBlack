@@ -331,9 +331,6 @@
         "1570978192": {
             "www.new.api.ad.xiaomi.com": "INACTIVE"
         },
-        "1570978324": {
-            "users.ero-advertising.com": "INACTIVE"
-        },
         "1570978325": {
             "www.test.e.ad.xiaomi.com": "INACTIVE"
         },
@@ -579,9 +576,6 @@
         },
         "1571140020": {
             "www.match.taboola.com": "INACTIVE"
-        },
-        "1571140151": {
-            "api.admob.xiaomi.com": "INACTIVE"
         },
         "1571140152": {
             "beacon.statful.com": "INACTIVE",
@@ -901,6 +895,12 @@
         },
         "1571267720": {
             "demo.alphonso.tv": "INACTIVE"
+        },
+        "1571272503": {
+            "api.admob.xiaomi.com": "INACTIVE"
+        },
+        "1571272634": {
+            "users.ero-advertising.com": "INACTIVE"
         }
     }
 }
