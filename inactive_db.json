@@ -316,9 +316,6 @@
         "1570995661": {
             "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
         },
-        "1570995792": {
-            "v10c.events.data.microsoft.com": "INACTIVE"
-        },
         "1570995923": {
             "www.in-starlive-preroll.videoplaza.tv": "INACTIVE"
         },
@@ -418,8 +415,7 @@
             "events.appsflyer.com": "INACTIVE"
         },
         "1571140286": {
-            "www.api.admob.xiaomi.com": "INACTIVE",
-            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
+            "www.api.admob.xiaomi.com": "INACTIVE"
         },
         "1571140417": {
             "analytics.poolshool.com": "INACTIVE"
@@ -898,6 +894,12 @@
         },
         "1571293609": {
             "adscan.yelabapp.com": "INACTIVE"
+        },
+        "1571296898": {
+            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
+        },
+        "1571297029": {
+            "v10c.events.data.microsoft.com": "INACTIVE"
         }
     }
 }
