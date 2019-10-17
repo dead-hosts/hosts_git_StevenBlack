@@ -230,65 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1570965333": {
-            "smetrics.bestbuy.com": "INACTIVE",
-            "test.ad.xiaomi.com": "INACTIVE"
-        },
-        "1570978325": {
-            "www.test.e.ad.xiaomi.com": "INACTIVE"
-        },
-        "1570983020": {
-            "analytics.247sports.com": "INACTIVE"
-        },
-        "1570983158": {
-            "settings.crashlytics.com": "INACTIVE"
-        },
-        "1570987166": {
-            "track.tenjin.io": "INACTIVE"
-        },
-        "1570995661": {
-            "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
-        },
-        "1570996193": {
-            "tracking.i2w.io": "INACTIVE"
-        },
-        "1571003984": {
-            "www.cws.conviva.com": "INACTIVE"
-        },
-        "1571003986": {
-            "www.api.ad.intl.xiaomi.com": "INACTIVE"
-        },
-        "1571004165": {
-            "rtblbtr.alphonso.tv": "INACTIVE"
-        },
-        "1571140016": {
-            "www.sebder.roboinside.me": "INACTIVE"
-        },
-        "1571140152": {
-            "www.stats.jpush.cn": "INACTIVE"
-        },
-        "1571140284": {
-            "sdkconfig.ad.intl.xiaomi.com": "INACTIVE"
-        },
-        "1571140286": {
-            "www.api.admob.xiaomi.com": "INACTIVE"
-        },
-        "1571149308": {
-            "api.alphonso.tv": "INACTIVE"
-        },
-        "1571149310": {
-            "api.brs.intl.miui.com": "INACTIVE"
-        },
-        "1571153320": {
-            "api.b2c.com": "INACTIVE"
-        },
-        "1571156766": {
-            "www.api.ad.snappea.com": "INACTIVE",
-            "www.sdkconfig.ad.xiaomi.com": "INACTIVE"
-        },
-        "1571157300": {
-            "www.api.grandonmedia.com": "INACTIVE"
-        },
         "1571263337": {
             "www.cc.sys.intl.xiaomi.com": "INACTIVE"
         },
@@ -841,6 +782,38 @@
         },
         "1571318156": {
             "sdklogs.avocarrot.com": "INACTIVE"
+        },
+        "1571321431": {
+            "analytics.247sports.com": "INACTIVE",
+            "tracking.i2w.io": "INACTIVE",
+            "www.api.ad.intl.xiaomi.com": "INACTIVE",
+            "www.api.ad.snappea.com": "INACTIVE",
+            "www.sebder.roboinside.me": "INACTIVE",
+            "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1571321493": {
+            "api.brs.intl.miui.com": "INACTIVE"
+        },
+        "1571321494": {
+            "settings.crashlytics.com": "INACTIVE",
+            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
+            "www.test.e.ad.xiaomi.com": "INACTIVE"
+        },
+        "1571321495": {
+            "rtblbtr.alphonso.tv": "INACTIVE",
+            "smetrics.bestbuy.com": "INACTIVE",
+            "test.ad.xiaomi.com": "INACTIVE",
+            "track.tenjin.io": "INACTIVE",
+            "www.cws.conviva.com": "INACTIVE"
+        },
+        "1571321497": {
+            "api.b2c.com": "INACTIVE",
+            "www.api.admob.xiaomi.com": "INACTIVE",
+            "www.stats.jpush.cn": "INACTIVE"
+        },
+        "1571321498": {
+            "api.alphonso.tv": "INACTIVE",
+            "sdkconfig.ad.intl.xiaomi.com": "INACTIVE"
         }
     }
 }
