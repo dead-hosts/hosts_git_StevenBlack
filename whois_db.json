@@ -139,6 +139,11 @@
         "expiration_date": "15-may-2020",
         "state": "future"
     },
+    "chauksoa.net": {
+        "epoch": 1572998400,
+        "expiration_date": "06-nov-2019",
+        "state": "future"
+    },
     "clickopon.com": {
         "epoch": "1572307200",
         "expiration_date": "29-oct-2019",
