@@ -230,641 +230,8 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1571694562": {
-            "1493361689.rsc.cdn77.org": "INACTIVE",
-            "15.taboola.com": "INACTIVE"
-        },
-        "1571694564": {
-            "4436230.fls.doubleclick.net": "INACTIVE",
-            "4448269.fls.doubleclick.net": "INACTIVE"
-        },
-        "1571694566": {
-            "acrdb.alphonso.tv": "INACTIVE"
-        },
-        "1571694571": {
-            "ad.click.kaffnet.com": "INACTIVE"
-        },
-        "1571694572": {
-            "ads.aerserv.com": "INACTIVE",
-            "ads30.adcolony.com": "INACTIVE",
-            "ads5.truecaller.com": "INACTIVE"
-        },
-        "1571694579": {
-            "ads.chacomedia.com": "INACTIVE",
-            "adscan.yelabapp.com": "INACTIVE"
-        },
-        "1571694580": {
-            "adservice.google.co.in": "INACTIVE",
-            "adservice.google.com.vn": "INACTIVE",
-            "adservice.google.nl": "INACTIVE"
-        },
-        "1571694581": {
-            "ads.grandonmedia.com": "INACTIVE",
-            "ads.nexage.com": "INACTIVE"
-        },
-        "1571694584": {
-            "adv.grandonmedia.com": "INACTIVE"
-        },
-        "1571694585": {
-            "adv.sec.intl.miui.com": "INACTIVE"
-        },
-        "1571694593": {
-            "analytics.247sports.com": "INACTIVE"
-        },
-        "1571694599": {
-            "analyticsapi.bsbportal.com": "INACTIVE"
-        },
-        "1571694600": {
-            "analytics-digit-in.cdn.ampproject.org": "INACTIVE",
-            "analytics.bitrix.info": "INACTIVE",
-            "analytics.ext.go-tellm.com": "INACTIVE",
-            "analytics.ff.avast.com": "INACTIVE"
-        },
-        "1571694601": {
-            "analytics.htmedia.in": "INACTIVE"
-        },
-        "1571694607": {
-            "analytics.jabong.com": "INACTIVE"
-        },
-        "1571694608": {
-            "analytics.lk.api.ditto.com": "INACTIVE"
-        },
-        "1571694615": {
-            "analytics.poolshool.com": "INACTIVE"
-        },
-        "1571694616": {
-            "analytics.swiggy.com": "INACTIVE"
-        },
-        "1571694617": {
-            "androidads23.adcolony.com": "INACTIVE"
-        },
-        "1571694619": {
-            "api.ad.intl.xiaomi.com": "INACTIVE"
-        },
-        "1571694626": {
-            "api.ad.snappea.com": "INACTIVE",
-            "api.admob.xiaomi.com": "INACTIVE"
-        },
-        "1571694627": {
-            "api.alphonso.tv": "INACTIVE",
-            "api.b2c.com": "INACTIVE"
-        },
-        "1571694628": {
-            "api.brs.intl.miui.com": "INACTIVE",
-            "api.c.avazunativeads.com": "INACTIVE"
-        },
-        "1571694631": {
-            "api.d.xiaomi.com": "INACTIVE"
-        },
-        "1571694635": {
-            "api.grandonmedia.com": "INACTIVE",
-            "api.hybrid.intl.xiaomi.com": "INACTIVE"
-        },
-        "1571694636": {
-            "api.pubnative.net": "INACTIVE"
-        },
-        "1571694638": {
-            "api.sec.intl.miui.com": "INACTIVE"
-        },
-        "1571694639": {
-            "api.setting.intl.miui.com": "INACTIVE",
-            "api.stats.appa.pe": "INACTIVE",
-            "api.taplytics.com": "INACTIVE",
-            "api.tvpage.com": "INACTIVE"
-        },
-        "1571694645": {
-            "api.userstyles.org": "INACTIVE"
-        },
-        "1571694646": {
-            "app.adjust.com": "INACTIVE"
-        },
-        "1571694647": {
-            "apple.com-fasting.live": "INACTIVE",
-            "apple.com-notice.info": "INACTIVE",
-            "applog.camera360.com": "INACTIVE"
-        },
-        "1571694648": {
-            "applog.uc.cn": "INACTIVE",
-            "apps3.cointraffic.io": "INACTIVE"
-        },
-        "1571694655": {
-            "ap-sonar.sociomantic.com": "INACTIVE",
-            "app.storage.yunvm.com": "INACTIVE"
-        },
-        "1571694663": {
-            "assets.alphonso.tv": "INACTIVE"
-        },
-        "1571694665": {
-            "authbe.sec.intl.miui.com": "INACTIVE"
-        },
-        "1571694667": {
-            "batchlogging4.truecaller.com": "INACTIVE",
-            "beacon.statful.com": "INACTIVE",
-            "beap-bc.yahoo.com": "INACTIVE"
-        },
-        "1571694668": {
-            "bi-collector.oneapm.com": "INACTIVE"
-        },
-        "1571694671": {
-            "bid.grandonmedia.com": "INACTIVE"
-        },
-        "1571694672": {
-            "blog.roboinside.me": "INACTIVE"
-        },
-        "1571694678": {
-            "browser.pipe.aria.microsoft.com": "INACTIVE"
-        },
-        "1571694679": {
-            "bwlkup.alphonso.tv": "INACTIVE"
-        },
-        "1571694680": {
-            "castoola.tv.lan": "INVALID"
-        },
-        "1571694685": {
-            "cdn.auditude.com": "INACTIVE"
-        },
-        "1571694689": {
-            "cdn-settings.segment.com": "INACTIVE"
-        },
-        "1571694693": {
-            "click.grandonmedia.com": "INACTIVE"
-        },
-        "1571694700": {
-            "client-analytics.braintreegateway.com": "INACTIVE",
-            "clockskew.alphonso.tv": "INACTIVE",
-            "convhkmp.taboola.com": "INACTIVE",
-            "convlatbmp.taboola.com": "INACTIVE"
-        },
-        "1571694701": {
-            "c.webengage.com": "INACTIVE",
-            "cws.conviva.com": "INACTIVE"
-        },
-        "1571694702": {
-            "d.applovin.com": "INACTIVE"
-        },
-        "1571694704": {
-            "data.mistat.intl.xiaomi.com": "INACTIVE"
-        },
-        "1571694705": {
-            "data.mistat.xiaomi.com": "INACTIVE"
-        },
-        "1571694706": {
-            "data.sec.intl.miui.com": "INACTIVE"
-        },
-        "1571694707": {
-            "decide.mixpanel.com": "INACTIVE"
-        },
-        "1571694713": {
-            "degea.alphonso.tv": "INACTIVE"
-        },
-        "1571694719": {
-            "demo.alphonso.tv": "INACTIVE",
-            "device-api.urbanairship.com": "INACTIVE"
-        },
-        "1571694720": {
-            "dimaria.alphonso.tv": "INACTIVE"
-        },
-        "1571694728": {
-            "dsp.face2trade.com": "INACTIVE"
-        },
-        "1571694729": {
-            "ecommerce.roboinside.me": "INACTIVE"
-        },
-        "1571694731": {
-            "engine.bitmedianetwork.com": "INACTIVE"
-        },
-        "1571694732": {
-            "events.appsflyer.com": "INACTIVE",
-            "events3.adcolony.com": "INACTIVE"
-        },
-        "1571694738": {
-            "events.redditmedia.com": "INACTIVE",
-            "events.startappservice.com": "INACTIVE"
-        },
-        "1571694744": {
-            "exchange.face2trade.com": "INACTIVE"
-        },
-        "1571694760": {
-            "external.stealthedeal.com": "INACTIVE"
-        },
-        "1571694762": {
-            "fc.yahoo.com": "INACTIVE",
-            "fcanr.tracking.miui.com": "INACTIVE",
-            "feedback.adrecover.com": "INACTIVE"
-        },
-        "1571694776": {
-            "gj.applog.uc.cn": "INACTIVE",
-            "gjapplog.uc.cn": "INACTIVE"
-        },
-        "1571694777": {
-            "gj.track.uc.cn": "INACTIVE",
-            "gjtrack.ucweb.com": "INACTIVE"
-        },
-        "1571694778": {
-            "globalapi.ad.xiaomi.com": "INACTIVE"
-        },
-        "1571694780": {
-            "graph.accountkit.com": "INACTIVE"
-        },
-        "1571694786": {
-            "greatmacsoft.tech": "INACTIVE",
-            "gtsdk.batmobi.net": "INACTIVE",
-            "gum.criteo.com": "INACTIVE",
-            "gurgle.zdbb.net": "INACTIVE"
-        },
-        "1571694787": {
-            "hosted.stats.com.edgesuite.net": "INACTIVE"
-        },
-        "1571694788": {
-            "h-sdk.online-metrix.net": "INACTIVE",
-            "hotstar.pubnub.net": "INACTIVE",
-            "hotstar.worldgravity.com": "INACTIVE"
-        },
-        "1571694790": {
-            "icloud.com-locations.in": "INACTIVE"
-        },
-        "1571694791": {
-            "imp.startappservice.com": "INACTIVE",
-            "imprhkmp.taboola.com": "INACTIVE",
-            "imprlatbmp.taboola.com": "INACTIVE"
-        },
-        "1571694792": {
-            "init.startappservice.com": "INACTIVE"
-        },
-        "1571694793": {
-            "in-star.videoplaza.tv": "INACTIVE",
-            "in-starlive-preroll.videoplaza.tv": "INACTIVE",
-            "in-starlive.videoplaza.tv": "INACTIVE"
-        },
-        "1571694794": {
-            "in-viacom18.videoplaza.tv": "INACTIVE"
-        },
-        "1571694805": {
-            "jira.face2trade.com": "INACTIVE"
-        },
-        "1571694806": {
-            "js34dc10.gamooga.com": "INACTIVE"
-        },
-        "1571694807": {
-            "kushat.roboinside.me": "INACTIVE"
-        },
-        "1571694811": {
-            "login.dotomi.net": "INACTIVE"
-        },
-        "1571694812": {
-            "logs.gaana.com": "INACTIVE",
-            "logx.optimizely.com": "INACTIVE"
-        },
-        "1571694818": {
-            "l-v1.presage.io": "INACTIVE"
-        },
-        "1571694819": {
-            "ma1310-r.analytics.edgekey.net": "INACTIVE",
-            "ma312-r.analytics.edgesuite.net": "INACTIVE",
-            "manifest.localytics.com": "INACTIVE"
-        },
-        "1571694820": {
-            "match.taboola.com": "INACTIVE"
-        },
-        "1571694827": {
-            "mobile.pipe.aria.microsoft.com": "INACTIVE"
-        },
-        "1571694828": {
-            "msmetrics.ws.sonos.com": "INACTIVE",
-            "mt.rtmark.net": "INACTIVE"
-        },
-        "1571694829": {
-            "nativesdks.mparticle.com": "INACTIVE"
-        },
-        "1571694830": {
-            "new.api.ad.xiaomi.com": "INACTIVE"
-        },
-        "1571694831": {
-            "nexus.ensighten.com": "INACTIVE"
-        },
-        "1571694837": {
-            "nexus.officeapps.live.com": "INACTIVE"
-        },
-        "1571694843": {
-            "nexusrules.officeapps.live.com": "INACTIVE",
-            "neymar.alphonso.tv": "INACTIVE"
-        },
-        "1571694844": {
-            "notification-browser.tools": "INACTIVE",
-            "ns.zdbb.net": "INACTIVE",
-            "onlineapi.youappi.com": "INACTIVE"
-        },
-        "1571694845": {
-            "opps.taboola.com": "INACTIVE",
-            "orion.iad.appboy.com": "INACTIVE"
-        },
-        "1571694858": {
-            "pixel.nc0.co": "INACTIVE",
-            "pixel.realclever.com": "INACTIVE"
-        },
-        "1571694859": {
-            "ploy.batmobi.net": "INACTIVE"
-        },
-        "1571694860": {
-            "profile.localytics.com": "INACTIVE"
-        },
-        "1571694861": {
-            "prov.alphonso.tv": "INACTIVE"
-        },
-        "1571694867": {
-            "proxy.alphonso.tv": "INACTIVE"
-        },
-        "1571694870": {
-            "pub.grandonmedia.com": "INACTIVE"
-        },
-        "1571694871": {
-            "quickmessage.us": "INACTIVE"
-        },
-        "1571694872": {
-            "reports.crashlytics.com": "INACTIVE",
-            "req.startappservice.com": "INACTIVE"
-        },
-        "1571694874": {
-            "rt.applovin.com": "INACTIVE"
-        },
-        "1571694875": {
-            "rtblbtr.alphonso.tv": "INACTIVE"
-        },
-        "1571694877": {
-            "sdkconfig.ad.intl.xiaomi.com": "INACTIVE"
-        },
-        "1571694878": {
-            "sdkconfig.ad.xiaomi.com": "INACTIVE"
-        },
-        "1571694881": {
-            "sdklogs.avocarrot.com": "INACTIVE"
-        },
-        "1571694882": {
-            "sebder.roboinside.me": "INACTIVE"
-        },
-        "1571694888": {
-            "segment.hotstar.com": "INACTIVE"
-        },
-        "1571694894": {
-            "service.face2trade.com": "INACTIVE",
-            "service.videoplaza.tv": "INACTIVE"
-        },
-        "1571694895": {
-            "settings.crashlytics.com": "INACTIVE"
-        },
-        "1571694897": {
-            "sgp.o2o.api.xiaomi.com": "INACTIVE"
-        },
-        "1571694898": {
-            "smetrics.bestbuy.com": "INACTIVE"
-        },
-        "1571694907": {
-            "sqm.telemetry.microsoft.com": "INACTIVE",
-            "srv.pixel.parsely.com": "INACTIVE"
-        },
-        "1571694908": {
-            "ssp.ad.xiaomi.com": "INACTIVE"
-        },
-        "1571694914": {
-            "ssp.face2trade.com": "INACTIVE",
-            "stat-c.maxthon.com": "INACTIVE"
-        },
-        "1571694921": {
-            "stats.bidgear.com": "INACTIVE"
-        },
-        "1571694932": {
-            "storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
-        },
-        "1571694933": {
-            "support.apple.com-notice.info": "INACTIVE"
-        },
-        "1571694935": {
-            "tags.news.com.au": "INACTIVE"
-        },
-        "1571694936": {
-            "t.appsflyer.com": "INACTIVE",
-            "telecommand.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1571694942": {
-            "telemetry.layer.com": "INACTIVE"
-        },
-        "1571694944": {
-            "test.ad.xiaomi.com": "INACTIVE"
-        },
-        "1571694946": {
-            "test.new.api.ad.xiaomi.com": "INACTIVE"
-        },
-        "1571694948": {
-            "track.adtrue.com": "INACTIVE",
-            "tracking.i2w.io": "INACTIVE"
-        },
-        "1571694949": {
-            "tracking.intl.miui.com": "INACTIVE"
-        },
-        "1571694950": {
-            "track.tenjin.io": "INACTIVE",
-            "tracking-thirdparty.i2w.io": "INACTIVE",
-            "tracking.miui.com": "INACTIVE"
-        },
-        "1571694958": {
-            "users.ero-advertising.com": "INACTIVE"
-        },
-        "1571694964": {
-            "v10c.events.data.microsoft.com": "INACTIVE"
-        },
-        "1571694971": {
-            "v10.events.data.microsoft.com": "INACTIVE"
-        },
-        "1571694977": {
-            "v10.vortex-win.data.microsoft.com": "INACTIVE"
-        },
-        "1571694984": {
-            "villa.alphonso.tv": "INACTIVE"
-        },
-        "1571694990": {
-            "vortex-win.data.microsoft.com": "INACTIVE",
-            "vrl.m.conviva.com": "INACTIVE"
-        },
-        "1571694991": {
-            "watches-my.stream": "INACTIVE"
-        },
-        "1571694997": {
-            "watson.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1571695003": {
-            "web2.alphonso.tv": "INACTIVE"
-        },
-        "1571695009": {
-            "web.vortex.data.microsoft.com": "INACTIVE",
-            "wf.taboola.com": "INACTIVE"
-        },
-        "1571695010": {
-            "woodpecker.uc.cn": "INACTIVE"
-        },
-        "1571695011": {
-            "www.15.taboola.com": "INACTIVE"
-        },
-        "1571695013": {
-            "www.4436230.fls.doubleclick.net": "INACTIVE",
-            "www.4448269.fls.doubleclick.net": "INACTIVE"
-        },
-        "1571695014": {
-            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE"
-        },
-        "1571695015": {
-            "www.abtest.mistat.xiaomi.com": "INACTIVE"
-        },
-        "1571695020": {
-            "www.ads.chacomedia.com": "INACTIVE",
-            "www.ads2live.com": "INACTIVE"
-        },
-        "1571695022": {
-            "www.ads.grandonmedia.com": "INACTIVE",
-            "www.ads.mp.mydas.mobi": "INACTIVE"
-        },
-        "1571695066": {
-            "www.parentelement.tk": "INACTIVE"
-        },
         "1571695081": {
             "www.ttwitter.com": "INACTIVE"
-        },
-        "1571740499": {
-            "sdktm.w.inmobi.com": "INACTIVE"
-        },
-        "1571740537": {
-            "www.adv.grandonmedia.com": "INACTIVE",
-            "www.adv.sec.intl.miui.com": "INACTIVE"
-        },
-        "1571740539": {
-            "www.analytics-digit-in.cdn.ampproject.org": "INACTIVE"
-        },
-        "1571740540": {
-            "www.analytics.publitas.com": "INACTIVE"
-        },
-        "1571740541": {
-            "www.api.ad.intl.xiaomi.com": "INACTIVE",
-            "www.api.ad.snappea.com": "INACTIVE",
-            "www.api.admob.xiaomi.com": "INACTIVE"
-        },
-        "1571740542": {
-            "www.api.ad.xiaomi.com": "INACTIVE"
-        },
-        "1571740543": {
-            "www.api.brs.intl.miui.com": "INACTIVE",
-            "www.api.collect.data.intl.miui.com": "INACTIVE",
-            "www.api.d.xiaomi.com": "INACTIVE"
-        },
-        "1571740545": {
-            "www.api.grandonmedia.com": "INACTIVE"
-        },
-        "1571740546": {
-            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
-            "www.api.sec.intl.miui.com": "INACTIVE"
-        },
-        "1571740547": {
-            "www.api.setting.intl.miui.com": "INACTIVE",
-            "www.apple.com-fasting.live": "INACTIVE"
-        },
-        "1571740548": {
-            "www.apple.com-notice.info": "INACTIVE",
-            "www.applicationunificationcontroller.com": "INACTIVE"
-        },
-        "1571740549": {
-            "www.applog.camera360.com": "INACTIVE"
-        },
-        "1571740560": {
-            "www.app.storage.yunvm.com": "INACTIVE"
-        },
-        "1571740568": {
-            "www.a.stat.xiaomi.com": "INACTIVE"
-        },
-        "1571740569": {
-            "www.authbe.sec.intl.miui.com": "INACTIVE"
-        },
-        "1571740572": {
-            "www.best2017games.com": "INACTIVE"
-        },
-        "1571740573": {
-            "www.bi-collector.oneapm.com": "INACTIVE"
-        },
-        "1571740575": {
-            "www.bid.grandonmedia.com": "INACTIVE",
-            "www.blog.roboinside.me": "INACTIVE"
-        },
-        "1571740577": {
-            "www.ccc.sys.intl.xiaomi.com": "INACTIVE"
-        },
-        "1571740578": {
-            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.cc.sys.miui.com": "INACTIVE",
-            "www.ccc.sys.miui.com": "INACTIVE"
-        },
-        "1571740579": {
-            "www.cdn.ad.xiaomi.com": "INACTIVE"
-        },
-        "1571740582": {
-            "www.click.grandonmedia.com": "INACTIVE",
-            "www.com-fasting.live": "INACTIVE",
-            "www.com-notice.info": "INACTIVE",
-            "www.convhkmp.taboola.com": "INACTIVE",
-            "www.convlatbmp.taboola.com": "INACTIVE"
-        },
-        "1571740583": {
-            "www.cws.conviva.com": "INACTIVE"
-        },
-        "1571740584": {
-            "www.datacollect.vmall.com": "INACTIVE"
-        },
-        "1571740585": {
-            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.data.mistat.xiaomi.com": "INACTIVE"
-        },
-        "1571740586": {
-            "www.data.sec.intl.miui.com": "INACTIVE"
-        },
-        "1571740590": {
-            "www.e.ad.xiaomi.com": "INACTIVE",
-            "www.ecommerce.roboinside.me": "INACTIVE"
-        },
-        "1571740592": {
-            "www.fcanr.tracking.miui.com": "INACTIVE"
-        },
-        "1571740594": {
-            "www.flash.sec.intl.miui.com": "INACTIVE"
-        },
-        "1571740597": {
-            "www.geofence.sys.miui.com": "INACTIVE",
-            "www.globalapi.ad.xiaomi.com": "INACTIVE",
-            "www.googletagmanager.com": "INACTIVE",
-            "www.googletagservices.com": "INACTIVE"
-        },
-        "1571740600": {
-            "www.hotstar.pubnub.net": "INACTIVE"
-        },
-        "1571740601": {
-            "www.icloud.com-locations.in": "INACTIVE",
-            "www.imprhkmp.taboola.com": "INACTIVE",
-            "www.imprlatbmp.taboola.com": "INACTIVE"
-        },
-        "1571740602": {
-            "www.in-star.videoplaza.tv": "INACTIVE",
-            "www.in-starlive-preroll.videoplaza.tv": "INACTIVE",
-            "www.in-starlive.videoplaza.tv": "INACTIVE",
-            "www.in-viacom18.videoplaza.tv": "INACTIVE"
-        },
-        "1571740604": {
-            "www.jackbootedroom.com": "INACTIVE",
-            "www.kushat.roboinside.me": "INACTIVE"
-        },
-        "1571740605": {
-            "www.match.taboola.com": "INACTIVE"
-        },
-        "1571740609": {
-            "www.new.api.ad.xiaomi.com": "INACTIVE"
-        },
-        "1571740611": {
-            "www.notification-browser.tools": "INACTIVE",
-            "www.opps.taboola.com": "INACTIVE"
         },
         "1571740619": {
             "www.pub.grandonmedia.com": "INACTIVE",
@@ -938,6 +305,640 @@
         },
         "1571740656": {
             "zeus.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572035919": {
+            "1493361689.rsc.cdn77.org": "INACTIVE",
+            "15.taboola.com": "INACTIVE"
+        },
+        "1572035921": {
+            "4436230.fls.doubleclick.net": "INACTIVE",
+            "4448269.fls.doubleclick.net": "INACTIVE"
+        },
+        "1572035923": {
+            "acrdb.alphonso.tv": "INACTIVE"
+        },
+        "1572035927": {
+            "ad.click.kaffnet.com": "INACTIVE"
+        },
+        "1572035928": {
+            "ads30.adcolony.com": "INACTIVE",
+            "ads5.truecaller.com": "INACTIVE"
+        },
+        "1572035929": {
+            "ads.aerserv.com": "INACTIVE"
+        },
+        "1572035936": {
+            "ads.chacomedia.com": "INACTIVE",
+            "adscan.yelabapp.com": "INACTIVE"
+        },
+        "1572035937": {
+            "adservice.google.co.in": "INACTIVE",
+            "adservice.google.com.vn": "INACTIVE",
+            "adservice.google.nl": "INACTIVE"
+        },
+        "1572035944": {
+            "ads.grandonmedia.com": "INACTIVE",
+            "ads.nexage.com": "INACTIVE"
+        },
+        "1572035954": {
+            "adv.grandonmedia.com": "INACTIVE"
+        },
+        "1572035956": {
+            "adv.sec.intl.miui.com": "INACTIVE"
+        },
+        "1572035959": {
+            "analytics.247sports.com": "INACTIVE"
+        },
+        "1572035966": {
+            "analytics-digit-in.cdn.ampproject.org": "INACTIVE",
+            "analytics.bitrix.info": "INACTIVE",
+            "analytics.ext.go-tellm.com": "INACTIVE",
+            "analytics.ff.avast.com": "INACTIVE",
+            "analyticsapi.bsbportal.com": "INACTIVE"
+        },
+        "1572035967": {
+            "analytics.htmedia.in": "INACTIVE"
+        },
+        "1572035973": {
+            "analytics.jabong.com": "INACTIVE",
+            "analytics.lk.api.ditto.com": "INACTIVE"
+        },
+        "1572035981": {
+            "analytics.poolshool.com": "INACTIVE"
+        },
+        "1572035982": {
+            "analytics.swiggy.com": "INACTIVE"
+        },
+        "1572035983": {
+            "androidads23.adcolony.com": "INACTIVE"
+        },
+        "1572035984": {
+            "api.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572035991": {
+            "api.ad.snappea.com": "INACTIVE",
+            "api.admob.xiaomi.com": "INACTIVE"
+        },
+        "1572035992": {
+            "api.alphonso.tv": "INACTIVE",
+            "api.b2c.com": "INACTIVE"
+        },
+        "1572035993": {
+            "api.brs.intl.miui.com": "INACTIVE"
+        },
+        "1572035994": {
+            "api.c.avazunativeads.com": "INACTIVE"
+        },
+        "1572035997": {
+            "api.d.xiaomi.com": "INACTIVE"
+        },
+        "1572036004": {
+            "api.grandonmedia.com": "INACTIVE"
+        },
+        "1572036005": {
+            "api.hybrid.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572036011": {
+            "api.oneaudience.com": "INACTIVE",
+            "api.pubnative.net": "INACTIVE"
+        },
+        "1572036012": {
+            "api.sec.intl.miui.com": "INACTIVE"
+        },
+        "1572036013": {
+            "api.setting.intl.miui.com": "INACTIVE"
+        },
+        "1572036019": {
+            "api.stats.appa.pe": "INACTIVE"
+        },
+        "1572036020": {
+            "api.taplytics.com": "INACTIVE",
+            "api.tvpage.com": "INACTIVE"
+        },
+        "1572036026": {
+            "api.userstyles.org": "INACTIVE",
+            "app.adjust.com": "INACTIVE"
+        },
+        "1572036027": {
+            "apple.com-fasting.live": "INACTIVE",
+            "apple.com-notice.info": "INACTIVE",
+            "applog.camera360.com": "INACTIVE"
+        },
+        "1572036028": {
+            "applog.uc.cn": "INACTIVE",
+            "apps3.cointraffic.io": "INACTIVE"
+        },
+        "1572036035": {
+            "app.storage.yunvm.com": "INACTIVE"
+        },
+        "1572036036": {
+            "ap-sonar.sociomantic.com": "INACTIVE"
+        },
+        "1572036037": {
+            "assets.alphonso.tv": "INACTIVE"
+        },
+        "1572036041": {
+            "authbe.sec.intl.miui.com": "INACTIVE"
+        },
+        "1572036042": {
+            "batchlogging4.truecaller.com": "INACTIVE",
+            "beacon.statful.com": "INACTIVE",
+            "beap-bc.yahoo.com": "INACTIVE"
+        },
+        "1572036043": {
+            "bi-collector.oneapm.com": "INACTIVE"
+        },
+        "1572036050": {
+            "bid.grandonmedia.com": "INACTIVE",
+            "blog.roboinside.me": "INACTIVE"
+        },
+        "1572036057": {
+            "browser.pipe.aria.microsoft.com": "INACTIVE",
+            "bwlkup.alphonso.tv": "INACTIVE"
+        },
+        "1572036059": {
+            "castoola.tv.lan": "INVALID"
+        },
+        "1572036064": {
+            "cdn.auditude.com": "INACTIVE"
+        },
+        "1572036069": {
+            "cdn-settings.segment.com": "INACTIVE"
+        },
+        "1572036077": {
+            "click.grandonmedia.com": "INACTIVE"
+        },
+        "1572036083": {
+            "client-analytics.braintreegateway.com": "INACTIVE",
+            "clockskew.alphonso.tv": "INACTIVE"
+        },
+        "1572036084": {
+            "convhkmp.taboola.com": "INACTIVE",
+            "convlatbmp.taboola.com": "INACTIVE"
+        },
+        "1572036085": {
+            "c.webengage.com": "INACTIVE",
+            "cws.conviva.com": "INACTIVE"
+        },
+        "1572036086": {
+            "d.applovin.com": "INACTIVE"
+        },
+        "1572036088": {
+            "data.mistat.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572036089": {
+            "data.mistat.xiaomi.com": "INACTIVE"
+        },
+        "1572036091": {
+            "data.sec.intl.miui.com": "INACTIVE",
+            "decide.mixpanel.com": "INACTIVE"
+        },
+        "1572036097": {
+            "degea.alphonso.tv": "INACTIVE"
+        },
+        "1572036103": {
+            "demo.alphonso.tv": "INACTIVE"
+        },
+        "1572036104": {
+            "device-api.urbanairship.com": "INACTIVE",
+            "dimaria.alphonso.tv": "INACTIVE"
+        },
+        "1572036111": {
+            "dsp.face2trade.com": "INACTIVE"
+        },
+        "1572036113": {
+            "ecommerce.roboinside.me": "INACTIVE"
+        },
+        "1572036114": {
+            "engine.bitmedianetwork.com": "INACTIVE"
+        },
+        "1572036115": {
+            "events.appsflyer.com": "INACTIVE",
+            "events3.adcolony.com": "INACTIVE"
+        },
+        "1572036121": {
+            "events.redditmedia.com": "INACTIVE",
+            "events.startappservice.com": "INACTIVE"
+        },
+        "1572036127": {
+            "exchange.face2trade.com": "INACTIVE"
+        },
+        "1572036143": {
+            "external.stealthedeal.com": "INACTIVE"
+        },
+        "1572036145": {
+            "fc.yahoo.com": "INACTIVE",
+            "fcanr.tracking.miui.com": "INACTIVE",
+            "feedback.adrecover.com": "INACTIVE"
+        },
+        "1572036159": {
+            "gj.applog.uc.cn": "INACTIVE",
+            "gjapplog.uc.cn": "INACTIVE"
+        },
+        "1572036160": {
+            "gj.track.uc.cn": "INACTIVE",
+            "gjtrack.ucweb.com": "INACTIVE"
+        },
+        "1572036161": {
+            "globalapi.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572036171": {
+            "graph.accountkit.com": "INACTIVE"
+        },
+        "1572036177": {
+            "greatmacsoft.tech": "INACTIVE",
+            "gtsdk.batmobi.net": "INACTIVE",
+            "gum.criteo.com": "INACTIVE"
+        },
+        "1572036178": {
+            "gurgle.zdbb.net": "INACTIVE"
+        },
+        "1572036179": {
+            "hosted.stats.com.edgesuite.net": "INACTIVE",
+            "hotstar.pubnub.net": "INACTIVE"
+        },
+        "1572036180": {
+            "h-sdk.online-metrix.net": "INACTIVE",
+            "hotstar.worldgravity.com": "INACTIVE"
+        },
+        "1572036182": {
+            "icloud.com-locations.in": "INACTIVE"
+        },
+        "1572036183": {
+            "imp.startappservice.com": "INACTIVE",
+            "imprhkmp.taboola.com": "INACTIVE",
+            "imprlatbmp.taboola.com": "INACTIVE"
+        },
+        "1572036184": {
+            "init.startappservice.com": "INACTIVE"
+        },
+        "1572036185": {
+            "in-star.videoplaza.tv": "INACTIVE",
+            "in-starlive-preroll.videoplaza.tv": "INACTIVE",
+            "in-starlive.videoplaza.tv": "INACTIVE"
+        },
+        "1572036186": {
+            "in-viacom18.videoplaza.tv": "INACTIVE"
+        },
+        "1572036195": {
+            "jira.face2trade.com": "INACTIVE"
+        },
+        "1572036196": {
+            "js34dc10.gamooga.com": "INACTIVE"
+        },
+        "1572036197": {
+            "kushat.roboinside.me": "INACTIVE"
+        },
+        "1572036201": {
+            "login.dotomi.net": "INACTIVE"
+        },
+        "1572036202": {
+            "logs.gaana.com": "INACTIVE"
+        },
+        "1572036203": {
+            "logx.optimizely.com": "INACTIVE"
+        },
+        "1572036209": {
+            "l-v1.presage.io": "INACTIVE",
+            "ma1310-r.analytics.edgekey.net": "INACTIVE",
+            "ma312-r.analytics.edgesuite.net": "INACTIVE",
+            "manifest.localytics.com": "INACTIVE"
+        },
+        "1572036210": {
+            "match.taboola.com": "INACTIVE"
+        },
+        "1572036218": {
+            "mobile.pipe.aria.microsoft.com": "INACTIVE",
+            "msmetrics.ws.sonos.com": "INACTIVE"
+        },
+        "1572036219": {
+            "mt.rtmark.net": "INACTIVE"
+        },
+        "1572036220": {
+            "nativesdks.mparticle.com": "INACTIVE",
+            "new.api.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572036221": {
+            "nexus.ensighten.com": "INACTIVE"
+        },
+        "1572036227": {
+            "nexus.officeapps.live.com": "INACTIVE"
+        },
+        "1572036233": {
+            "nexusrules.officeapps.live.com": "INACTIVE",
+            "neymar.alphonso.tv": "INACTIVE"
+        },
+        "1572036234": {
+            "notification-browser.tools": "INACTIVE"
+        },
+        "1572036235": {
+            "ns.zdbb.net": "INACTIVE",
+            "onlineapi.youappi.com": "INACTIVE",
+            "opps.taboola.com": "INACTIVE",
+            "orion.iad.appboy.com": "INACTIVE"
+        },
+        "1572036242": {
+            "parentelement.tk": "INACTIVE"
+        },
+        "1572036243": {
+            "pixel.nc0.co": "INACTIVE"
+        },
+        "1572036244": {
+            "pixel.realclever.com": "INACTIVE",
+            "ploy.batmobi.net": "INACTIVE"
+        },
+        "1572036246": {
+            "profile.localytics.com": "INACTIVE"
+        },
+        "1572036247": {
+            "prov.alphonso.tv": "INACTIVE"
+        },
+        "1572036253": {
+            "proxy.alphonso.tv": "INACTIVE"
+        },
+        "1572036260": {
+            "pub.grandonmedia.com": "INACTIVE",
+            "quickmessage.us": "INACTIVE"
+        },
+        "1572036262": {
+            "reports.crashlytics.com": "INACTIVE",
+            "req.startappservice.com": "INACTIVE"
+        },
+        "1572036263": {
+            "rt.applovin.com": "INACTIVE"
+        },
+        "1572036264": {
+            "rtblbtr.alphonso.tv": "INACTIVE"
+        },
+        "1572036266": {
+            "sdkconfig.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572036267": {
+            "sdkconfig.ad.xiaomi.com": "INACTIVE",
+            "sdklogs.avocarrot.com": "INACTIVE",
+            "sdktm.w.inmobi.com": "INACTIVE"
+        },
+        "1572036268": {
+            "sebder.roboinside.me": "INACTIVE"
+        },
+        "1572036274": {
+            "segment.hotstar.com": "INACTIVE"
+        },
+        "1572036280": {
+            "service.face2trade.com": "INACTIVE"
+        },
+        "1572036281": {
+            "service.videoplaza.tv": "INACTIVE",
+            "settings.crashlytics.com": "INACTIVE"
+        },
+        "1572036284": {
+            "sgp.o2o.api.xiaomi.com": "INACTIVE"
+        },
+        "1572036293": {
+            "sqm.telemetry.microsoft.com": "INACTIVE",
+            "srv.pixel.parsely.com": "INACTIVE"
+        },
+        "1572036295": {
+            "ssp.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572036301": {
+            "ssp.face2trade.com": "INACTIVE"
+        },
+        "1572036302": {
+            "stat-c.maxthon.com": "INACTIVE"
+        },
+        "1572036303": {
+            "stats.bidgear.com": "INACTIVE"
+        },
+        "1572036313": {
+            "storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572036314": {
+            "support.apple.com-notice.info": "INACTIVE"
+        },
+        "1572036316": {
+            "t.appsflyer.com": "INACTIVE",
+            "tags.news.com.au": "INACTIVE",
+            "telecommand.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1572036323": {
+            "telemetry.layer.com": "INACTIVE"
+        },
+        "1572036324": {
+            "test.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572036326": {
+            "test.new.api.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572036328": {
+            "track.adtrue.com": "INACTIVE",
+            "tracking.i2w.io": "INACTIVE"
+        },
+        "1572036335": {
+            "tracking.intl.miui.com": "INACTIVE"
+        },
+        "1572036336": {
+            "track.tenjin.io": "INACTIVE",
+            "tracking-thirdparty.i2w.io": "INACTIVE",
+            "tracking.miui.com": "INACTIVE"
+        },
+        "1572036344": {
+            "users.ero-advertising.com": "INACTIVE"
+        },
+        "1572036351": {
+            "v10c.events.data.microsoft.com": "INACTIVE"
+        },
+        "1572036357": {
+            "v10.events.data.microsoft.com": "INACTIVE"
+        },
+        "1572036363": {
+            "v10.vortex-win.data.microsoft.com": "INACTIVE"
+        },
+        "1572036370": {
+            "villa.alphonso.tv": "INACTIVE"
+        },
+        "1572036376": {
+            "vortex-win.data.microsoft.com": "INACTIVE",
+            "vrl.m.conviva.com": "INACTIVE",
+            "watches-my.stream": "INACTIVE"
+        },
+        "1572036382": {
+            "watson.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1572036389": {
+            "web2.alphonso.tv": "INACTIVE"
+        },
+        "1572036395": {
+            "web.vortex.data.microsoft.com": "INACTIVE",
+            "wf.taboola.com": "INACTIVE",
+            "woodpecker.uc.cn": "INACTIVE"
+        },
+        "1572036396": {
+            "www.15.taboola.com": "INACTIVE"
+        },
+        "1572036398": {
+            "www.4436230.fls.doubleclick.net": "INACTIVE",
+            "www.4448269.fls.doubleclick.net": "INACTIVE"
+        },
+        "1572036400": {
+            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.abtest.mistat.xiaomi.com": "INACTIVE"
+        },
+        "1572036404": {
+            "www.ads.chacomedia.com": "INACTIVE",
+            "www.ads2live.com": "INACTIVE"
+        },
+        "1572036411": {
+            "www.ads.grandonmedia.com": "INACTIVE",
+            "www.ads.mp.mydas.mobi": "INACTIVE"
+        },
+        "1572036420": {
+            "www.adv.grandonmedia.com": "INACTIVE",
+            "www.adv.sec.intl.miui.com": "INACTIVE"
+        },
+        "1572036423": {
+            "www.analytics-digit-in.cdn.ampproject.org": "INACTIVE"
+        },
+        "1572036424": {
+            "www.analytics.publitas.com": "INACTIVE"
+        },
+        "1572036425": {
+            "www.api.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572036426": {
+            "www.api.ad.snappea.com": "INACTIVE",
+            "www.api.ad.xiaomi.com": "INACTIVE",
+            "www.api.admob.xiaomi.com": "INACTIVE"
+        },
+        "1572036427": {
+            "www.api.brs.intl.miui.com": "INACTIVE"
+        },
+        "1572036428": {
+            "www.api.collect.data.intl.miui.com": "INACTIVE"
+        },
+        "1572036429": {
+            "www.api.d.xiaomi.com": "INACTIVE"
+        },
+        "1572036436": {
+            "www.api.grandonmedia.com": "INACTIVE"
+        },
+        "1572036437": {
+            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
+            "www.api.sec.intl.miui.com": "INACTIVE"
+        },
+        "1572036438": {
+            "www.api.setting.intl.miui.com": "INACTIVE",
+            "www.apple.com-fasting.live": "INACTIVE",
+            "www.apple.com-notice.info": "INACTIVE",
+            "www.applicationunificationcontroller.com": "INACTIVE"
+        },
+        "1572036439": {
+            "www.applog.camera360.com": "INACTIVE"
+        },
+        "1572036448": {
+            "www.app.storage.yunvm.com": "INACTIVE"
+        },
+        "1572036451": {
+            "www.a.stat.xiaomi.com": "INACTIVE"
+        },
+        "1572036452": {
+            "www.authbe.sec.intl.miui.com": "INACTIVE"
+        },
+        "1572036454": {
+            "www.best2017games.com": "INACTIVE"
+        },
+        "1572036455": {
+            "www.bi-collector.oneapm.com": "INACTIVE"
+        },
+        "1572036462": {
+            "www.bid.grandonmedia.com": "INACTIVE"
+        },
+        "1572036463": {
+            "www.blog.roboinside.me": "INACTIVE"
+        },
+        "1572036465": {
+            "www.ccc.sys.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572036466": {
+            "www.ccc.sys.miui.com": "INACTIVE"
+        },
+        "1572036467": {
+            "www.cc.sys.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572036468": {
+            "www.cc.sys.miui.com": "INACTIVE"
+        },
+        "1572036469": {
+            "www.cdn.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572036477": {
+            "www.click.grandonmedia.com": "INACTIVE",
+            "www.com-fasting.live": "INACTIVE"
+        },
+        "1572036478": {
+            "www.com-notice.info": "INACTIVE",
+            "www.convhkmp.taboola.com": "INACTIVE",
+            "www.convlatbmp.taboola.com": "INACTIVE"
+        },
+        "1572036479": {
+            "www.cws.conviva.com": "INACTIVE"
+        },
+        "1572036480": {
+            "www.datacollect.vmall.com": "INACTIVE"
+        },
+        "1572036481": {
+            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.data.mistat.xiaomi.com": "INACTIVE"
+        },
+        "1572036482": {
+            "www.data.sec.intl.miui.com": "INACTIVE"
+        },
+        "1572036486": {
+            "www.e.ad.xiaomi.com": "INACTIVE",
+            "www.ecommerce.roboinside.me": "INACTIVE"
+        },
+        "1572036489": {
+            "www.fcanr.tracking.miui.com": "INACTIVE"
+        },
+        "1572036491": {
+            "www.flash.sec.intl.miui.com": "INACTIVE"
+        },
+        "1572036494": {
+            "www.geofence.sys.miui.com": "INACTIVE",
+            "www.globalapi.ad.xiaomi.com": "INACTIVE",
+            "www.googletagmanager.com": "INACTIVE",
+            "www.googletagservices.com": "INACTIVE"
+        },
+        "1572036502": {
+            "www.grandonmedia.com": "INACTIVE",
+            "www.hotstar.pubnub.net": "INACTIVE"
+        },
+        "1572036503": {
+            "www.icloud.com-locations.in": "INACTIVE",
+            "www.imprhkmp.taboola.com": "INACTIVE",
+            "www.imprlatbmp.taboola.com": "INACTIVE"
+        },
+        "1572036504": {
+            "www.in-star.videoplaza.tv": "INACTIVE",
+            "www.in-starlive-preroll.videoplaza.tv": "INACTIVE",
+            "www.in-starlive.videoplaza.tv": "INACTIVE",
+            "www.in-viacom18.videoplaza.tv": "INACTIVE"
+        },
+        "1572036506": {
+            "www.jackbootedroom.com": "INACTIVE",
+            "www.kushat.roboinside.me": "INACTIVE"
+        },
+        "1572036508": {
+            "www.match.taboola.com": "INACTIVE"
+        },
+        "1572036511": {
+            "www.new.api.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572036513": {
+            "www.notification-browser.tools": "INACTIVE"
+        },
+        "1572036514": {
+            "www.opps.taboola.com": "INACTIVE"
         }
     }
 }
