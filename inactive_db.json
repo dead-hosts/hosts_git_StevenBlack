@@ -230,111 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1572126959": {
-            "www.imprhkmp.taboola.com": "INACTIVE",
-            "www.imprlatbmp.taboola.com": "INACTIVE"
-        },
-        "1572126960": {
-            "www.in-star.videoplaza.tv": "INACTIVE",
-            "www.in-starlive-preroll.videoplaza.tv": "INACTIVE",
-            "www.in-starlive.videoplaza.tv": "INACTIVE",
-            "www.in-viacom18.videoplaza.tv": "INACTIVE"
-        },
-        "1572126962": {
-            "www.jackbootedroom.com": "INACTIVE",
-            "www.kushat.roboinside.me": "INACTIVE"
-        },
-        "1572126963": {
-            "www.match.taboola.com": "INACTIVE"
-        },
-        "1572126967": {
-            "www.new.api.ad.xiaomi.com": "INACTIVE"
-        },
-        "1572126969": {
-            "www.notification-browser.tools": "INACTIVE",
-            "www.opps.taboola.com": "INACTIVE"
-        },
-        "1572126976": {
-            "www.parentelement.tk": "INACTIVE"
-        },
-        "1572126987": {
-            "www.pub.grandonmedia.com": "INACTIVE"
-        },
-        "1572127098": {
-            "www.pushedwebnews.com": "INACTIVE"
-        },
-        "1572127100": {
-            "www.roboinside.me": "INACTIVE"
-        },
-        "1572127103": {
-            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE"
-        },
-        "1572127104": {
-            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
-            "www.sebder.roboinside.me": "INACTIVE",
-            "www.service.videoplaza.tv": "INACTIVE"
-        },
-        "1572127105": {
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
-        },
-        "1572127107": {
-            "www.srv.pixel.parsely.com": "INACTIVE",
-            "www.ssp.ad.xiaomi.com": "INACTIVE"
-        },
-        "1572127109": {
-            "www.stats.jpush.cn": "INACTIVE"
-        },
-        "1572127110": {
-            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.superlogout.github.io": "INACTIVE"
-        },
-        "1572127111": {
-            "www.supload.com": "INACTIVE",
-            "www.support.apple.com-notice.info": "INACTIVE"
-        },
-        "1572127112": {
-            "www.test.ad.xiaomi.com": "INACTIVE"
-        },
-        "1572127113": {
-            "www.test.e.ad.xiaomi.com": "INACTIVE",
-            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
-        },
-        "1572127116": {
-            "www.tracking.intl.miui.com": "INACTIVE",
-            "www.tracking.miui.com": "INACTIVE"
-        },
-        "1572127119": {
-            "www.vidutils.taboola.com": "INACTIVE",
-            "www.vrl.m.conviva.com": "INACTIVE",
-            "www.wf.taboola.com": "INACTIVE"
-        },
-        "1572127121": {
-            "www.zee.cws.conviva.com": "INACTIVE"
-        },
-        "1572127124": {
-            "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
-        },
-        "1572127125": {
-            "www.zeus.ad.xiaomi.com": "INACTIVE"
-        },
-        "1572127126": {
-            "xda-developers.us": "INACTIVE"
-        },
-        "1572127128": {
-            "xn--srahah-bua.eu": "INACTIVE"
-        },
-        "1572127129": {
-            "youshouldclick.us": "INACTIVE"
-        },
-        "1572127131": {
-            "zee.cws.conviva.com": "INACTIVE"
-        },
-        "1572127134": {
-            "zeus.ad.intl.xiaomi.com": "INACTIVE"
-        },
-        "1572127136": {
-            "zeus.ad.xiaomi.com": "INACTIVE"
-        },
         "1572299378": {
             "1493361689.rsc.cdn77.org": "INACTIVE",
             "15.taboola.com": "INACTIVE"
@@ -938,6 +833,114 @@
         },
         "1572299978": {
             "www.icloud.com-locations.in": "INACTIVE"
+        },
+        "1572300107": {
+            "www.imprhkmp.taboola.com": "INACTIVE",
+            "www.imprlatbmp.taboola.com": "INACTIVE"
+        },
+        "1572300108": {
+            "www.in-star.videoplaza.tv": "INACTIVE",
+            "www.in-starlive-preroll.videoplaza.tv": "INACTIVE",
+            "www.in-starlive.videoplaza.tv": "INACTIVE",
+            "www.in-viacom18.videoplaza.tv": "INACTIVE"
+        },
+        "1572300109": {
+            "www.jackbootedroom.com": "INACTIVE"
+        },
+        "1572300110": {
+            "www.kushat.roboinside.me": "INACTIVE"
+        },
+        "1572300111": {
+            "www.match.taboola.com": "INACTIVE"
+        },
+        "1572300114": {
+            "www.new.api.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572300116": {
+            "www.notification-browser.tools": "INACTIVE",
+            "www.opps.taboola.com": "INACTIVE"
+        },
+        "1572300129": {
+            "www.pub.grandonmedia.com": "INACTIVE"
+        },
+        "1572300130": {
+            "www.pushedwebnews.com": "INACTIVE"
+        },
+        "1572300131": {
+            "www.roboinside.me": "INACTIVE"
+        },
+        "1572300140": {
+            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572300141": {
+            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
+            "www.sebder.roboinside.me": "INACTIVE",
+            "www.service.videoplaza.tv": "INACTIVE"
+        },
+        "1572300142": {
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
+        },
+        "1572300144": {
+            "www.srv.pixel.parsely.com": "INACTIVE"
+        },
+        "1572300145": {
+            "www.ssp.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572300146": {
+            "www.stats.jpush.cn": "INACTIVE"
+        },
+        "1572300147": {
+            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572300148": {
+            "www.superlogout.github.io": "INACTIVE"
+        },
+        "1572300149": {
+            "www.supload.com": "INACTIVE",
+            "www.support.apple.com-notice.info": "INACTIVE"
+        },
+        "1572300151": {
+            "www.test.ad.xiaomi.com": "INACTIVE",
+            "www.test.e.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572300152": {
+            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
+        },
+        "1572300154": {
+            "www.tracking.intl.miui.com": "INACTIVE"
+        },
+        "1572300155": {
+            "www.tracking.miui.com": "INACTIVE"
+        },
+        "1572300157": {
+            "www.vidutils.taboola.com": "INACTIVE",
+            "www.vrl.m.conviva.com": "INACTIVE",
+            "www.wf.taboola.com": "INACTIVE"
+        },
+        "1572300159": {
+            "www.zee.cws.conviva.com": "INACTIVE"
+        },
+        "1572300163": {
+            "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572300164": {
+            "www.zeus.ad.xiaomi.com": "INACTIVE",
+            "xda-developers.us": "INACTIVE"
+        },
+        "1572300167": {
+            "xn--srahah-bua.eu": "INACTIVE"
+        },
+        "1572300168": {
+            "youshouldclick.us": "INACTIVE"
+        },
+        "1572300170": {
+            "zee.cws.conviva.com": "INACTIVE"
+        },
+        "1572300172": {
+            "zeus.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1572300174": {
+            "zeus.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
