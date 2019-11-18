@@ -230,75 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1573122634": {
-            "ads30.adcolony.com": "INACTIVE"
-        },
-        "1573122641": {
-            "adscan.yelabapp.com": "INACTIVE"
-        },
-        "1573122676": {
-            "analytics.ext.go-tellm.com": "INACTIVE"
-        },
-        "1573122742": {
-            "api.userstyles.org": "INACTIVE"
-        },
-        "1573122743": {
-            "apple.com-fasting.live": "INACTIVE"
-        },
-        "1573122779": {
-            "castoola.tv.lan": "INVALID"
-        },
-        "1573122893": {
-            "greatmacsoft.tech": "INACTIVE"
-        },
-        "1573122898": {
-            "icloud.com-locations.in": "INACTIVE"
-        },
-        "1573122959": {
-            "notification-browser.tools": "INACTIVE"
-        },
-        "1573123083": {
-            "trace.svc.ui.com": "INACTIVE"
-        },
-        "1573123094": {
-            "users.ero-advertising.com": "INACTIVE"
-        },
-        "1573123126": {
-            "watches-my.stream": "INACTIVE"
-        },
-        "1573123195": {
-            "www.apple.com-fasting.live": "INACTIVE"
-        },
-        "1573123196": {
-            "www.applicationunificationcontroller.com": "INACTIVE"
-        },
-        "1573123216": {
-            "www.best2017games.com": "INACTIVE"
-        },
-        "1573126911": {
-            "www.com-fasting.live": "INACTIVE"
-        },
-        "1573126938": {
-            "www.icloud.com-locations.in": "INACTIVE"
-        },
-        "1573126948": {
-            "www.notification-browser.tools": "INACTIVE"
-        },
-        "1573126980": {
-            "www.superlogout.github.io": "INACTIVE"
-        },
-        "1573126982": {
-            "www.supload.com": "INACTIVE"
-        },
-        "1573127000": {
-            "xn--srahah-bua.eu": "INACTIVE"
-        },
-        "1573296113": {
-            "www.phpmyadmin.ero-advertising.com": "INACTIVE"
-        },
-        "1573296120": {
-            "phpmyadmin.js.ero-advertising.com": "INACTIVE"
-        },
         "1573985397": {
             "1493361689.rsc.cdn77.org": "INACTIVE",
             "adservice.google.com.vn": "INACTIVE"
@@ -926,6 +857,58 @@
         },
         "1573985962": {
             "fc.yahoo.com": "INACTIVE"
+        },
+        "1574071393": {
+            "www.diptanuinfo.co.cc": "INACTIVE"
+        },
+        "1574071643": {
+            "users.ero-advertising.com": "INACTIVE"
+        },
+        "1574071651": {
+            "www.supload.com": "INACTIVE"
+        },
+        "1574071653": {
+            "notification-browser.tools": "INACTIVE"
+        },
+        "1574071656": {
+            "www.notification-browser.tools": "INACTIVE"
+        },
+        "1574071658": {
+            "www.best2017games.com": "INACTIVE"
+        },
+        "1574071666": {
+            "greatmacsoft.tech": "INACTIVE"
+        },
+        "1574071673": {
+            "adscan.yelabapp.com": "INACTIVE"
+        },
+        "1574071674": {
+            "icloud.com-locations.in": "INACTIVE",
+            "www.icloud.com-locations.in": "INACTIVE"
+        },
+        "1574071684": {
+            "xn--srahah-bua.eu": "INACTIVE"
+        },
+        "1574071685": {
+            "quickmessage.us": "INACTIVE",
+            "youshouldclick.us": "INACTIVE"
+        },
+        "1574071686": {
+            "watches-my.stream": "INACTIVE",
+            "www.apple.com-fasting.live": "INACTIVE"
+        },
+        "1574071687": {
+            "apple.com-fasting.live": "INACTIVE",
+            "www.com-fasting.live": "INACTIVE"
+        },
+        "1574071722": {
+            "www.parentelement.tk": "INACTIVE"
+        },
+        "1574071724": {
+            "castoola.tv.lan": "INVALID"
+        },
+        "1574071731": {
+            "trace.svc.ui.com": "INACTIVE"
         }
     }
 }

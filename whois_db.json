@@ -5,7 +5,7 @@
         "state": "future"
     },
     "2no.co": {
-        "epoch": 1590278400,
+        "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
         "state": "future"
     },
@@ -40,7 +40,7 @@
         "state": "future"
     },
     "amazonco.uk": {
-        "epoch": 1600646400,
+        "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
         "state": "future"
     },
@@ -85,7 +85,7 @@
         "state": "future"
     },
     "best2017games.com": {
-        "epoch": 1599436800,
+        "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
         "state": "future"
     },
@@ -105,7 +105,7 @@
         "state": "future"
     },
     "bmwforum.co": {
-        "epoch": 1597190400,
+        "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
@@ -130,7 +130,7 @@
         "state": "future"
     },
     "castoola.com": {
-        "epoch": 1596499200,
+        "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
@@ -140,7 +140,7 @@
         "state": "future"
     },
     "chauksoa.net": {
-        "epoch": 1604620800,
+        "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
@@ -150,7 +150,7 @@
         "state": "future"
     },
     "com-fasting.live": {
-        "epoch": "1586995200",
+        "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
@@ -215,22 +215,22 @@
         "state": "future"
     },
     "fortnight.space": {
-        "epoch": 1601078400,
+        "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "fortnitechat.site": {
-        "epoch": 1601078400,
+        "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "freeadult.games": {
-        "epoch": "1576972800",
+        "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
     "freegiftcards.co": {
-        "epoch": 1592006400,
+        "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
@@ -240,12 +240,12 @@
         "state": "future"
     },
     "goooooooooogle.com": {
-        "epoch": 1602806400,
+        "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "grabify.link": {
-        "epoch": 1656979200,
+        "epoch": 1656979200.0,
         "expiration_date": "05-jul-2022",
         "state": "future"
     },
@@ -260,7 +260,7 @@
         "state": "past"
     },
     "hrtya.com": {
-        "epoch": "1581206400",
+        "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
@@ -275,17 +275,17 @@
         "state": "future"
     },
     "iplogger.com": {
-        "epoch": "1573862400",
-        "expiration_date": "16-nov-2019",
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
         "state": "future"
     },
     "iplogger.org": {
-        "epoch": "1585872000",
+        "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
         "state": "future"
     },
     "iplogger.ru": {
-        "epoch": "1582329600",
+        "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
@@ -295,7 +295,7 @@
         "state": "future"
     },
     "joinmy.site": {
-        "epoch": 1601078400,
+        "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
@@ -315,7 +315,7 @@
         "state": "future"
     },
     "ladsup.com": {
-        "epoch": 1592352000,
+        "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
@@ -325,7 +325,7 @@
         "state": "future"
     },
     "leancoding.co": {
-        "epoch": 1597190400,
+        "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
@@ -410,7 +410,7 @@
         "state": "future"
     },
     "powerad.ai": {
-        "epoch": 1607299200,
+        "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
@@ -450,7 +450,7 @@
         "state": "future"
     },
     "redshell.io": {
-        "epoch": "1585267200",
+        "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
@@ -475,8 +475,8 @@
         "state": "future"
     },
     "sex-and-flirt.com": {
-        "epoch": "1573344000",
-        "expiration_date": "10-nov-2019",
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
         "state": "future"
     },
     "sionicmedia.com": {
@@ -495,7 +495,7 @@
         "state": "future"
     },
     "spottyfly.com": {
-        "epoch": 1597276800,
+        "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
@@ -505,12 +505,12 @@
         "state": "future"
     },
     "stopify.co": {
-        "epoch": 1597190400,
+        "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "supload.com": {
-        "epoch": "1580515200",
+        "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
         "state": "future"
     },
@@ -520,7 +520,7 @@
         "state": "future"
     },
     "theannoyingsite.com": {
-        "epoch": "1575158400",
+        "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
         "state": "future"
     },
@@ -540,7 +540,7 @@
         "state": "future"
     },
     "treasuredata.com": {
-        "epoch": "1585440000",
+        "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
@@ -600,27 +600,27 @@
         "state": "future"
     },
     "xn--discrd-zxa.com": {
-        "epoch": 1597363200,
+        "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "xn--disordapp-s3a.com": {
-        "epoch": 1592006400,
+        "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "xn--minecrft-5za.com": {
-        "epoch": 1597363200,
+        "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "xn--srahah-bua.pl": {
-        "epoch": 1574208000,
+        "epoch": 1574208000.0,
         "expiration_date": "20-nov-2019",
         "state": "future"
     },
     "yip.su": {
-        "epoch": "1582070400",
+        "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
         "state": "future"
     },
