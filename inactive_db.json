@@ -230,372 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1573985617": {
-            "www.authbe.sec.intl.miui.com": "INACTIVE"
-        },
-        "1573985618": {
-            "data.sec.intl.miui.com": "INACTIVE"
-        },
-        "1573985619": {
-            "www.data.sec.intl.miui.com": "INACTIVE"
-        },
-        "1573985620": {
-            "www.zeus.ad.xiaomi.com": "INACTIVE",
-            "zeus.ad.xiaomi.com": "INACTIVE"
-        },
-        "1573985621": {
-            "sgp.o2o.api.xiaomi.com": "INACTIVE"
-        },
-        "1573985622": {
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
-        },
-        "1573985624": {
-            "assets.bilsyndication.com": "INACTIVE",
-            "biltag.bilsyndication.com": "INACTIVE",
-            "services.bilsyndication.com": "INACTIVE",
-            "www.flash.sec.intl.miui.com": "INACTIVE"
-        },
-        "1573985627": {
-            "events.appsflyer.com": "INACTIVE",
-            "www.datacollect.vmall.com": "INACTIVE"
-        },
-        "1573985628": {
-            "events3.adcolony.com": "INACTIVE",
-            "track.tenjin.io": "INACTIVE"
-        },
-        "1573985629": {
-            "api.stats.appa.pe": "INACTIVE"
-        },
-        "1573985631": {
-            "applog.camera360.com": "INACTIVE",
-            "applog.uc.cn": "INACTIVE"
-        },
-        "1573985632": {
-            "www.applog.camera360.com": "INACTIVE"
-        },
-        "1573985633": {
-            "bi-collector.oneapm.com": "INACTIVE"
-        },
-        "1573985634": {
-            "pixel.realclever.com": "INACTIVE",
-            "www.bi-collector.oneapm.com": "INACTIVE"
-        },
-        "1573985635": {
-            "ads.nexage.com": "INACTIVE",
-            "sdktm.w.inmobi.com": "INACTIVE",
-            "www.ads.mp.mydas.mobi": "INACTIVE"
-        },
-        "1573985641": {
-            "api.oneaudience.com": "INACTIVE"
-        },
-        "1573985642": {
-            "d.applovin.com": "INACTIVE"
-        },
-        "1573985648": {
-            "api.pubnative.net": "INACTIVE",
-            "l-v1.presage.io": "INACTIVE",
-            "rt.applovin.com": "INACTIVE"
-        },
-        "1573985651": {
-            "sdklogs.avocarrot.com": "INACTIVE"
-        },
-        "1573985658": {
-            "telemetry.layer.com": "INACTIVE"
-        },
-        "1573985661": {
-            "ad.click.kaffnet.com": "INACTIVE",
-            "api.ad.snappea.com": "INACTIVE",
-            "www.api.ad.snappea.com": "INACTIVE"
-        },
-        "1573985662": {
-            "ads.chacomedia.com": "INACTIVE",
-            "www.ads.chacomedia.com": "INACTIVE"
-        },
-        "1573985669": {
-            "ads.grandonmedia.com": "INACTIVE"
-        },
-        "1573985677": {
-            "www.ads.grandonmedia.com": "INACTIVE"
-        },
-        "1573985685": {
-            "adv.grandonmedia.com": "INACTIVE"
-        },
-        "1573985693": {
-            "www.adv.grandonmedia.com": "INACTIVE"
-        },
-        "1573985700": {
-            "api.grandonmedia.com": "INACTIVE"
-        },
-        "1573985708": {
-            "www.api.grandonmedia.com": "INACTIVE"
-        },
-        "1573985715": {
-            "bid.grandonmedia.com": "INACTIVE"
-        },
-        "1573985724": {
-            "blog.roboinside.me": "INACTIVE",
-            "www.bid.grandonmedia.com": "INACTIVE",
-            "www.blog.roboinside.me": "INACTIVE"
-        },
-        "1573985733": {
-            "click.grandonmedia.com": "INACTIVE"
-        },
-        "1573985740": {
-            "www.click.grandonmedia.com": "INACTIVE"
-        },
-        "1573985747": {
-            "dsp.face2trade.com": "INACTIVE"
-        },
-        "1573985748": {
-            "ecommerce.roboinside.me": "INACTIVE",
-            "www.ecommerce.roboinside.me": "INACTIVE"
-        },
-        "1573985755": {
-            "exchange.face2trade.com": "INACTIVE"
-        },
-        "1573985768": {
-            "www.grandonmedia.com": "INACTIVE"
-        },
-        "1573985775": {
-            "jira.face2trade.com": "INACTIVE",
-            "kushat.roboinside.me": "INACTIVE"
-        },
-        "1573985776": {
-            "www.kushat.roboinside.me": "INACTIVE",
-            "www.mediabarterexchange.com": "INACTIVE"
-        },
-        "1573985786": {
-            "pub.grandonmedia.com": "INACTIVE"
-        },
-        "1573985793": {
-            "www.pub.grandonmedia.com": "INACTIVE",
-            "www.roboinside.me": "INACTIVE"
-        },
-        "1573985796": {
-            "sebder.roboinside.me": "INACTIVE",
-            "www.sebder.roboinside.me": "INACTIVE"
-        },
-        "1573985802": {
-            "service.face2trade.com": "INACTIVE"
-        },
-        "1573985809": {
-            "ssp.face2trade.com": "INACTIVE"
-        },
-        "1573985812": {
-            "www.ads2live.com": "INACTIVE"
-        },
-        "1573985816": {
-            "15.taboola.com": "INACTIVE",
-            "convlatbmp.taboola.com": "INACTIVE",
-            "imprlatbmp.taboola.com": "INACTIVE",
-            "match.taboola.com": "INACTIVE",
-            "opps.taboola.com": "INACTIVE",
-            "www.15.taboola.com": "INACTIVE",
-            "www.convlatbmp.taboola.com": "INACTIVE",
-            "www.imprlatbmp.taboola.com": "INACTIVE",
-            "www.match.taboola.com": "INACTIVE",
-            "www.opps.taboola.com": "INACTIVE"
-        },
-        "1573985817": {
-            "graph.accountkit.com": "INACTIVE",
-            "ma312-r.analytics.edgesuite.net": "INACTIVE",
-            "wf.taboola.com": "INACTIVE",
-            "www.vidutils.taboola.com": "INACTIVE",
-            "www.wf.taboola.com": "INACTIVE"
-        },
-        "1573985824": {
-            "ads5.truecaller.com": "INACTIVE",
-            "api.c.avazunativeads.com": "INACTIVE",
-            "telecommand.telemetry.microsoft.com": "INACTIVE",
-            "web.vortex.data.microsoft.com": "INACTIVE"
-        },
-        "1573985826": {
-            "feedback.adrecover.com": "INACTIVE",
-            "js34dc10.gamooga.com": "INACTIVE"
-        },
-        "1573985832": {
-            "watson.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1573985833": {
-            "orion.iad.appboy.com": "INACTIVE"
-        },
-        "1573985834": {
-            "gtsdk.batmobi.net": "INACTIVE",
-            "gum.criteo.com": "INACTIVE",
-            "nativesdks.mparticle.com": "INACTIVE",
-            "ploy.batmobi.net": "INACTIVE"
-        },
-        "1573985836": {
-            "engine.bitmedianetwork.com": "INACTIVE"
-        },
-        "1573985837": {
-            "www.pushedwebnews.com": "INACTIVE"
-        },
-        "1573985838": {
-            "onlineapi.youappi.com": "INACTIVE"
-        },
-        "1573985852": {
-            "app.storage.yunvm.com": "INACTIVE"
-        },
-        "1573985864": {
-            "www.app.storage.yunvm.com": "INACTIVE"
-        },
-        "1573985865": {
-            "api.tvpage.com": "INACTIVE",
-            "www.pull-3045.kxcdn.com": "INACTIVE"
-        },
-        "1573985876": {
-            "segment.hotstar.com": "INACTIVE",
-            "service.videoplaza.tv": "INACTIVE",
-            "www.service.videoplaza.tv": "INACTIVE"
-        },
-        "1573985877": {
-            "hotstar.worldgravity.com": "INACTIVE",
-            "in-star.videoplaza.tv": "INACTIVE",
-            "www.in-star.videoplaza.tv": "INACTIVE"
-        },
-        "1573985878": {
-            "ap-sonar.sociomantic.com": "INACTIVE"
-        },
-        "1573985885": {
-            "sqm.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1573985891": {
-            "adservice.google.co.in": "INACTIVE",
-            "settings.crashlytics.com": "INACTIVE",
-            "vortex-win.data.microsoft.com": "INACTIVE"
-        },
-        "1573985892": {
-            "logs.gaana.com": "INACTIVE"
-        },
-        "1573985894": {
-            "stat-c.maxthon.com": "INACTIVE",
-            "t.appsflyer.com": "INACTIVE"
-        },
-        "1573985895": {
-            "hotstar.pubnub.net": "INACTIVE",
-            "in-starlive.videoplaza.tv": "INACTIVE",
-            "www.hotstar.pubnub.net": "INACTIVE"
-        },
-        "1573985896": {
-            "api.taplytics.com": "INACTIVE",
-            "cdn-settings.segment.com": "INACTIVE",
-            "decide.mixpanel.com": "INACTIVE",
-            "in-starlive-preroll.videoplaza.tv": "INACTIVE",
-            "reports.crashlytics.com": "INACTIVE",
-            "www.in-starlive.videoplaza.tv": "INACTIVE"
-        },
-        "1573985897": {
-            "cdn.auditude.com": "INACTIVE",
-            "www.in-starlive-preroll.videoplaza.tv": "INACTIVE"
-        },
-        "1573985899": {
-            "msmetrics.ws.sonos.com": "INACTIVE"
-        },
-        "1573985900": {
-            "convhkmp.taboola.com": "INACTIVE",
-            "in-viacom18.videoplaza.tv": "INACTIVE",
-            "www.in-viacom18.videoplaza.tv": "INACTIVE"
-        },
-        "1573985901": {
-            "www.convhkmp.taboola.com": "INACTIVE"
-        },
-        "1573985904": {
-            "gj.applog.uc.cn": "INACTIVE",
-            "gj.track.uc.cn": "INACTIVE",
-            "gjtrack.ucweb.com": "INACTIVE",
-            "imprhkmp.taboola.com": "INACTIVE"
-        },
-        "1573985905": {
-            "www.imprhkmp.taboola.com": "INACTIVE"
-        },
-        "1573985908": {
-            "woodpecker.uc.cn": "INACTIVE"
-        },
-        "1573985920": {
-            "v10.events.data.microsoft.com": "INACTIVE"
-        },
-        "1573985926": {
-            "v10.vortex-win.data.microsoft.com": "INACTIVE"
-        },
-        "1573985932": {
-            "v10c.events.data.microsoft.com": "INACTIVE"
-        },
-        "1573985938": {
-            "mobile.pipe.aria.microsoft.com": "INACTIVE"
-        },
-        "1573985944": {
-            "nexus.officeapps.live.com": "INACTIVE"
-        },
-        "1573985950": {
-            "nexusrules.officeapps.live.com": "INACTIVE"
-        },
-        "1573985957": {
-            "browser.pipe.aria.microsoft.com": "INACTIVE",
-            "cws.conviva.com": "INACTIVE"
-        },
-        "1573985959": {
-            "vrl.m.conviva.com": "INACTIVE",
-            "www.cws.conviva.com": "INACTIVE",
-            "www.vrl.m.conviva.com": "INACTIVE",
-            "www.zee.cws.conviva.com": "INACTIVE",
-            "zee.cws.conviva.com": "INACTIVE"
-        },
-        "1573985960": {
-            "beap-bc.yahoo.com": "INACTIVE"
-        },
-        "1573985962": {
-            "fc.yahoo.com": "INACTIVE"
-        },
-        "1574071643": {
-            "users.ero-advertising.com": "INACTIVE"
-        },
-        "1574071651": {
-            "www.supload.com": "INACTIVE"
-        },
-        "1574071653": {
-            "notification-browser.tools": "INACTIVE"
-        },
-        "1574071656": {
-            "www.notification-browser.tools": "INACTIVE"
-        },
-        "1574071658": {
-            "www.best2017games.com": "INACTIVE"
-        },
-        "1574071666": {
-            "greatmacsoft.tech": "INACTIVE"
-        },
-        "1574071673": {
-            "adscan.yelabapp.com": "INACTIVE"
-        },
-        "1574071674": {
-            "icloud.com-locations.in": "INACTIVE",
-            "www.icloud.com-locations.in": "INACTIVE"
-        },
-        "1574071684": {
-            "xn--srahah-bua.eu": "INACTIVE"
-        },
-        "1574071685": {
-            "quickmessage.us": "INACTIVE",
-            "youshouldclick.us": "INACTIVE"
-        },
-        "1574071686": {
-            "watches-my.stream": "INACTIVE",
-            "www.apple.com-fasting.live": "INACTIVE"
-        },
-        "1574071687": {
-            "apple.com-fasting.live": "INACTIVE",
-            "www.com-fasting.live": "INACTIVE"
-        },
-        "1574071722": {
-            "www.parentelement.tk": "INACTIVE"
-        },
-        "1574071724": {
-            "castoola.tv.lan": "INVALID"
-        },
-        "1574071731": {
-            "trace.svc.ui.com": "INACTIVE"
-        },
         "1574287226": {
             "1493361689.rsc.cdn77.org": "INACTIVE"
         },
@@ -778,6 +412,201 @@
         },
         "1574287827": {
             "www.api.setting.intl.miui.com": "INACTIVE"
+        },
+        "1574332345": {
+            "sdkconfig.ad.xiaomi.com": "INACTIVE"
+        },
+        "1574332444": {
+            "tracking.intl.miui.com": "INACTIVE"
+        },
+        "1574332503": {
+            "www.authbe.sec.intl.miui.com": "INACTIVE"
+        },
+        "1574332517": {
+            "www.data.sec.intl.miui.com": "INACTIVE"
+        },
+        "1574332525": {
+            "www.zeus.ad.xiaomi.com": "INACTIVE"
+        },
+        "1574332538": {
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
+        },
+        "1574332552": {
+            "www.flash.sec.intl.miui.com": "INACTIVE"
+        },
+        "1574332567": {
+            "www.datacollect.vmall.com": "INACTIVE"
+        },
+        "1574332576": {
+            "www.applog.camera360.com": "INACTIVE"
+        },
+        "1574332583": {
+            "bi-collector.oneapm.com": "INACTIVE"
+        },
+        "1574332590": {
+            "www.bi-collector.oneapm.com": "INACTIVE"
+        },
+        "1574332591": {
+            "pixel.realclever.com": "INACTIVE"
+        },
+        "1574332598": {
+            "api.oneaudience.com": "INACTIVE"
+        },
+        "1574332604": {
+            "telemetry.layer.com": "INACTIVE"
+        },
+        "1574332606": {
+            "ads.chacomedia.com": "INACTIVE",
+            "www.api.ad.snappea.com": "INACTIVE"
+        },
+        "1574332607": {
+            "www.ads.chacomedia.com": "INACTIVE"
+        },
+        "1574332608": {
+            "ads.grandonmedia.com": "INACTIVE",
+            "www.ads.grandonmedia.com": "INACTIVE"
+        },
+        "1574332612": {
+            "adv.grandonmedia.com": "INACTIVE",
+            "www.adv.grandonmedia.com": "INACTIVE"
+        },
+        "1574332622": {
+            "api.grandonmedia.com": "INACTIVE",
+            "www.api.grandonmedia.com": "INACTIVE"
+        },
+        "1574332625": {
+            "bid.grandonmedia.com": "INACTIVE"
+        },
+        "1574332626": {
+            "blog.roboinside.me": "INACTIVE",
+            "www.bid.grandonmedia.com": "INACTIVE"
+        },
+        "1574332627": {
+            "www.blog.roboinside.me": "INACTIVE"
+        },
+        "1574332630": {
+            "click.grandonmedia.com": "INACTIVE"
+        },
+        "1574332631": {
+            "www.click.grandonmedia.com": "INACTIVE"
+        },
+        "1574332638": {
+            "dsp.face2trade.com": "INACTIVE",
+            "ecommerce.roboinside.me": "INACTIVE",
+            "www.ecommerce.roboinside.me": "INACTIVE"
+        },
+        "1574332645": {
+            "exchange.face2trade.com": "INACTIVE"
+        },
+        "1574332646": {
+            "www.grandonmedia.com": "INACTIVE"
+        },
+        "1574332652": {
+            "jira.face2trade.com": "INACTIVE"
+        },
+        "1574332653": {
+            "kushat.roboinside.me": "INACTIVE",
+            "www.kushat.roboinside.me": "INACTIVE",
+            "www.mediabarterexchange.com": "INACTIVE"
+        },
+        "1574332660": {
+            "pub.grandonmedia.com": "INACTIVE"
+        },
+        "1574332661": {
+            "www.pub.grandonmedia.com": "INACTIVE",
+            "www.roboinside.me": "INACTIVE"
+        },
+        "1574332664": {
+            "sebder.roboinside.me": "INACTIVE",
+            "www.sebder.roboinside.me": "INACTIVE"
+        },
+        "1574332670": {
+            "service.face2trade.com": "INACTIVE"
+        },
+        "1574332677": {
+            "ssp.face2trade.com": "INACTIVE"
+        },
+        "1574332678": {
+            "www.ads2live.com": "INACTIVE"
+        },
+        "1574332685": {
+            "www.15.taboola.com": "INACTIVE",
+            "www.convlatbmp.taboola.com": "INACTIVE",
+            "www.imprlatbmp.taboola.com": "INACTIVE",
+            "www.match.taboola.com": "INACTIVE",
+            "www.opps.taboola.com": "INACTIVE"
+        },
+        "1574332686": {
+            "www.vidutils.taboola.com": "INACTIVE",
+            "www.wf.taboola.com": "INACTIVE"
+        },
+        "1574332691": {
+            "www.pushedwebnews.com": "INACTIVE"
+        },
+        "1574332707": {
+            "ap-sonar.sociomantic.com": "INACTIVE"
+        },
+        "1574332708": {
+            "logs.gaana.com": "INACTIVE"
+        },
+        "1574332711": {
+            "reports.crashlytics.com": "INACTIVE"
+        },
+        "1574332714": {
+            "www.convhkmp.taboola.com": "INACTIVE"
+        },
+        "1574332715": {
+            "www.imprhkmp.taboola.com": "INACTIVE"
+        },
+        "1574332747": {
+            "users.ero-advertising.com": "INACTIVE"
+        },
+        "1574332750": {
+            "www.supload.com": "INACTIVE"
+        },
+        "1574332751": {
+            "notification-browser.tools": "INACTIVE"
+        },
+        "1574332752": {
+            "www.notification-browser.tools": "INACTIVE"
+        },
+        "1574332756": {
+            "www.best2017games.com": "INACTIVE"
+        },
+        "1574332763": {
+            "greatmacsoft.tech": "INACTIVE"
+        },
+        "1574332770": {
+            "adscan.yelabapp.com": "INACTIVE"
+        },
+        "1574332771": {
+            "icloud.com-locations.in": "INACTIVE",
+            "www.icloud.com-locations.in": "INACTIVE"
+        },
+        "1574332779": {
+            "xn--srahah-bua.eu": "INACTIVE"
+        },
+        "1574332780": {
+            "quickmessage.us": "INACTIVE",
+            "xn--srahah-bua.pl": "INACTIVE"
+        },
+        "1574332781": {
+            "watches-my.stream": "INACTIVE",
+            "www.apple.com-fasting.live": "INACTIVE",
+            "youshouldclick.us": "INACTIVE"
+        },
+        "1574332782": {
+            "apple.com-fasting.live": "INACTIVE",
+            "www.com-fasting.live": "INACTIVE"
+        },
+        "1574332805": {
+            "www.parentelement.tk": "INACTIVE"
+        },
+        "1574332808": {
+            "castoola.tv.lan": "INVALID"
+        },
+        "1574332814": {
+            "trace.svc.ui.com": "INACTIVE"
         }
     }
 }
