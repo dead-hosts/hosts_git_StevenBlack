@@ -230,37 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1574461163": {
-            "ap-sonar.sociomantic.com": "INACTIVE",
-            "logs.gaana.com": "INACTIVE",
-            "reports.crashlytics.com": "INACTIVE",
-            "www.convhkmp.taboola.com": "INACTIVE",
-            "www.imprhkmp.taboola.com": "INACTIVE"
-        },
-        "1574461164": {
-            "adscan.yelabapp.com": "INACTIVE",
-            "greatmacsoft.tech": "INACTIVE",
-            "icloud.com-locations.in": "INACTIVE",
-            "notification-browser.tools": "INACTIVE",
-            "quickmessage.us": "INACTIVE",
-            "users.ero-advertising.com": "INACTIVE",
-            "www.best2017games.com": "INACTIVE",
-            "www.icloud.com-locations.in": "INACTIVE",
-            "www.notification-browser.tools": "INACTIVE",
-            "www.supload.com": "INACTIVE",
-            "xn--srahah-bua.eu": "INACTIVE",
-            "xn--srahah-bua.pl": "INACTIVE"
-        },
-        "1574461165": {
-            "apple.com-fasting.live": "INACTIVE",
-            "castoola.tv.lan": "INVALID",
-            "trace.svc.ui.com": "INACTIVE",
-            "watches-my.stream": "INACTIVE",
-            "www.apple.com-fasting.live": "INACTIVE",
-            "www.com-fasting.live": "INACTIVE",
-            "www.parentelement.tk": "INACTIVE",
-            "youshouldclick.us": "INACTIVE"
-        },
         "1574633565": {
             "ads.chacomedia.com": "INACTIVE",
             "ads.grandonmedia.com": "INACTIVE",
@@ -360,6 +329,29 @@
             "www.sebder.roboinside.me": "INACTIVE",
             "www.vidutils.taboola.com": "INACTIVE",
             "www.wf.taboola.com": "INACTIVE"
+        },
+        "1574633913": {
+            "ap-sonar.sociomantic.com": "INACTIVE",
+            "www.convhkmp.taboola.com": "INACTIVE",
+            "www.imprhkmp.taboola.com": "INACTIVE"
+        },
+        "1574633914": {
+            "apple.com-fasting.live": "INACTIVE",
+            "castoola.tv.lan": "INVALID",
+            "greatmacsoft.tech": "INACTIVE",
+            "icloud.com-locations.in": "INACTIVE",
+            "notification-browser.tools": "INACTIVE",
+            "quickmessage.us": "INACTIVE",
+            "watches-my.stream": "INACTIVE",
+            "www.apple.com-fasting.live": "INACTIVE",
+            "www.best2017games.com": "INACTIVE",
+            "www.com-fasting.live": "INACTIVE",
+            "www.icloud.com-locations.in": "INACTIVE",
+            "www.notification-browser.tools": "INACTIVE",
+            "www.supload.com": "INACTIVE",
+            "xn--srahah-bua.eu": "INACTIVE",
+            "xn--srahah-bua.pl": "INACTIVE",
+            "youshouldclick.us": "INACTIVE"
         }
     }
 }
