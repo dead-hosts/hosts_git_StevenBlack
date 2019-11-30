@@ -120,6 +120,7 @@
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics-digit-in.cdn.ampproject.org
 0.0.0.0 analytics.ero-advertising.com
+0.0.0.0 analytics.ext.go-tellm.com
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics.icons8.com
@@ -233,6 +234,7 @@
 0.0.0.0 c.adskeeper.co.uk
 0.0.0.0 camsoda.com
 0.0.0.0 canuck-method.com
+0.0.0.0 castoola.com
 0.0.0.0 cata.ero-advertising.com
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
@@ -243,6 +245,8 @@
 0.0.0.0 cdn.auditude.com
 0.0.0.0 cdn.beginads.com
 0.0.0.0 cdn.bitmedianetwork.com
+0.0.0.0 cdn.castoola.com
+0.0.0.0 cdn.discoveryad.castoola.tv
 0.0.0.0 cdn-jp.gsecondscreen.com
 0.0.0.0 cdnjs.tvpage.com
 0.0.0.0 cdn.moengage.com
@@ -302,6 +306,7 @@
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 dimaria.alphonso.tv
+0.0.0.0 discoveryad.castoola.tv
 0.0.0.0 dobre-programy.pl
 0.0.0.0 dobreprogramy.pro
 0.0.0.0 dobre-programy.xyz
@@ -357,8 +362,8 @@
 0.0.0.0 gamblerush.com
 0.0.0.0 gata.ero-advertising.com
 0.0.0.0 geofence.sys.miui.com
-0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gjapplog.uc.cn
+0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gj.track.uc.cn
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 globalapi.ad.xiaomi.com
@@ -373,6 +378,7 @@
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 hata.ero-advertising.com
 0.0.0.0 hb-analytics.hotstar.com
+0.0.0.0 hb.brainlyads.com
 0.0.0.0 hbbtv.mediaset.net
 0.0.0.0 hosted.stats.com
 0.0.0.0 hosted.stats.com.edgesuite.net
@@ -417,6 +423,7 @@
 0.0.0.0 koudas.alphonso.tv
 0.0.0.0 kt5850pjz0.com
 0.0.0.0 kuikdelivery.com
+0.0.0.0 ladsup.com
 0.0.0.0 layers.ero-advertising.com
 0.0.0.0 lead.soperson.com
 0.0.0.0 leancoding.co
@@ -499,6 +506,7 @@
 0.0.0.0 pl-v2.presage.io
 0.0.0.0 popacs.ero-advertising.com
 0.0.0.0 postmediamontrealgazette2.files.wordpress.com
+0.0.0.0 powerad.ai
 0.0.0.0 powertradeprofit.com
 0.0.0.0 ppjs.alphonso.tv
 0.0.0.0 pr-bh.ybp.yahoo.com
@@ -520,6 +528,7 @@
 0.0.0.0 redirect.ero-advertising.com
 0.0.0.0 redshell.io
 0.0.0.0 register.appsflyer.com
+0.0.0.0 report.hb.brainlyads.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 rereddit.com
@@ -542,6 +551,7 @@
 0.0.0.0 s10.histats.com.ero-advertising.com
 0.0.0.0 s10paces.ero-advertising.com
 0.0.0.0 s7.adaces.ero-advertising.com
+0.0.0.0 s-bid.rmp.rakuten.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sdk.adincube.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
@@ -560,9 +570,11 @@
 0.0.0.0 sex-and-flirt.com
 0.0.0.0 sg.mmstat.com
 0.0.0.0 sgp.o2o.api.xiaomi.com
+0.0.0.0 s-imp.rmp.rakuten.com
 0.0.0.0 sin.ero-advertising.com
 0.0.0.0 sionicmedia.com
 0.0.0.0 sitecdn.tvpage.com
+0.0.0.0 smartlock.google.com
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 smtp.ero-advertising.com
 0.0.0.0 soperson.com
@@ -622,6 +634,7 @@
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 topads.ero-advertising.com
 0.0.0.0 torrenty-org.pl
+0.0.0.0 trace.svc.ui.com
 0.0.0.0 track.adtrue.com
 0.0.0.0 tracking.beginads.com
 0.0.0.0 tracking.ero-advertising.com
@@ -764,6 +777,7 @@
 0.0.0.0 www.anners.ero-advertising.com
 0.0.0.0 www.annualconsumersurvey.com
 0.0.0.0 www.api.axiatraders.com
+0.0.0.0 www.applicationunificationcontroller.com
 0.0.0.0 www.apps.id.net
 0.0.0.0 www.app.storage.yunvm.com
 0.0.0.0 www.arkonziv.com
@@ -830,6 +844,7 @@
 0.0.0.0 www.dawa.ero-advertising.com
 0.0.0.0 www.dbta.ero-advertising.com
 0.0.0.0 www.deta.ero-advertising.com
+0.0.0.0 www.dianomi.com
 0.0.0.0 www.diptanuinfo.co.cc
 0.0.0.0 www.dobre-programy.pl
 0.0.0.0 www.dobreprogramy.pro

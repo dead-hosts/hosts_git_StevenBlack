@@ -230,9 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1574979658": {
-            "castoola.tv.lan": "INVALID"
-        },
         "1575067673": {
             "analytics.247sports.com": "INACTIVE",
             "apple.com-notice.info": "INACTIVE",
@@ -356,6 +353,9 @@
             "xn--srahah-bua.eu": "INACTIVE",
             "xn--srahah-bua.pl": "INACTIVE",
             "youshouldclick.us": "INACTIVE"
+        },
+        "1575119045": {
+            "castoola.tv.lan": "INVALID"
         }
     }
 }
