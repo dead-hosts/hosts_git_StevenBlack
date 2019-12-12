@@ -7,6 +7,7 @@
 0.0.0.0 adv.grandonmedia.com
 0.0.0.0 analytics.247sports.com
 0.0.0.0 api.grandonmedia.com
+0.0.0.0 apple.com-fasting.live
 0.0.0.0 apple.com-notice.info
 0.0.0.0 apps3.cointraffic.io
 0.0.0.0 ap-sonar.sociomantic.com
@@ -17,10 +18,18 @@
 0.0.0.0 click.grandonmedia.com
 0.0.0.0 ecommerce.roboinside.me
 0.0.0.0 external.stealthedeal.com
+0.0.0.0 greatmacsoft.tech
+0.0.0.0 hexagram.rtk.io
+0.0.0.0 icloud.com-locations.in
 0.0.0.0 kushat.roboinside.me
 0.0.0.0 login.dotomi.net
+0.0.0.0 login.rtk.io
+0.0.0.0 media.rtk.io
 0.0.0.0 new.api.ad.xiaomi.com
+0.0.0.0 nj.thor.rtk.io
+0.0.0.0 notification-browser.tools
 0.0.0.0 pub.grandonmedia.com
+0.0.0.0 quickmessage.us
 0.0.0.0 rotator.beginads.com
 0.0.0.0 rtblbtr.alphonso.tv
 0.0.0.0 sebder.roboinside.me
@@ -29,6 +38,9 @@
 0.0.0.0 test.new.api.ad.xiaomi.com
 0.0.0.0 tracking.i2w.io
 0.0.0.0 tracking-thirdparty.i2w.io
+0.0.0.0 uk2.thor.rtk.io
+0.0.0.0 uk.thor.rtk.io
+0.0.0.0 watches-my.stream
 0.0.0.0 www.15.taboola.com
 0.0.0.0 www.abtest.mistat.intl.xiaomi.com
 0.0.0.0 www.abtest.mistat.xiaomi.com
@@ -47,6 +59,7 @@
 0.0.0.0 www.api.hybrid.intl.xiaomi.com
 0.0.0.0 www.api.sec.intl.miui.com
 0.0.0.0 www.api.setting.intl.miui.com
+0.0.0.0 www.apple.com-fasting.live
 0.0.0.0 www.apple.com-notice.info
 0.0.0.0 www.applog.camera360.com
 0.0.0.0 www.a.stat.xiaomi.com
@@ -62,6 +75,7 @@
 0.0.0.0 www.cdn.beginads.com
 0.0.0.0 www.click.grandonmedia.com
 0.0.0.0 www.clickopon.com
+0.0.0.0 www.com-fasting.live
 0.0.0.0 www.convhkmp.taboola.com
 0.0.0.0 www.convlatbmp.taboola.com
 0.0.0.0 www.datacollect.vmall.com
@@ -75,6 +89,7 @@
 0.0.0.0 www.geofence.sys.miui.com
 0.0.0.0 www.globalapi.ad.xiaomi.com
 0.0.0.0 www.grandonmedia.com
+0.0.0.0 www.icloud.com-locations.in
 0.0.0.0 www.imprhkmp.taboola.com
 0.0.0.0 www.imprlatbmp.taboola.com
 0.0.0.0 www.jackbootedroom.com
@@ -82,7 +97,9 @@
 0.0.0.0 www.match.taboola.com
 0.0.0.0 www.mediabarterexchange.com
 0.0.0.0 www.new.api.ad.xiaomi.com
+0.0.0.0 www.notification-browser.tools
 0.0.0.0 www.opps.taboola.com
+0.0.0.0 www.parentelement.tk
 0.0.0.0 www.pub.grandonmedia.com
 0.0.0.0 www.roboinside.me
 0.0.0.0 www.rotator.beginads.com
@@ -93,6 +110,7 @@
 0.0.0.0 www.ssp.ad.xiaomi.com
 0.0.0.0 www.stats.jpush.cn
 0.0.0.0 www.storeconfig.mistat.intl.xiaomi.com
+0.0.0.0 www.supload.com
 0.0.0.0 www.support.apple.com-notice.info
 0.0.0.0 www.test.ad.xiaomi.com
 0.0.0.0 www.test.e.ad.xiaomi.com
@@ -104,3 +122,6 @@
 0.0.0.0 www.wf.taboola.com
 0.0.0.0 www.zeus.ad.intl.xiaomi.com
 0.0.0.0 www.zeus.ad.xiaomi.com
+0.0.0.0 xn--srahah-bua.eu
+0.0.0.0 xn--srahah-bua.pl
+0.0.0.0 youshouldclick.us
