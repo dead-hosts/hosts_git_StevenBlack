@@ -204,6 +204,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "doublepimpads.com": {
+        "epoch": 1587168000.0,
+        "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
     "elixmedia.com": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
