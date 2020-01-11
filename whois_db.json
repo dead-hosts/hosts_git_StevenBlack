@@ -219,6 +219,11 @@
         "expiration_date": "27-dec-2020",
         "state": "future"
     },
+    "faymobi.com": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "state": "future"
+    },
     "fgoogle.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
@@ -268,6 +273,11 @@
         "epoch": 1564704000,
         "expiration_date": "02-aug-2019",
         "state": "past"
+    },
+    "hostingfreelife.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
     },
     "hrtya.com": {
         "epoch": 1581206400.0,
