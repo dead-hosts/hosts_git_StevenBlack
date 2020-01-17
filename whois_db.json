@@ -1,4 +1,9 @@
 {
+    "01mspmd5yalky8.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "0byv9mgbn0.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
@@ -19,6 +24,11 @@
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
+    "5kv261gjmq04c9.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "adsflame.com": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
@@ -35,9 +45,9 @@
         "state": "future"
     },
     "alliance4media.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
-        "state": "past"
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
     },
     "amarktflow.com": {
         "epoch": 1599782400.0,
@@ -47,6 +57,11 @@
     "amazonco.uk": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
+    "amorluv.com": {
+        "epoch": 1580342400.0,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "angiemktg.com": {
@@ -220,6 +235,11 @@
         "state": "future"
     },
     "dsw44z5igdmmbo.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "eh8jq4cmq8j9g5.com": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
         "state": "future"
