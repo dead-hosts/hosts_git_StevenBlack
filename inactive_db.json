@@ -235,11 +235,9 @@
             "adv.grandonmedia.com": "INACTIVE",
             "agl.hotstar.com": "INACTIVE",
             "api.grandonmedia.com": "INACTIVE",
-            "bi-collector.oneapm.com": "INACTIVE",
             "bid.grandonmedia.com": "INACTIVE",
             "click.grandonmedia.com": "INACTIVE",
             "greatmacsoft.tech": "INACTIVE",
-            "notification-browser.tools": "INACTIVE",
             "pub.grandonmedia.com": "INACTIVE",
             "tracking-thirdparty.i2w.io": "INACTIVE",
             "tracking.i2w.io": "INACTIVE",
@@ -252,24 +250,17 @@
             "www.api.sec.intl.miui.com": "INACTIVE",
             "www.api.setting.intl.miui.com": "INACTIVE",
             "www.authbe.sec.intl.miui.com": "INACTIVE",
-            "www.bi-collector.oneapm.com": "INACTIVE",
             "www.bid.grandonmedia.com": "INACTIVE",
-            "www.cc.sys.miui.com": "INACTIVE",
-            "www.ccc.sys.miui.com": "INACTIVE",
             "www.click.grandonmedia.com": "INACTIVE",
             "www.data.sec.intl.miui.com": "INACTIVE",
-            "www.fcanr.tracking.miui.com": "INACTIVE",
             "www.flash.sec.intl.miui.com": "INACTIVE",
-            "www.geofence.sys.miui.com": "INACTIVE",
             "www.grandonmedia.com": "INACTIVE",
             "www.jackbootedroom.com": "INACTIVE",
             "www.mediabarterexchange.com": "INACTIVE",
-            "www.notification-browser.tools": "INACTIVE",
             "www.pub.grandonmedia.com": "INACTIVE",
             "www.stats.jpush.cn": "INACTIVE",
             "www.superlogout.github.io": "INACTIVE",
-            "www.tracking.intl.miui.com": "INACTIVE",
-            "www.tracking.miui.com": "INACTIVE"
+            "www.tracking.intl.miui.com": "INACTIVE"
         },
         "1579304759": {
             "abtest.mistat.intl.xiaomi.com": "INACTIVE",
@@ -355,6 +346,17 @@
             "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
             "xn--srahah-bua.eu": "INACTIVE",
             "xn--srahah-bua.pl": "INACTIVE"
+        },
+        "1579387701": {
+            "bi-collector.oneapm.com": "INACTIVE",
+            "notification-browser.tools": "INACTIVE",
+            "www.bi-collector.oneapm.com": "INACTIVE",
+            "www.cc.sys.miui.com": "INACTIVE",
+            "www.ccc.sys.miui.com": "INACTIVE",
+            "www.fcanr.tracking.miui.com": "INACTIVE",
+            "www.geofence.sys.miui.com": "INACTIVE",
+            "www.notification-browser.tools": "INACTIVE",
+            "www.tracking.miui.com": "INACTIVE"
         }
     }
 }
