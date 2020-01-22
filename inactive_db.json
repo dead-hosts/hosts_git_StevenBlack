@@ -230,9 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1579518356": {
-            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
-        },
         "1579648991": {
             "ads.grandonmedia.com": "INACTIVE",
             "adv.grandonmedia.com": "INACTIVE",
@@ -377,6 +374,9 @@
         },
         "1579677565": {
             "www.idspaces.ero-advertising.com": "INACTIVE"
+        },
+        "1579684905": {
+            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         }
     }
 }
