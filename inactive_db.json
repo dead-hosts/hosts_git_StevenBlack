@@ -240,7 +240,6 @@
             "www.api.admob.xiaomi.com": "INACTIVE",
             "www.api.d.xiaomi.com": "INACTIVE",
             "www.cdn.ad.xiaomi.com": "INACTIVE",
-            "www.datacollect.vmall.com": "INACTIVE",
             "www.e.ad.xiaomi.com": "INACTIVE",
             "www.globalapi.ad.xiaomi.com": "INACTIVE",
             "www.new.api.ad.xiaomi.com": "INACTIVE",
@@ -360,6 +359,13 @@
             "www.vidutils.taboola.com": "INACTIVE",
             "www.wf.taboola.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE"
+        },
+        "1579913664": {
+            "exchange.face2trade.com": "INACTIVE",
+            "jira.face2trade.com": "INACTIVE"
+        },
+        "1579913665": {
+            "www.datacollect.vmall.com": "INACTIVE"
         }
     }
 }
