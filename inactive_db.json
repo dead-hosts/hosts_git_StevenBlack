@@ -230,12 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1579655382": {
-            "xn--srahah-bua.pl": "INACTIVE"
-        },
-        "1579684905": {
-            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
-        },
         "1579909217": {
             "analytics.247sports.com": "INACTIVE",
             "apple.com-fasting.live": "INACTIVE",
@@ -379,6 +373,12 @@
         },
         "1579934292": {
             "www.face2trade.com": "INACTIVE"
+        },
+        "1579938440": {
+            "xn--srahah-bua.pl": "INACTIVE"
+        },
+        "1579938441": {
+            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         }
     }
 }
