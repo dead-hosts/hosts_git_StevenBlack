@@ -230,13 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1580258686": {
-            "xn--srahah-bua.eu": "INACTIVE",
-            "xn--srahah-bua.pl": "INACTIVE"
-        },
-        "1580262187": {
-            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
-        },
         "1580382773": {
             "analytics.247sports.com": "INACTIVE",
             "apple.com-fasting.live": "INACTIVE",
@@ -365,6 +358,11 @@
             "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
             "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
             "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1580395208": {
+            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID",
+            "xn--srahah-bua.eu": "INACTIVE",
+            "xn--srahah-bua.pl": "INACTIVE"
         }
     }
 }
