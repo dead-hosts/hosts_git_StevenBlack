@@ -231,14 +231,8 @@
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
         "1580522103": {
-            "abtest.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
             "www.abtest.mistat.xiaomi.com": "INACTIVE",
-            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
-            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.ccc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
+            "www.ccc.sys.intl.xiaomi.com": "INACTIVE"
         },
         "1580525972": {
             "www.a.stat.xiaomi.com": "INACTIVE",
@@ -390,6 +384,14 @@
             "gata.ero-advertising.com": "INACTIVE",
             "www.adw.ero-advertising.com": "INACTIVE",
             "www.gata.ero-advertising.com": "INACTIVE"
+        },
+        "1580673568": {
+            "abtest.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
+            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
         }
     }
 }
