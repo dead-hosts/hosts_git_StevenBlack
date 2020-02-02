@@ -230,24 +230,7 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1580518099": {
-            "castoola.tv.lan": "INVALID",
-            "new.api.ad.xiaomi.com": "INACTIVE",
-            "watches-my.stream": "INACTIVE",
-            "www.15.taboola.com": "INACTIVE",
-            "www.convhkmp.taboola.com": "INACTIVE",
-            "www.convlatbmp.taboola.com": "INACTIVE",
-            "www.datacollect.vmall.com": "INACTIVE",
-            "www.imprhkmp.taboola.com": "INACTIVE",
-            "www.imprlatbmp.taboola.com": "INACTIVE",
-            "www.match.taboola.com": "INACTIVE",
-            "www.opps.taboola.com": "INACTIVE",
-            "www.supload.com": "INACTIVE",
-            "www.vidutils.taboola.com": "INACTIVE",
-            "www.wf.taboola.com": "INACTIVE"
-        },
         "1580518100": {
-            "test.new.api.ad.xiaomi.com": "INACTIVE",
             "www.test.new.api.ad.xiaomi.com": "INACTIVE"
         },
         "1580522102": {
@@ -380,6 +363,23 @@
             "www.roboinside.me": "INACTIVE",
             "www.sebder.roboinside.me": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE"
+        },
+        "1580662478": {
+            "castoola.tv.lan": "INVALID",
+            "new.api.ad.xiaomi.com": "INACTIVE",
+            "test.new.api.ad.xiaomi.com": "INACTIVE",
+            "watches-my.stream": "INACTIVE",
+            "www.15.taboola.com": "INACTIVE",
+            "www.convhkmp.taboola.com": "INACTIVE",
+            "www.convlatbmp.taboola.com": "INACTIVE",
+            "www.datacollect.vmall.com": "INACTIVE",
+            "www.imprhkmp.taboola.com": "INACTIVE",
+            "www.imprlatbmp.taboola.com": "INACTIVE",
+            "www.match.taboola.com": "INACTIVE",
+            "www.opps.taboola.com": "INACTIVE",
+            "www.supload.com": "INACTIVE",
+            "www.vidutils.taboola.com": "INACTIVE",
+            "www.wf.taboola.com": "INACTIVE"
         }
     }
 }
