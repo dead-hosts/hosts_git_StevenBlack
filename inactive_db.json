@@ -230,10 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1580522103": {
-            "www.abtest.mistat.xiaomi.com": "INACTIVE",
-            "www.ccc.sys.intl.xiaomi.com": "INACTIVE"
-        },
         "1580525972": {
             "www.a.stat.xiaomi.com": "INACTIVE",
             "www.data.mistat.xiaomi.com": "INACTIVE",
@@ -395,6 +391,10 @@
         },
         "1580676104": {
             "www.ad1.banners.ero-advertising.com": "INACTIVE"
+        },
+        "1580679559": {
+            "www.abtest.mistat.xiaomi.com": "INACTIVE",
+            "www.ccc.sys.intl.xiaomi.com": "INACTIVE"
         }
     }
 }
