@@ -230,35 +230,11 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1580514087": {
-            "bi-collector.oneapm.com": "INACTIVE",
-            "blog.roboinside.me": "INACTIVE",
-            "ecommerce.roboinside.me": "INACTIVE",
-            "hexagram.rtk.io": "INACTIVE",
-            "kushat.roboinside.me": "INACTIVE",
-            "login.rtk.io": "INACTIVE",
-            "media.rtk.io": "INACTIVE",
-            "nj.thor.rtk.io": "INACTIVE",
-            "sebder.roboinside.me": "INACTIVE",
-            "www.analytics.publitas.com": "INACTIVE",
-            "www.bi-collector.oneapm.com": "INACTIVE",
-            "www.blog.roboinside.me": "INACTIVE",
-            "www.ecommerce.roboinside.me": "INACTIVE",
-            "www.kushat.roboinside.me": "INACTIVE",
-            "www.roboinside.me": "INACTIVE",
-            "www.sebder.roboinside.me": "INACTIVE",
-            "wwww.playamo28.com": "INACTIVE"
-        },
         "1580518099": {
-            "ap-sonar.sociomantic.com": "INACTIVE",
             "castoola.tv.lan": "INVALID",
-            "external.stealthedeal.com": "INACTIVE",
             "new.api.ad.xiaomi.com": "INACTIVE",
-            "uk.thor.rtk.io": "INACTIVE",
-            "uk2.thor.rtk.io": "INACTIVE",
             "watches-my.stream": "INACTIVE",
             "www.15.taboola.com": "INACTIVE",
-            "www.api.ad.snappea.com": "INACTIVE",
             "www.convhkmp.taboola.com": "INACTIVE",
             "www.convlatbmp.taboola.com": "INACTIVE",
             "www.datacollect.vmall.com": "INACTIVE",
@@ -374,6 +350,36 @@
             "www.superlogout.github.io": "INACTIVE",
             "www.tracking.intl.miui.com": "INACTIVE",
             "www.tracking.miui.com": "INACTIVE"
+        },
+        "1580660152": {
+            "analytics.ero-advertising.com": "INACTIVE",
+            "www.analytics.ero-advertising.com": "INACTIVE"
+        },
+        "1580660153": {
+            "ap-sonar.sociomantic.com": "INACTIVE",
+            "bi-collector.oneapm.com": "INACTIVE",
+            "blog.roboinside.me": "INACTIVE",
+            "ecommerce.roboinside.me": "INACTIVE",
+            "external.stealthedeal.com": "INACTIVE",
+            "hexagram.rtk.io": "INACTIVE",
+            "kushat.roboinside.me": "INACTIVE",
+            "login.rtk.io": "INACTIVE",
+            "media.rtk.io": "INACTIVE",
+            "nj.thor.rtk.io": "INACTIVE",
+            "sebder.roboinside.me": "INACTIVE",
+            "ssp.face2trade.com": "INACTIVE",
+            "uk.thor.rtk.io": "INACTIVE",
+            "uk2.thor.rtk.io": "INACTIVE",
+            "www.analytics.publitas.com": "INACTIVE",
+            "www.api.ad.snappea.com": "INACTIVE",
+            "www.bi-collector.oneapm.com": "INACTIVE",
+            "www.blog.roboinside.me": "INACTIVE",
+            "www.ecommerce.roboinside.me": "INACTIVE",
+            "www.forums.ero-advertising.com": "INACTIVE",
+            "www.kushat.roboinside.me": "INACTIVE",
+            "www.roboinside.me": "INACTIVE",
+            "www.sebder.roboinside.me": "INACTIVE",
+            "wwww.playamo28.com": "INACTIVE"
         }
     }
 }
