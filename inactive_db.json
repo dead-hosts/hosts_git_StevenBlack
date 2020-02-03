@@ -233,25 +233,11 @@
         "1580525973": {
             "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         },
-        "1580660153": {
-            "external.stealthedeal.com": "INACTIVE"
-        },
         "1580662478": {
-            "castoola.tv.lan": "INVALID",
             "new.api.ad.xiaomi.com": "INACTIVE",
             "test.new.api.ad.xiaomi.com": "INACTIVE",
             "watches-my.stream": "INACTIVE",
-            "www.15.taboola.com": "INACTIVE",
-            "www.convhkmp.taboola.com": "INACTIVE",
-            "www.convlatbmp.taboola.com": "INACTIVE",
-            "www.datacollect.vmall.com": "INACTIVE",
-            "www.imprhkmp.taboola.com": "INACTIVE",
-            "www.imprlatbmp.taboola.com": "INACTIVE",
-            "www.match.taboola.com": "INACTIVE",
-            "www.opps.taboola.com": "INACTIVE",
-            "www.supload.com": "INACTIVE",
-            "www.vidutils.taboola.com": "INACTIVE",
-            "www.wf.taboola.com": "INACTIVE"
+            "www.datacollect.vmall.com": "INACTIVE"
         },
         "1580665203": {
             "ssp.ad.xiaomi.com": "INACTIVE",
@@ -404,6 +390,20 @@
             "www.tracking.intl.miui.com": "INACTIVE",
             "www.tracking.miui.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE"
+        },
+        "1580751190": {
+            "castoola.tv.lan": "INVALID",
+            "external.stealthedeal.com": "INACTIVE",
+            "www.15.taboola.com": "INACTIVE",
+            "www.convhkmp.taboola.com": "INACTIVE",
+            "www.convlatbmp.taboola.com": "INACTIVE",
+            "www.imprhkmp.taboola.com": "INACTIVE",
+            "www.imprlatbmp.taboola.com": "INACTIVE",
+            "www.match.taboola.com": "INACTIVE",
+            "www.opps.taboola.com": "INACTIVE",
+            "www.supload.com": "INACTIVE",
+            "www.vidutils.taboola.com": "INACTIVE",
+            "www.wf.taboola.com": "INACTIVE"
         }
     }
 }
