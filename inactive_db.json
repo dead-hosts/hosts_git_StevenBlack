@@ -257,9 +257,6 @@
             "www.data.mistat.intl.xiaomi.com": "INACTIVE",
             "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
         },
-        "1580676104": {
-            "www.ad1.banners.ero-advertising.com": "INACTIVE"
-        },
         "1580679559": {
             "www.abtest.mistat.xiaomi.com": "INACTIVE",
             "www.ccc.sys.intl.xiaomi.com": "INACTIVE"
@@ -401,6 +398,13 @@
         },
         "1580759556": {
             "pixel.nc0.co": "INACTIVE"
+        },
+        "1580763335": {
+            "banne3s.ero-advertising.com": "INACTIVE"
+        },
+        "1580763336": {
+            "miami.ero-advertising.com": "INACTIVE",
+            "www.mata.ero-advertising.com": "INACTIVE"
         }
     }
 }
