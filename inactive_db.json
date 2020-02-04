@@ -234,7 +234,6 @@
             "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         },
         "1580667935": {
-            "www.api.ad.intl.xiaomi.com": "INACTIVE",
             "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
             "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
         },
@@ -253,12 +252,6 @@
         "1580688709": {
             "www.a.stat.xiaomi.com": "INACTIVE",
             "www.data.mistat.xiaomi.com": "INACTIVE"
-        },
-        "1580704543": {
-            "adstaces.ero-advertising.com": "INACTIVE",
-            "rs.ero-advertising.com": "INACTIVE",
-            "www.adstaces.ero-advertising.com": "INACTIVE",
-            "www.redirect.ero-advertising.com": "INACTIVE"
         },
         "1580708354": {
             "mclean.lato.cloud.360safe.com": "INACTIVE"
@@ -404,6 +397,9 @@
         "1580788264": {
             "s10paces.ero-advertising.com": "INACTIVE",
             "www.s.ero-advertising.com": "INACTIVE"
+        },
+        "1580792044": {
+            "www.api.ad.intl.xiaomi.com": "INACTIVE"
         }
     }
 }
