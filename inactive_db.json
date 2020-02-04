@@ -233,17 +233,8 @@
         "1580525973": {
             "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         },
-        "1580667935": {
-            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
-        },
         "1580673568": {
-            "abtest.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
-            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
+            "www.cc.sys.intl.xiaomi.com": "INACTIVE"
         },
         "1580679559": {
             "www.abtest.mistat.xiaomi.com": "INACTIVE",
@@ -434,6 +425,17 @@
         },
         "1580851722": {
             "pixel.nc0.co": "INACTIVE"
+        },
+        "1580855781": {
+            "abtest.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
+            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1580855782": {
+            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
         }
     }
 }
