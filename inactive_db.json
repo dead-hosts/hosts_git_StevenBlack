@@ -258,33 +258,8 @@
             "xn--srahah-bua.eu": "INACTIVE",
             "xn--srahah-bua.pl": "INACTIVE"
         },
-        "1580747231": {
-            "ap-sonar.sociomantic.com": "INACTIVE",
-            "hexagram.rtk.io": "INACTIVE",
-            "login.rtk.io": "INACTIVE",
-            "media.rtk.io": "INACTIVE",
-            "nj.thor.rtk.io": "INACTIVE",
-            "sebder.roboinside.me": "INACTIVE",
-            "uk.thor.rtk.io": "INACTIVE",
-            "uk2.thor.rtk.io": "INACTIVE",
-            "www.api.ad.snappea.com": "INACTIVE",
-            "www.kushat.roboinside.me": "INACTIVE",
-            "www.roboinside.me": "INACTIVE",
-            "www.sebder.roboinside.me": "INACTIVE"
-        },
         "1580751190": {
-            "castoola.tv.lan": "INVALID",
-            "external.stealthedeal.com": "INACTIVE",
-            "www.15.taboola.com": "INACTIVE",
-            "www.convhkmp.taboola.com": "INACTIVE",
-            "www.convlatbmp.taboola.com": "INACTIVE",
-            "www.imprhkmp.taboola.com": "INACTIVE",
-            "www.imprlatbmp.taboola.com": "INACTIVE",
-            "www.match.taboola.com": "INACTIVE",
-            "www.opps.taboola.com": "INACTIVE",
-            "www.supload.com": "INACTIVE",
-            "www.vidutils.taboola.com": "INACTIVE",
-            "www.wf.taboola.com": "INACTIVE"
+            "castoola.tv.lan": "INVALID"
         },
         "1580755298": {
             "new.api.ad.xiaomi.com": "INACTIVE",
@@ -436,6 +411,33 @@
             "www.tracking.intl.miui.com": "INACTIVE",
             "www.tracking.miui.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE"
+        },
+        "1580839467": {
+            "ap-sonar.sociomantic.com": "INACTIVE",
+            "external.stealthedeal.com": "INACTIVE",
+            "hexagram.rtk.io": "INACTIVE",
+            "login.rtk.io": "INACTIVE",
+            "media.rtk.io": "INACTIVE",
+            "nj.thor.rtk.io": "INACTIVE",
+            "sebder.roboinside.me": "INACTIVE",
+            "uk.thor.rtk.io": "INACTIVE",
+            "uk2.thor.rtk.io": "INACTIVE",
+            "www.api.ad.snappea.com": "INACTIVE",
+            "www.kushat.roboinside.me": "INACTIVE",
+            "www.roboinside.me": "INACTIVE",
+            "www.sebder.roboinside.me": "INACTIVE"
+        },
+        "1580839468": {
+            "www.15.taboola.com": "INACTIVE",
+            "www.convhkmp.taboola.com": "INACTIVE",
+            "www.convlatbmp.taboola.com": "INACTIVE",
+            "www.imprhkmp.taboola.com": "INACTIVE",
+            "www.imprlatbmp.taboola.com": "INACTIVE",
+            "www.match.taboola.com": "INACTIVE",
+            "www.opps.taboola.com": "INACTIVE",
+            "www.supload.com": "INACTIVE",
+            "www.vidutils.taboola.com": "INACTIVE",
+            "www.wf.taboola.com": "INACTIVE"
         }
     }
 }
