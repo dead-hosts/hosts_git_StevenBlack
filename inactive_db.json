@@ -253,9 +253,6 @@
             "www.a.stat.xiaomi.com": "INACTIVE",
             "www.data.mistat.xiaomi.com": "INACTIVE"
         },
-        "1580708354": {
-            "mclean.lato.cloud.360safe.com": "INACTIVE"
-        },
         "1580727125": {
             "www.app.storage.yunvm.com": "INACTIVE",
             "xn--srahah-bua.eu": "INACTIVE",
@@ -400,6 +397,14 @@
         },
         "1580792044": {
             "www.api.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1580796024": {
+            "ad4.api.ero-advertising.com": "INACTIVE",
+            "www.ad4.api.ero-advertising.com": "INACTIVE"
+        },
+        "1580796025": {
+            "tcm.optica.ero-advertising.com": "INACTIVE",
+            "www.opads.ero-advertising.com": "INACTIVE"
         }
     }
 }
