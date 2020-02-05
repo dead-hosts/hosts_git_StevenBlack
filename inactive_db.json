@@ -248,14 +248,6 @@
         "1580792044": {
             "www.api.ad.intl.xiaomi.com": "INACTIVE"
         },
-        "1580796024": {
-            "ad4.api.ero-advertising.com": "INACTIVE",
-            "www.ad4.api.ero-advertising.com": "INACTIVE"
-        },
-        "1580796025": {
-            "tcm.optica.ero-advertising.com": "INACTIVE",
-            "www.opads.ero-advertising.com": "INACTIVE"
-        },
         "1580799719": {
             "bann12s.ero-advertising.com": "INACTIVE"
         },
@@ -440,6 +432,11 @@
         },
         "1580878204": {
             "www.ccc.sys.intl.xiaomi.com": "INACTIVE"
+        },
+        "1580885312": {
+            "layers.ero-advertising.com": "INACTIVE",
+            "www.ad2.api.ero-advertising.com": "INACTIVE",
+            "www.ad4.layerads.ero-advertising.com": "INACTIVE"
         }
     }
 }
