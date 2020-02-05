@@ -250,19 +250,9 @@
             "xn--srahah-bua.pl": "INACTIVE"
         },
         "1580771952": {
-            "ssp.ad.xiaomi.com": "INACTIVE",
             "www.api.admob.xiaomi.com": "INACTIVE",
             "www.api.d.xiaomi.com": "INACTIVE",
-            "www.globalapi.ad.xiaomi.com": "INACTIVE",
-            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
-            "www.ssp.ad.xiaomi.com": "INACTIVE",
-            "www.test.ad.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.xiaomi.com": "INACTIVE"
-        },
-        "1580779847": {
-            "adwpaces.ero-advertising.com": "INACTIVE",
-            "www.hostingfreelife.com": "INACTIVE"
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
         },
         "1580788264": {
             "s10paces.ero-advertising.com": "INACTIVE",
@@ -443,6 +433,14 @@
         "1580859616": {
             "s10.hipaces.ero-advertising.com": "INACTIVE",
             "www.s10.hiadspaces.ero-advertising.com": "INACTIVE"
+        },
+        "1580867540": {
+            "ssp.ad.xiaomi.com": "INACTIVE",
+            "www.globalapi.ad.xiaomi.com": "INACTIVE",
+            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
+            "www.ssp.ad.xiaomi.com": "INACTIVE",
+            "www.test.ad.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
