@@ -233,9 +233,6 @@
         "1580525973": {
             "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         },
-        "1580673568": {
-            "www.cc.sys.intl.xiaomi.com": "INACTIVE"
-        },
         "1580679559": {
             "www.abtest.mistat.xiaomi.com": "INACTIVE",
             "www.ccc.sys.intl.xiaomi.com": "INACTIVE"
@@ -248,11 +245,6 @@
             "www.app.storage.yunvm.com": "INACTIVE",
             "xn--srahah-bua.eu": "INACTIVE",
             "xn--srahah-bua.pl": "INACTIVE"
-        },
-        "1580771952": {
-            "www.api.admob.xiaomi.com": "INACTIVE",
-            "www.api.d.xiaomi.com": "INACTIVE",
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
         },
         "1580788264": {
             "s10paces.ero-advertising.com": "INACTIVE",
@@ -441,6 +433,12 @@
             "www.ssp.ad.xiaomi.com": "INACTIVE",
             "www.test.ad.xiaomi.com": "INACTIVE",
             "www.zeus.ad.xiaomi.com": "INACTIVE"
+        },
+        "1580874512": {
+            "www.api.admob.xiaomi.com": "INACTIVE",
+            "www.api.d.xiaomi.com": "INACTIVE",
+            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
         }
     }
 }
