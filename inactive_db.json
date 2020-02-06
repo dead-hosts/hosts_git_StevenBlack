@@ -256,10 +256,8 @@
             "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
         },
         "1580874512": {
-            "www.api.admob.xiaomi.com": "INACTIVE",
             "www.api.d.xiaomi.com": "INACTIVE",
-            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
+            "www.cc.sys.intl.xiaomi.com": "INACTIVE"
         },
         "1580878204": {
             "www.ccc.sys.intl.xiaomi.com": "INACTIVE"
@@ -394,6 +392,10 @@
         "1580972186": {
             "ad8.api.ero-advertising.com": "INACTIVE",
             "phpmyadmin.ero-advertising.com": "INACTIVE"
+        },
+        "1580976730": {
+            "www.api.admob.xiaomi.com": "INACTIVE",
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
         }
     }
 }
