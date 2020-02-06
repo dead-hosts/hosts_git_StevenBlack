@@ -247,8 +247,7 @@
         },
         "1580855781": {
             "abtest.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
+            "www.api.hybrid.intl.xiaomi.com": "INACTIVE"
         },
         "1580855782": {
             "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
@@ -256,7 +255,6 @@
             "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
         },
         "1580874512": {
-            "www.api.d.xiaomi.com": "INACTIVE",
             "www.cc.sys.intl.xiaomi.com": "INACTIVE"
         },
         "1580878204": {
@@ -390,6 +388,13 @@
         "1580976730": {
             "www.api.admob.xiaomi.com": "INACTIVE",
             "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
+        },
+        "1580984462": {
+            "ban4ers.ero-advertising.com": "INACTIVE"
+        },
+        "1580984463": {
+            "www.api.d.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
         }
     }
 }
