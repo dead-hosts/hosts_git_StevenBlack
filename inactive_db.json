@@ -233,20 +233,8 @@
         "1580525973": {
             "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         },
-        "1580679559": {
-            "www.abtest.mistat.xiaomi.com": "INACTIVE"
-        },
-        "1580688709": {
-            "www.a.stat.xiaomi.com": "INACTIVE",
-            "www.data.mistat.xiaomi.com": "INACTIVE"
-        },
         "1580727125": {
-            "www.app.storage.yunvm.com": "INACTIVE",
-            "xn--srahah-bua.eu": "INACTIVE",
-            "xn--srahah-bua.pl": "INACTIVE"
-        },
-        "1580878204": {
-            "www.ccc.sys.intl.xiaomi.com": "INACTIVE"
+            "www.app.storage.yunvm.com": "INACTIVE"
         },
         "1580942938": {
             "ap-sonar.sociomantic.com": "INACTIVE",
@@ -401,6 +389,14 @@
             "www.pub.grandonmedia.com": "INACTIVE",
             "www.stats.jpush.cn": "INACTIVE",
             "www.superlogout.github.io": "INACTIVE"
+        },
+        "1581018414": {
+            "www.a.stat.xiaomi.com": "INACTIVE",
+            "www.abtest.mistat.xiaomi.com": "INACTIVE",
+            "www.ccc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.data.mistat.xiaomi.com": "INACTIVE",
+            "xn--srahah-bua.eu": "INACTIVE",
+            "xn--srahah-bua.pl": "INACTIVE"
         }
     }
 }
