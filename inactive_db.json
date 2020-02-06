@@ -245,27 +245,15 @@
             "xn--srahah-bua.eu": "INACTIVE",
             "xn--srahah-bua.pl": "INACTIVE"
         },
-        "1580792044": {
-            "www.api.ad.intl.xiaomi.com": "INACTIVE"
-        },
         "1580855781": {
             "abtest.mistat.intl.xiaomi.com": "INACTIVE",
             "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
-            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
             "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
         },
         "1580855782": {
             "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
             "www.data.mistat.intl.xiaomi.com": "INACTIVE",
             "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
-        },
-        "1580867540": {
-            "ssp.ad.xiaomi.com": "INACTIVE",
-            "www.globalapi.ad.xiaomi.com": "INACTIVE",
-            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
-            "www.ssp.ad.xiaomi.com": "INACTIVE",
-            "www.test.ad.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.xiaomi.com": "INACTIVE"
         },
         "1580874512": {
             "www.api.admob.xiaomi.com": "INACTIVE",
@@ -394,6 +382,16 @@
             "www.new.api.ad.xiaomi.com": "INACTIVE",
             "www.test.e.ad.xiaomi.com": "INACTIVE",
             "www.test.new.api.ad.xiaomi.com": "INACTIVE"
+        },
+        "1580955355": {
+            "ssp.ad.xiaomi.com": "INACTIVE",
+            "www.api.ad.intl.xiaomi.com": "INACTIVE",
+            "www.globalapi.ad.xiaomi.com": "INACTIVE",
+            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
+            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
+            "www.ssp.ad.xiaomi.com": "INACTIVE",
+            "www.test.ad.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
