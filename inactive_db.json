@@ -248,20 +248,6 @@
         "1580792044": {
             "www.api.ad.intl.xiaomi.com": "INACTIVE"
         },
-        "1580848005": {
-            "new.api.ad.xiaomi.com": "INACTIVE",
-            "test.new.api.ad.xiaomi.com": "INACTIVE",
-            "watches-my.stream": "INACTIVE",
-            "www.datacollect.vmall.com": "INACTIVE",
-            "www.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
-        },
-        "1580848006": {
-            "www.api.ad.xiaomi.com": "INACTIVE",
-            "www.cdn.ad.xiaomi.com": "INACTIVE",
-            "www.e.ad.xiaomi.com": "INACTIVE",
-            "www.test.e.ad.xiaomi.com": "INACTIVE"
-        },
         "1580855781": {
             "abtest.mistat.intl.xiaomi.com": "INACTIVE",
             "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
@@ -272,13 +258,6 @@
             "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
             "www.data.mistat.intl.xiaomi.com": "INACTIVE",
             "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
-        },
-        "1580859615": {
-            "www.adwpaces.ero-advertising.com": "INACTIVE"
-        },
-        "1580859616": {
-            "s10.hipaces.ero-advertising.com": "INACTIVE",
-            "www.s10.hiadspaces.ero-advertising.com": "INACTIVE"
         },
         "1580867540": {
             "ssp.ad.xiaomi.com": "INACTIVE",
@@ -403,6 +382,18 @@
             "www.vidutils.taboola.com": "INACTIVE",
             "www.wf.taboola.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE"
+        },
+        "1580947251": {
+            "new.api.ad.xiaomi.com": "INACTIVE",
+            "test.new.api.ad.xiaomi.com": "INACTIVE",
+            "watches-my.stream": "INACTIVE",
+            "www.api.ad.xiaomi.com": "INACTIVE",
+            "www.cdn.ad.xiaomi.com": "INACTIVE",
+            "www.datacollect.vmall.com": "INACTIVE",
+            "www.e.ad.xiaomi.com": "INACTIVE",
+            "www.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.test.e.ad.xiaomi.com": "INACTIVE",
+            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
