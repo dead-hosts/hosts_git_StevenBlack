@@ -245,18 +245,6 @@
             "xn--srahah-bua.eu": "INACTIVE",
             "xn--srahah-bua.pl": "INACTIVE"
         },
-        "1580855781": {
-            "abtest.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.api.hybrid.intl.xiaomi.com": "INACTIVE"
-        },
-        "1580855782": {
-            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
-        },
-        "1580874512": {
-            "www.cc.sys.intl.xiaomi.com": "INACTIVE"
-        },
         "1580878204": {
             "www.ccc.sys.intl.xiaomi.com": "INACTIVE"
         },
@@ -403,6 +391,14 @@
             "service.face2trade.com": "INACTIVE",
             "www.ad3.adspaces.ero-advertising.com": "INACTIVE",
             "www.dtta.ero-advertising.com": "INACTIVE"
+        },
+        "1580997048": {
+            "abtest.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
+            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
         }
     }
 }
