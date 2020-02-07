@@ -230,9 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1580525973": {
-            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
-        },
         "1580963662": {
             "dat2.ero-advertising.com": "INACTIVE",
             "tiumbs.ero-advertising.com": "INACTIVE",
@@ -401,6 +398,9 @@
             "www.ssp.ad.xiaomi.com": "INACTIVE",
             "www.test.ad.xiaomi.com": "INACTIVE",
             "www.zeus.ad.xiaomi.com": "INACTIVE"
+        },
+        "1581045336": {
+            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         }
     }
 }
