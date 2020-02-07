@@ -233,18 +233,6 @@
         "1580525973": {
             "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         },
-        "1580947251": {
-            "new.api.ad.xiaomi.com": "INACTIVE",
-            "test.new.api.ad.xiaomi.com": "INACTIVE",
-            "watches-my.stream": "INACTIVE",
-            "www.api.ad.xiaomi.com": "INACTIVE",
-            "www.cdn.ad.xiaomi.com": "INACTIVE",
-            "www.datacollect.vmall.com": "INACTIVE",
-            "www.e.ad.xiaomi.com": "INACTIVE",
-            "www.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.test.e.ad.xiaomi.com": "INACTIVE",
-            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
-        },
         "1580955355": {
             "ssp.ad.xiaomi.com": "INACTIVE",
             "www.api.ad.intl.xiaomi.com": "INACTIVE",
@@ -397,6 +385,19 @@
             "www.vidutils.taboola.com": "INACTIVE",
             "www.wf.taboola.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE"
+        },
+        "1581035569": {
+            "new.api.ad.xiaomi.com": "INACTIVE",
+            "pixel.nc0.co": "INACTIVE",
+            "test.new.api.ad.xiaomi.com": "INACTIVE",
+            "watches-my.stream": "INACTIVE",
+            "www.api.ad.xiaomi.com": "INACTIVE",
+            "www.cdn.ad.xiaomi.com": "INACTIVE",
+            "www.datacollect.vmall.com": "INACTIVE",
+            "www.e.ad.xiaomi.com": "INACTIVE",
+            "www.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.test.e.ad.xiaomi.com": "INACTIVE",
+            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
         }
     }
 }

@@ -32,7 +32,7 @@
     "adsflame.com": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adtekmedia.com": {
         "epoch": 1612051200.0,
@@ -425,8 +425,8 @@
         "state": "future"
     },
     "mediabarterexchange.com": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1588464000.0,
+        "expiration_date": "03-may-2020",
         "state": "future"
     },
     "mediadirectx.com": {
