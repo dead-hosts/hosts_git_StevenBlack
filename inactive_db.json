@@ -230,14 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1580976730": {
-            "www.api.admob.xiaomi.com": "INACTIVE",
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
-        },
-        "1580984463": {
-            "www.api.d.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
-        },
         "1580997048": {
             "abtest.mistat.intl.xiaomi.com": "INACTIVE",
             "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
@@ -253,43 +245,6 @@
             "www.data.mistat.xiaomi.com": "INACTIVE",
             "xn--srahah-bua.eu": "INACTIVE",
             "xn--srahah-bua.pl": "INACTIVE"
-        },
-        "1581031620": {
-            "ap-sonar.sociomantic.com": "INACTIVE",
-            "castoola.tv.lan": "INVALID",
-            "external.stealthedeal.com": "INACTIVE",
-            "www.15.taboola.com": "INACTIVE",
-            "www.convhkmp.taboola.com": "INACTIVE",
-            "www.convlatbmp.taboola.com": "INACTIVE",
-            "www.imprhkmp.taboola.com": "INACTIVE",
-            "www.imprlatbmp.taboola.com": "INACTIVE",
-            "www.match.taboola.com": "INACTIVE",
-            "www.opps.taboola.com": "INACTIVE",
-            "www.supload.com": "INACTIVE",
-            "www.vidutils.taboola.com": "INACTIVE",
-            "www.wf.taboola.com": "INACTIVE"
-        },
-        "1581035569": {
-            "new.api.ad.xiaomi.com": "INACTIVE",
-            "test.new.api.ad.xiaomi.com": "INACTIVE",
-            "watches-my.stream": "INACTIVE",
-            "www.api.ad.xiaomi.com": "INACTIVE",
-            "www.cdn.ad.xiaomi.com": "INACTIVE",
-            "www.datacollect.vmall.com": "INACTIVE",
-            "www.e.ad.xiaomi.com": "INACTIVE",
-            "www.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.test.e.ad.xiaomi.com": "INACTIVE",
-            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
-        },
-        "1581042411": {
-            "ssp.ad.xiaomi.com": "INACTIVE",
-            "www.api.ad.intl.xiaomi.com": "INACTIVE",
-            "www.globalapi.ad.xiaomi.com": "INACTIVE",
-            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
-            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
-            "www.ssp.ad.xiaomi.com": "INACTIVE",
-            "www.test.ad.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.xiaomi.com": "INACTIVE"
         },
         "1581045336": {
             "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
@@ -376,6 +331,43 @@
             "www.roboinside.me": "INACTIVE",
             "www.sebder.roboinside.me": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE"
+        },
+        "1581209784": {
+            "ap-sonar.sociomantic.com": "INACTIVE",
+            "castoola.tv.lan": "INVALID",
+            "external.stealthedeal.com": "INACTIVE",
+            "new.api.ad.xiaomi.com": "INACTIVE",
+            "ssp.ad.xiaomi.com": "INACTIVE",
+            "test.new.api.ad.xiaomi.com": "INACTIVE",
+            "watches-my.stream": "INACTIVE",
+            "www.15.taboola.com": "INACTIVE",
+            "www.api.ad.intl.xiaomi.com": "INACTIVE",
+            "www.api.ad.xiaomi.com": "INACTIVE",
+            "www.api.admob.xiaomi.com": "INACTIVE",
+            "www.api.d.xiaomi.com": "INACTIVE",
+            "www.cdn.ad.xiaomi.com": "INACTIVE",
+            "www.convhkmp.taboola.com": "INACTIVE",
+            "www.convlatbmp.taboola.com": "INACTIVE",
+            "www.datacollect.vmall.com": "INACTIVE",
+            "www.e.ad.xiaomi.com": "INACTIVE",
+            "www.globalapi.ad.xiaomi.com": "INACTIVE",
+            "www.imprhkmp.taboola.com": "INACTIVE",
+            "www.imprlatbmp.taboola.com": "INACTIVE",
+            "www.match.taboola.com": "INACTIVE",
+            "www.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.opps.taboola.com": "INACTIVE",
+            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
+            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
+            "www.ssp.ad.xiaomi.com": "INACTIVE",
+            "www.supload.com": "INACTIVE",
+            "www.test.ad.xiaomi.com": "INACTIVE",
+            "www.test.e.ad.xiaomi.com": "INACTIVE",
+            "www.test.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.vidutils.taboola.com": "INACTIVE",
+            "www.wf.taboola.com": "INACTIVE",
+            "www.zeus.ad.intl.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
