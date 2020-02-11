@@ -230,9 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1581213469": {
-            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
-        },
         "1581378934": {
             "analytics.247sports.com": "INACTIVE",
             "rtblbtr.alphonso.tv": "INACTIVE"
@@ -361,6 +358,9 @@
             "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
             "xn--srahah-bua.eu": "INACTIVE",
             "xn--srahah-bua.pl": "INACTIVE"
+        },
+        "1581394544": {
+            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         }
     }
 }
