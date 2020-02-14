@@ -230,9 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1581566634": {
-            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
-        },
         "1581678663": {
             "analytics.247sports.com": "INACTIVE",
             "apple.com-fasting.live": "INACTIVE",
@@ -361,6 +358,9 @@
         "1581682585": {
             "xn--srahah-bua.eu": "INACTIVE",
             "xn--srahah-bua.pl": "INACTIVE"
+        },
+        "1581686312": {
+            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         }
     }
 }
