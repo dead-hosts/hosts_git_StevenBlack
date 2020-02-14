@@ -230,7 +230,42 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1581551215": {
+        "1581554992": {
+            "abtest.mistat.intl.xiaomi.com": "INACTIVE",
+            "ssp.ad.xiaomi.com": "INACTIVE",
+            "www.a.stat.xiaomi.com": "INACTIVE",
+            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.abtest.mistat.xiaomi.com": "INACTIVE",
+            "www.api.ad.intl.xiaomi.com": "INACTIVE",
+            "www.api.ad.xiaomi.com": "INACTIVE",
+            "www.api.admob.xiaomi.com": "INACTIVE",
+            "www.api.d.xiaomi.com": "INACTIVE",
+            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
+            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.ccc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.cdn.ad.xiaomi.com": "INACTIVE",
+            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.data.mistat.xiaomi.com": "INACTIVE",
+            "www.e.ad.xiaomi.com": "INACTIVE",
+            "www.globalapi.ad.xiaomi.com": "INACTIVE",
+            "www.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
+            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
+            "www.ssp.ad.xiaomi.com": "INACTIVE",
+            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.test.ad.xiaomi.com": "INACTIVE",
+            "www.test.e.ad.xiaomi.com": "INACTIVE",
+            "www.test.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.intl.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.xiaomi.com": "INACTIVE"
+        },
+        "1581566634": {
+            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID",
+            "xn--srahah-bua.eu": "INACTIVE",
+            "xn--srahah-bua.pl": "INACTIVE"
+        },
+        "1581678663": {
             "analytics.247sports.com": "INACTIVE",
             "apple.com-fasting.live": "INACTIVE",
             "apple.com-notice.info": "INACTIVE",
@@ -246,7 +281,7 @@
             "www.com-notice.info": "INACTIVE",
             "www.support.apple.com-notice.info": "INACTIVE"
         },
-        "1581551216": {
+        "1581678664": {
             "ads.grandonmedia.com": "INACTIVE",
             "adv.grandonmedia.com": "INACTIVE",
             "agl.hotstar.com": "INACTIVE",
@@ -272,6 +307,7 @@
             "tracking.i2w.io": "INACTIVE",
             "uk.thor.rtk.io": "INACTIVE",
             "uk2.thor.rtk.io": "INACTIVE",
+            "watches-my.stream": "INACTIVE",
             "www.15.taboola.com": "INACTIVE",
             "www.ads.grandonmedia.com": "INACTIVE",
             "www.adv.grandonmedia.com": "INACTIVE",
@@ -320,64 +356,9 @@
             "www.wf.taboola.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE"
         },
-        "1581551217": {
-            "watches-my.stream": "INACTIVE"
-        },
-        "1581554992": {
-            "abtest.mistat.intl.xiaomi.com": "INACTIVE",
+        "1581678665": {
             "new.api.ad.xiaomi.com": "INACTIVE",
-            "ssp.ad.xiaomi.com": "INACTIVE",
-            "test.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.a.stat.xiaomi.com": "INACTIVE",
-            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.abtest.mistat.xiaomi.com": "INACTIVE",
-            "www.api.ad.intl.xiaomi.com": "INACTIVE",
-            "www.api.ad.xiaomi.com": "INACTIVE",
-            "www.api.admob.xiaomi.com": "INACTIVE",
-            "www.api.d.xiaomi.com": "INACTIVE",
-            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
-            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.ccc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.cdn.ad.xiaomi.com": "INACTIVE",
-            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.data.mistat.xiaomi.com": "INACTIVE",
-            "www.e.ad.xiaomi.com": "INACTIVE",
-            "www.globalapi.ad.xiaomi.com": "INACTIVE",
-            "www.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
-            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
-            "www.ssp.ad.xiaomi.com": "INACTIVE",
-            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.test.ad.xiaomi.com": "INACTIVE",
-            "www.test.e.ad.xiaomi.com": "INACTIVE",
-            "www.test.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.intl.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.xiaomi.com": "INACTIVE"
-        },
-        "1581558956": {
-            "ad5.banners.ero-advertising.com": "INACTIVE",
-            "www.ad5.banners.ero-advertising.com": "INACTIVE"
-        },
-        "1581558957": {
-            "agl-intl.hotstar.com": "INACTIVE",
-            "piwik.ero-advertising.com": "INACTIVE",
-            "www.hostingfreelife.com": "INACTIVE"
-        },
-        "1581562691": {
-            "ad3.adspaces.ero-advertising.com": "INACTIVE",
-            "dsp.face2trade.com": "INACTIVE",
-            "es.ero-advertising.com": "INACTIVE",
-            "www.ad2.adspaces.ero-advertising.com": "INACTIVE",
-            "www.exoclick.com": "INACTIVE"
-        },
-        "1581562692": {
-            "convhkmp.taboola.com": "INACTIVE"
-        },
-        "1581566634": {
-            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID",
-            "xn--srahah-bua.eu": "INACTIVE",
-            "xn--srahah-bua.pl": "INACTIVE"
+            "test.new.api.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
