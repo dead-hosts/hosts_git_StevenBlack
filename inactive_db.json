@@ -230,9 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1582339923": {
-            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
-        },
         "1582502600": {
             "analytics.247sports.com": "INACTIVE",
             "apple.com-fasting.live": "INACTIVE",
@@ -368,6 +365,9 @@
         },
         "1582527695": {
             "www.acspaces.ero-advertising.com": "INACTIVE"
+        },
+        "1582531791": {
+            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         }
     }
 }
