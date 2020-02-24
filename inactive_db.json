@@ -230,12 +230,8 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1582332644": {
-            "www.15.taboola.com": "INACTIVE"
-        },
         "1582332645": {
             "abtest.mistat.intl.xiaomi.com": "INACTIVE",
-            "castoola.tv.lan": "INVALID",
             "new.api.ad.xiaomi.com": "INACTIVE",
             "ssp.ad.xiaomi.com": "INACTIVE",
             "test.new.api.ad.xiaomi.com": "INACTIVE",
@@ -247,17 +243,11 @@
             "www.api.d.xiaomi.com": "INACTIVE",
             "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
             "www.cdn.ad.xiaomi.com": "INACTIVE",
-            "www.convhkmp.taboola.com": "INACTIVE",
-            "www.convlatbmp.taboola.com": "INACTIVE",
             "www.data.mistat.intl.xiaomi.com": "INACTIVE",
             "www.datacollect.vmall.com": "INACTIVE",
             "www.e.ad.xiaomi.com": "INACTIVE",
             "www.globalapi.ad.xiaomi.com": "INACTIVE",
-            "www.imprhkmp.taboola.com": "INACTIVE",
-            "www.imprlatbmp.taboola.com": "INACTIVE",
-            "www.match.taboola.com": "INACTIVE",
             "www.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.opps.taboola.com": "INACTIVE",
             "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
             "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
             "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
@@ -265,8 +255,6 @@
             "www.test.ad.xiaomi.com": "INACTIVE",
             "www.test.e.ad.xiaomi.com": "INACTIVE",
             "www.test.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.vidutils.taboola.com": "INACTIVE",
-            "www.wf.taboola.com": "INACTIVE",
             "www.zeus.ad.intl.xiaomi.com": "INACTIVE",
             "www.zeus.ad.xiaomi.com": "INACTIVE"
         },
@@ -361,6 +349,20 @@
             "www.tracking.intl.miui.com": "INACTIVE",
             "www.tracking.miui.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE"
+        },
+        "1582506916": {
+            "castoola.tv.lan": "INVALID",
+            "wdata.ero-advertising.com": "INACTIVE",
+            "www.15.taboola.com": "INACTIVE",
+            "www.convhkmp.taboola.com": "INACTIVE",
+            "www.convlatbmp.taboola.com": "INACTIVE",
+            "www.imprhkmp.taboola.com": "INACTIVE",
+            "www.imprlatbmp.taboola.com": "INACTIVE",
+            "www.match.taboola.com": "INACTIVE",
+            "www.opps.taboola.com": "INACTIVE",
+            "www.vidutils.taboola.com": "INACTIVE",
+            "www.wdata.ero-advertising.com": "INACTIVE",
+            "www.wf.taboola.com": "INACTIVE"
         }
     }
 }
