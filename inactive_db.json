@@ -230,25 +230,10 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1582678768": {
-            "www.data.mistat.intl.xiaomi.com": "INACTIVE"
-        },
-        "1582689092": {
-            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.ccc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
-        },
-        "1582694260": {
-            "www.a.stat.xiaomi.com": "INACTIVE",
-            "www.abtest.mistat.xiaomi.com": "INACTIVE",
-            "www.data.mistat.xiaomi.com": "INACTIVE"
-        },
         "1582696590": {
             "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID",
             "mackeeperapp.zeobit.com": "INACTIVE",
-            "www.mackeeperapp.zeobit.com": "INACTIVE",
-            "xn--srahah-bua.eu": "INACTIVE",
-            "xn--srahah-bua.pl": "INACTIVE"
+            "www.mackeeperapp.zeobit.com": "INACTIVE"
         },
         "1582846876": {
             "analytics.247sports.com": "INACTIVE",
@@ -369,6 +354,17 @@
             "www.zeus.ad.intl.xiaomi.com": "INACTIVE",
             "www.zeus.ad.xiaomi.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE"
+        },
+        "1582853200": {
+            "www.a.stat.xiaomi.com": "INACTIVE",
+            "www.abtest.mistat.xiaomi.com": "INACTIVE",
+            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.ccc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.data.mistat.xiaomi.com": "INACTIVE",
+            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
+            "xn--srahah-bua.eu": "INACTIVE",
+            "xn--srahah-bua.pl": "INACTIVE"
         }
     }
 }
