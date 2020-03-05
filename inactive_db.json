@@ -230,9 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1583332304": {
-            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
-        },
         "1583406969": {
             "abtest.mistat.intl.xiaomi.com": "INACTIVE",
             "www.a.stat.xiaomi.com": "INACTIVE",
@@ -375,6 +372,9 @@
             "www.ads2live.com": "INACTIVE",
             "www.annualconsumersurvey.com": "INACTIVE",
             "www.beauty-tea.com": "INACTIVE"
+        },
+        "1583428118": {
+            "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         }
     }
 }

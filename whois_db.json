@@ -319,6 +319,11 @@
         "expiration_date": "11-mar-2020",
         "state": "future"
     },
+    "hdnewporn.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
     "hitboom.net": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
@@ -627,6 +632,11 @@
     "theannoyingsite.com": {
         "epoch": 1638316800.0,
         "expiration_date": "01-dec-2021",
+        "state": "future"
+    },
+    "thebestgame2020.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
         "state": "future"
     },
     "torrenty-org.pl": {
