@@ -307,7 +307,7 @@
     "grandonmedia.com": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "greatmacsoft.tech": {
         "epoch": 1564704000,
@@ -347,7 +347,7 @@
     "indiaonclick.com": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "iplogger.com": {
         "epoch": 1605484800.0,
