@@ -230,45 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1583323925": {
-            "www.alliance4media.com": "INACTIVE"
-        },
-        "1583323926": {
-            "adv.grandonmedia.com": "INACTIVE",
-            "agl.hotstar.com": "INACTIVE",
-            "apple.com-fasting.live": "INACTIVE",
-            "click.grandonmedia.com": "INACTIVE",
-            "telemetry.layer.com": "INACTIVE",
-            "www.apple.com-fasting.live": "INACTIVE",
-            "www.com-fasting.live": "INACTIVE",
-            "www.com-notice.info": "INACTIVE",
-            "www.indiaonclick.com": "INACTIVE",
-            "www.pub.grandonmedia.com": "INACTIVE",
-            "www.superlogout.github.io": "INACTIVE"
-        },
-        "1583323927": {
-            "ap-sonar.sociomantic.com": "INACTIVE",
-            "bi-collector.oneapm.com": "INACTIVE",
-            "external.stealthedeal.com": "INACTIVE",
-            "media.rtk.io": "INACTIVE",
-            "www.adv.sec.intl.miui.com": "INACTIVE",
-            "www.analytics.publitas.com": "INACTIVE",
-            "www.api.collect.data.intl.miui.com": "INACTIVE",
-            "www.api.setting.intl.miui.com": "INACTIVE",
-            "www.authbe.sec.intl.miui.com": "INACTIVE",
-            "www.bi-collector.oneapm.com": "INACTIVE",
-            "www.blog.roboinside.me": "INACTIVE",
-            "www.convlatbmp.taboola.com": "INACTIVE",
-            "www.data.sec.intl.miui.com": "INACTIVE",
-            "www.fcanr.tracking.miui.com": "INACTIVE",
-            "www.imprhkmp.taboola.com": "INACTIVE",
-            "www.match.taboola.com": "INACTIVE",
-            "www.mediabarterexchange.com": "INACTIVE",
-            "www.mysterysnooper.com": "INACTIVE",
-            "www.notification-browser.tools": "INACTIVE",
-            "www.sebder.roboinside.me": "INACTIVE",
-            "www.tracking.miui.com": "INACTIVE"
-        },
         "1583328171": {
             "analytics.247sports.com": "INACTIVE",
             "rtblbtr.alphonso.tv": "INACTIVE"
@@ -370,6 +331,45 @@
             "www.zeus.ad.intl.xiaomi.com": "INACTIVE",
             "xn--srahah-bua.eu": "INACTIVE",
             "xn--srahah-bua.pl": "INACTIVE"
+        },
+        "1583411248": {
+            "apple.com-fasting.live": "INACTIVE",
+            "www.alliance4media.com": "INACTIVE",
+            "www.apple.com-fasting.live": "INACTIVE",
+            "www.com-fasting.live": "INACTIVE",
+            "www.com-notice.info": "INACTIVE"
+        },
+        "1583411249": {
+            "adv.grandonmedia.com": "INACTIVE",
+            "agl.hotstar.com": "INACTIVE",
+            "ap-sonar.sociomantic.com": "INACTIVE",
+            "bi-collector.oneapm.com": "INACTIVE",
+            "click.grandonmedia.com": "INACTIVE",
+            "media.rtk.io": "INACTIVE",
+            "telemetry.layer.com": "INACTIVE",
+            "www.adv.sec.intl.miui.com": "INACTIVE",
+            "www.analytics.publitas.com": "INACTIVE",
+            "www.api.collect.data.intl.miui.com": "INACTIVE",
+            "www.api.setting.intl.miui.com": "INACTIVE",
+            "www.authbe.sec.intl.miui.com": "INACTIVE",
+            "www.bi-collector.oneapm.com": "INACTIVE",
+            "www.blog.roboinside.me": "INACTIVE",
+            "www.data.sec.intl.miui.com": "INACTIVE",
+            "www.fcanr.tracking.miui.com": "INACTIVE",
+            "www.indiaonclick.com": "INACTIVE",
+            "www.mediabarterexchange.com": "INACTIVE",
+            "www.mysterysnooper.com": "INACTIVE",
+            "www.notification-browser.tools": "INACTIVE",
+            "www.pub.grandonmedia.com": "INACTIVE",
+            "www.sebder.roboinside.me": "INACTIVE",
+            "www.superlogout.github.io": "INACTIVE",
+            "www.tracking.miui.com": "INACTIVE"
+        },
+        "1583411250": {
+            "external.stealthedeal.com": "INACTIVE",
+            "www.convlatbmp.taboola.com": "INACTIVE",
+            "www.imprhkmp.taboola.com": "INACTIVE",
+            "www.match.taboola.com": "INACTIVE"
         }
     }
 }
