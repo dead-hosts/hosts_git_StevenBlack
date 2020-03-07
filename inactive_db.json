@@ -253,10 +253,8 @@
             "ap-sonar.sociomantic.com": "INACTIVE",
             "bi-collector.oneapm.com": "INACTIVE",
             "media.rtk.io": "INACTIVE",
-            "www.adv.sec.intl.miui.com": "INACTIVE",
             "www.analytics.publitas.com": "INACTIVE",
             "www.api.setting.intl.miui.com": "INACTIVE",
-            "www.authbe.sec.intl.miui.com": "INACTIVE",
             "www.bi-collector.oneapm.com": "INACTIVE",
             "www.blog.roboinside.me": "INACTIVE",
             "www.data.sec.intl.miui.com": "INACTIVE",
@@ -286,7 +284,6 @@
             "uk2.thor.rtk.io": "INACTIVE",
             "www.15.taboola.com": "INACTIVE",
             "www.api.ad.snappea.com": "INACTIVE",
-            "www.api.sec.intl.miui.com": "INACTIVE",
             "www.cc.sys.miui.com": "INACTIVE",
             "www.ccc.sys.miui.com": "INACTIVE",
             "www.convhkmp.taboola.com": "INACTIVE",
@@ -371,6 +368,11 @@
         "1583544617": {
             "www.api.brs.intl.miui.com": "INACTIVE",
             "www.api.collect.data.intl.miui.com": "INACTIVE"
+        },
+        "1583574478": {
+            "www.adv.sec.intl.miui.com": "INACTIVE",
+            "www.api.sec.intl.miui.com": "INACTIVE",
+            "www.authbe.sec.intl.miui.com": "INACTIVE"
         }
     }
 }
