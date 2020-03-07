@@ -253,7 +253,6 @@
             "ap-sonar.sociomantic.com": "INACTIVE",
             "bi-collector.oneapm.com": "INACTIVE",
             "media.rtk.io": "INACTIVE",
-            "telemetry.layer.com": "INACTIVE",
             "www.adv.sec.intl.miui.com": "INACTIVE",
             "www.analytics.publitas.com": "INACTIVE",
             "www.api.collect.data.intl.miui.com": "INACTIVE",
@@ -263,7 +262,6 @@
             "www.blog.roboinside.me": "INACTIVE",
             "www.data.sec.intl.miui.com": "INACTIVE",
             "www.fcanr.tracking.miui.com": "INACTIVE",
-            "www.mediabarterexchange.com": "INACTIVE",
             "www.mysterysnooper.com": "INACTIVE",
             "www.notification-browser.tools": "INACTIVE",
             "www.sebder.roboinside.me": "INACTIVE",
@@ -367,6 +365,10 @@
             "www.pub.grandonmedia.com": "INACTIVE",
             "www.stats.jpush.cn": "INACTIVE",
             "www.superlogout.github.io": "INACTIVE"
+        },
+        "1583540245": {
+            "telemetry.layer.com": "INACTIVE",
+            "www.mediabarterexchange.com": "INACTIVE"
         }
     }
 }
