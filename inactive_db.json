@@ -319,14 +319,6 @@
         "1583428118": {
             "eh8jq4cmq8j9g5.com/favicon.ico": "INVALID"
         },
-        "1583535590": {
-            "www.jackbootedroom.com": "INACTIVE",
-            "www.stats.jpush.cn": "INACTIVE"
-        },
-        "1583540245": {
-            "telemetry.layer.com": "INACTIVE",
-            "www.mediabarterexchange.com": "INACTIVE"
-        },
         "1583544617": {
             "www.api.brs.intl.miui.com": "INACTIVE",
             "www.api.collect.data.intl.miui.com": "INACTIVE"
@@ -377,6 +369,12 @@
             "www.grandonmedia.com": "INACTIVE",
             "www.pub.grandonmedia.com": "INACTIVE",
             "www.superlogout.github.io": "INACTIVE"
+        },
+        "1583635421": {
+            "telemetry.layer.com": "INACTIVE",
+            "www.jackbootedroom.com": "INACTIVE",
+            "www.mediabarterexchange.com": "INACTIVE",
+            "www.stats.jpush.cn": "INACTIVE"
         }
     }
 }
