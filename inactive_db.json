@@ -230,16 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1583671628": {
-            "www.a.stat.xiaomi.com": "INACTIVE",
-            "www.abtest.mistat.xiaomi.com": "INACTIVE",
-            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.ccc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.data.mistat.xiaomi.com": "INACTIVE",
-            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
-            "xn--srahah-bua.eu": "INACTIVE",
-            "xn--srahah-bua.pl": "INACTIVE"
-        },
         "1583795658": {
             "analytics.247sports.com": "INACTIVE",
             "rtblbtr.alphonso.tv": "INACTIVE",
@@ -360,6 +350,16 @@
             "www.test.new.api.ad.xiaomi.com": "INACTIVE",
             "www.zeus.ad.intl.xiaomi.com": "INACTIVE",
             "www.zeus.ad.xiaomi.com": "INACTIVE"
+        },
+        "1583804607": {
+            "www.a.stat.xiaomi.com": "INACTIVE",
+            "www.abtest.mistat.xiaomi.com": "INACTIVE",
+            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.ccc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.data.mistat.xiaomi.com": "INACTIVE",
+            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
+            "xn--srahah-bua.eu": "INACTIVE",
+            "xn--srahah-bua.pl": "INACTIVE"
         }
     }
 }
