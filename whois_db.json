@@ -514,6 +514,11 @@
         "expiration_date": "06-dec-2020",
         "state": "future"
     },
+    "playamo30.com": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
     "powerad.ai": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
