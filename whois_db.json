@@ -95,9 +95,9 @@
         "state": "future"
     },
     "arkonziv.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
-        "state": "past"
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "state": "future"
     },
     "armantark.com": {
         "epoch": 1594771200.0,
@@ -455,8 +455,8 @@
         "state": "future"
     },
     "myornamenti.com": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "mysterysnooper.com": {
@@ -527,7 +527,7 @@
     "powertradeprofit.com": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "privacyassistant.net": {
         "epoch": 1605916800.0,
@@ -570,8 +570,8 @@
         "state": "future"
     },
     "rereddit.com": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "roboinside.me": {
