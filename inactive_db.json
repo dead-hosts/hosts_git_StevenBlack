@@ -230,41 +230,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
-        "1586084120": {
-            "www.datacollect.vmall.com": "INACTIVE"
-        },
-        "1586088634": {
-            "abtest.mistat.intl.xiaomi.com": "INACTIVE",
-            "new.api.ad.xiaomi.com": "INACTIVE",
-            "ssp.ad.xiaomi.com": "INACTIVE",
-            "test.new.api.ad.xiaomi.com": "INACTIVE",
-            "watches-my.stream": "INACTIVE",
-            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.abtest.mistat.xiaomi.com": "INACTIVE",
-            "www.api.ad.intl.xiaomi.com": "INACTIVE",
-            "www.api.ad.xiaomi.com": "INACTIVE",
-            "www.api.admob.xiaomi.com": "INACTIVE",
-            "www.api.d.xiaomi.com": "INACTIVE",
-            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
-            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.ccc.sys.intl.xiaomi.com": "INACTIVE",
-            "www.cdn.ad.xiaomi.com": "INACTIVE",
-            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.data.mistat.xiaomi.com": "INACTIVE",
-            "www.e.ad.xiaomi.com": "INACTIVE",
-            "www.globalapi.ad.xiaomi.com": "INACTIVE",
-            "www.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
-            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
-            "www.ssp.ad.xiaomi.com": "INACTIVE",
-            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.test.ad.xiaomi.com": "INACTIVE",
-            "www.test.e.ad.xiaomi.com": "INACTIVE",
-            "www.test.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.intl.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.xiaomi.com": "INACTIVE"
-        },
         "1586092628": {
             "www.goooooooooogle.com": "INACTIVE"
         },
@@ -369,6 +334,39 @@
             "www.vidutils.taboola.com": "INACTIVE",
             "www.wf.taboola.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE"
+        },
+        "1586176299": {
+            "abtest.mistat.intl.xiaomi.com": "INACTIVE",
+            "new.api.ad.xiaomi.com": "INACTIVE",
+            "ssp.ad.xiaomi.com": "INACTIVE",
+            "test.new.api.ad.xiaomi.com": "INACTIVE",
+            "watches-my.stream": "INACTIVE",
+            "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.abtest.mistat.xiaomi.com": "INACTIVE",
+            "www.api.ad.intl.xiaomi.com": "INACTIVE",
+            "www.api.ad.xiaomi.com": "INACTIVE",
+            "www.api.admob.xiaomi.com": "INACTIVE",
+            "www.api.d.xiaomi.com": "INACTIVE",
+            "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
+            "www.cc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.ccc.sys.intl.xiaomi.com": "INACTIVE",
+            "www.cdn.ad.xiaomi.com": "INACTIVE",
+            "www.data.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.data.mistat.xiaomi.com": "INACTIVE",
+            "www.datacollect.vmall.com": "INACTIVE",
+            "www.e.ad.xiaomi.com": "INACTIVE",
+            "www.globalapi.ad.xiaomi.com": "INACTIVE",
+            "www.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
+            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
+            "www.ssp.ad.xiaomi.com": "INACTIVE",
+            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
+            "www.test.ad.xiaomi.com": "INACTIVE",
+            "www.test.e.ad.xiaomi.com": "INACTIVE",
+            "www.test.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.intl.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
