@@ -299,6 +299,11 @@
         "expiration_date": "19-apr-2020",
         "state": "future"
     },
+    "globalpagee-prod-webex.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
     "goooooooooogle.com": {
         "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
@@ -522,6 +527,11 @@
     "performanceadexchange.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "pf4y2a54hx.com": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "plaimedia.com": {
