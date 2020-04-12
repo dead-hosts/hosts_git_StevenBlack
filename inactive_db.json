@@ -231,23 +231,14 @@
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
         "1586607959": {
-            "new.api.ad.xiaomi.com": "INACTIVE",
             "ssp.ad.xiaomi.com": "INACTIVE",
-            "test.new.api.ad.xiaomi.com": "INACTIVE",
             "www.api.ad.intl.xiaomi.com": "INACTIVE",
-            "www.api.ad.xiaomi.com": "INACTIVE",
             "www.api.admob.xiaomi.com": "INACTIVE",
             "www.api.d.xiaomi.com": "INACTIVE",
-            "www.cdn.ad.xiaomi.com": "INACTIVE",
-            "www.e.ad.xiaomi.com": "INACTIVE",
-            "www.globalapi.ad.xiaomi.com": "INACTIVE",
-            "www.new.api.ad.xiaomi.com": "INACTIVE",
             "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
             "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
             "www.ssp.ad.xiaomi.com": "INACTIVE",
             "www.test.ad.xiaomi.com": "INACTIVE",
-            "www.test.e.ad.xiaomi.com": "INACTIVE",
-            "www.test.new.api.ad.xiaomi.com": "INACTIVE",
             "www.zeus.ad.xiaomi.com": "INACTIVE"
         },
         "1586616841": {
@@ -382,6 +373,17 @@
             "castoola.tv.lan": "INVALID",
             "watches-my.stream": "INACTIVE",
             "www.datacollect.vmall.com": "INACTIVE"
+        },
+        "1586704860": {
+            "new.api.ad.xiaomi.com": "INACTIVE",
+            "test.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.api.ad.xiaomi.com": "INACTIVE",
+            "www.cdn.ad.xiaomi.com": "INACTIVE",
+            "www.e.ad.xiaomi.com": "INACTIVE",
+            "www.globalapi.ad.xiaomi.com": "INACTIVE",
+            "www.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.test.e.ad.xiaomi.com": "INACTIVE",
+            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
