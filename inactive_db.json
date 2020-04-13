@@ -232,12 +232,7 @@
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
         "1586607959": {
             "www.api.ad.intl.xiaomi.com": "INACTIVE",
-            "www.api.admob.xiaomi.com": "INACTIVE",
-            "www.api.d.xiaomi.com": "INACTIVE",
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
-            "www.ssp.ad.xiaomi.com": "INACTIVE",
-            "www.test.ad.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.xiaomi.com": "INACTIVE"
+            "www.api.d.xiaomi.com": "INACTIVE"
         },
         "1586616841": {
             "abtest.mistat.intl.xiaomi.com": "INACTIVE",
@@ -393,6 +388,13 @@
         "1586737610": {
             "ssp.ad.xiaomi.com": "INACTIVE",
             "www.sdkconfig.ad.xiaomi.com": "INACTIVE"
+        },
+        "1586751470": {
+            "www.api.admob.xiaomi.com": "INACTIVE",
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
+            "www.ssp.ad.xiaomi.com": "INACTIVE",
+            "www.test.ad.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
