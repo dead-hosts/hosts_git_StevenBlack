@@ -255,10 +255,6 @@
         "1586647661": {
             "www.app.storage.yunvm.com": "INACTIVE"
         },
-        "1586700214": {
-            "watches-my.stream": "INACTIVE",
-            "www.datacollect.vmall.com": "INACTIVE"
-        },
         "1586704860": {
             "new.api.ad.xiaomi.com": "INACTIVE",
             "test.new.api.ad.xiaomi.com": "INACTIVE",
@@ -397,6 +393,10 @@
         },
         "1586804122": {
             "event.ksosoft.com": "INACTIVE"
+        },
+        "1586808951": {
+            "watches-my.stream": "INACTIVE",
+            "www.datacollect.vmall.com": "INACTIVE"
         }
     }
 }
