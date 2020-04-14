@@ -255,9 +255,6 @@
         "1586647661": {
             "www.app.storage.yunvm.com": "INACTIVE"
         },
-        "1586737609": {
-            "www.traffclick.ru": "INACTIVE"
-        },
         "1586737610": {
             "ssp.ad.xiaomi.com": "INACTIVE",
             "www.sdkconfig.ad.xiaomi.com": "INACTIVE"
@@ -396,6 +393,9 @@
             "www.e.ad.xiaomi.com": "INACTIVE",
             "www.globalapi.ad.xiaomi.com": "INACTIVE",
             "www.test.e.ad.xiaomi.com": "INACTIVE"
+        },
+        "1586826925": {
+            "www.traffclick.ru": "INACTIVE"
         }
     }
 }
