@@ -255,22 +255,6 @@
         "1586647661": {
             "www.app.storage.yunvm.com": "INACTIVE"
         },
-        "1586704860": {
-            "new.api.ad.xiaomi.com": "INACTIVE",
-            "test.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.api.ad.xiaomi.com": "INACTIVE",
-            "www.cdn.ad.xiaomi.com": "INACTIVE",
-            "www.e.ad.xiaomi.com": "INACTIVE",
-            "www.globalapi.ad.xiaomi.com": "INACTIVE",
-            "www.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.test.e.ad.xiaomi.com": "INACTIVE",
-            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
-        },
-        "1586732441": {
-            "0.0.0.0.creative.hpyrdr.com": "INACTIVE",
-            "0.0.0.0.hpyrdr.com": "INACTIVE",
-            "www.iplogger.com": "INACTIVE"
-        },
         "1586737609": {
             "www.traffclick.ru": "INACTIVE"
         },
@@ -397,6 +381,21 @@
         "1586808951": {
             "watches-my.stream": "INACTIVE",
             "www.datacollect.vmall.com": "INACTIVE"
+        },
+        "1586822483": {
+            "0.0.0.0.creative.hpyrdr.com": "INACTIVE",
+            "0.0.0.0.hpyrdr.com": "INACTIVE",
+            "new.api.ad.xiaomi.com": "INACTIVE",
+            "test.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.api.ad.xiaomi.com": "INACTIVE",
+            "www.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
+        },
+        "1586822484": {
+            "www.cdn.ad.xiaomi.com": "INACTIVE",
+            "www.e.ad.xiaomi.com": "INACTIVE",
+            "www.globalapi.ad.xiaomi.com": "INACTIVE",
+            "www.test.e.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
