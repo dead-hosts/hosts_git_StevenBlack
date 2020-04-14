@@ -259,9 +259,6 @@
             "www.api.admob.xiaomi.com": "INACTIVE",
             "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
         },
-        "1586804122": {
-            "event.ksosoft.com": "INACTIVE"
-        },
         "1586808951": {
             "watches-my.stream": "INACTIVE",
             "www.datacollect.vmall.com": "INACTIVE"
@@ -396,6 +393,9 @@
         },
         "1586890691": {
             "castoola.tv.lan": "INVALID"
+        },
+        "1586895126": {
+            "event.ksosoft.com": "INACTIVE"
         }
     }
 }
