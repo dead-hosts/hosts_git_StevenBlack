@@ -259,22 +259,6 @@
             "www.api.admob.xiaomi.com": "INACTIVE",
             "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
         },
-        "1586786405": {
-            "ap-sonar.sociomantic.com": "INACTIVE",
-            "external.stealthedeal.com": "INACTIVE",
-            "pixel.nc0.co": "INACTIVE",
-            "www.15.taboola.com": "INACTIVE",
-            "www.api.ad.snappea.com": "INACTIVE",
-            "www.convhkmp.taboola.com": "INACTIVE",
-            "www.convlatbmp.taboola.com": "INACTIVE",
-            "www.imprhkmp.taboola.com": "INACTIVE",
-            "www.imprlatbmp.taboola.com": "INACTIVE",
-            "www.match.taboola.com": "INACTIVE",
-            "www.opps.taboola.com": "INACTIVE",
-            "www.supload.com": "INACTIVE",
-            "www.vidutils.taboola.com": "INACTIVE",
-            "www.wf.taboola.com": "INACTIVE"
-        },
         "1586795458": {
             "castoola.tv.lan": "INVALID"
         },
@@ -396,6 +380,22 @@
             "www.tracking.miui.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE",
             "yfleur.myftp.org": "INACTIVE"
+        },
+        "1586876544": {
+            "ap-sonar.sociomantic.com": "INACTIVE",
+            "external.stealthedeal.com": "INACTIVE",
+            "pixel.nc0.co": "INACTIVE",
+            "www.15.taboola.com": "INACTIVE",
+            "www.api.ad.snappea.com": "INACTIVE",
+            "www.convhkmp.taboola.com": "INACTIVE",
+            "www.convlatbmp.taboola.com": "INACTIVE",
+            "www.imprhkmp.taboola.com": "INACTIVE",
+            "www.imprlatbmp.taboola.com": "INACTIVE",
+            "www.match.taboola.com": "INACTIVE",
+            "www.opps.taboola.com": "INACTIVE",
+            "www.supload.com": "INACTIVE",
+            "www.vidutils.taboola.com": "INACTIVE",
+            "www.wf.taboola.com": "INACTIVE"
         }
     }
 }
