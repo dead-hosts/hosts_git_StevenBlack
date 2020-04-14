@@ -257,10 +257,7 @@
         },
         "1586751470": {
             "www.api.admob.xiaomi.com": "INACTIVE",
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
-            "www.ssp.ad.xiaomi.com": "INACTIVE",
-            "www.test.ad.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.xiaomi.com": "INACTIVE"
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
         },
         "1586782061": {
             "analytics.247sports.com": "INACTIVE",
@@ -396,6 +393,11 @@
         "1586835722": {
             "ssp.ad.xiaomi.com": "INACTIVE",
             "www.sdkconfig.ad.xiaomi.com": "INACTIVE"
+        },
+        "1586857993": {
+            "www.ssp.ad.xiaomi.com": "INACTIVE",
+            "www.test.ad.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
