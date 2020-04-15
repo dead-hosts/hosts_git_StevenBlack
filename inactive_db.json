@@ -253,7 +253,6 @@
         "1586876544": {
             "ap-sonar.sociomantic.com": "INACTIVE",
             "external.stealthedeal.com": "INACTIVE",
-            "pixel.nc0.co": "INACTIVE",
             "www.15.taboola.com": "INACTIVE",
             "www.api.ad.snappea.com": "INACTIVE",
             "www.convhkmp.taboola.com": "INACTIVE",
@@ -403,6 +402,9 @@
             "www.tracking.miui.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE",
             "yfleur.myftp.org": "INACTIVE"
+        },
+        "1586966270": {
+            "pixel.nc0.co": "INACTIVE"
         }
     }
 }
