@@ -251,10 +251,8 @@
             "www.app.storage.yunvm.com": "INACTIVE"
         },
         "1586876544": {
-            "ap-sonar.sociomantic.com": "INACTIVE",
             "external.stealthedeal.com": "INACTIVE",
             "www.15.taboola.com": "INACTIVE",
-            "www.api.ad.snappea.com": "INACTIVE",
             "www.convhkmp.taboola.com": "INACTIVE",
             "www.convlatbmp.taboola.com": "INACTIVE",
             "www.imprhkmp.taboola.com": "INACTIVE",
@@ -405,6 +403,10 @@
         },
         "1586966270": {
             "pixel.nc0.co": "INACTIVE"
+        },
+        "1586970520": {
+            "ap-sonar.sociomantic.com": "INACTIVE",
+            "www.api.ad.snappea.com": "INACTIVE"
         }
     }
 }
