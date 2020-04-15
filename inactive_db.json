@@ -259,9 +259,6 @@
             "www.api.admob.xiaomi.com": "INACTIVE",
             "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
         },
-        "1586826925": {
-            "www.traffclick.ru": "INACTIVE"
-        },
         "1586835722": {
             "ssp.ad.xiaomi.com": "INACTIVE",
             "www.sdkconfig.ad.xiaomi.com": "INACTIVE"
@@ -403,6 +400,9 @@
             "www.new.api.ad.xiaomi.com": "INACTIVE",
             "www.test.e.ad.xiaomi.com": "INACTIVE",
             "www.test.new.api.ad.xiaomi.com": "INACTIVE"
+        },
+        "1586921968": {
+            "www.traffclick.ru": "INACTIVE"
         }
     }
 }
