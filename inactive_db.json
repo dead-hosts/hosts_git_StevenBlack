@@ -250,11 +250,6 @@
         "1586647661": {
             "www.app.storage.yunvm.com": "INACTIVE"
         },
-        "1586857993": {
-            "www.ssp.ad.xiaomi.com": "INACTIVE",
-            "www.test.ad.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.xiaomi.com": "INACTIVE"
-        },
         "1586872240": {
             "analytics.247sports.com": "INACTIVE",
             "apple.com-fasting.live": "INACTIVE",
@@ -401,6 +396,11 @@
             "www.api.d.xiaomi.com": "INACTIVE",
             "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
             "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
+        },
+        "1586952952": {
+            "www.ssp.ad.xiaomi.com": "INACTIVE",
+            "www.test.ad.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
