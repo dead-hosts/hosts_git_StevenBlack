@@ -251,15 +251,7 @@
             "www.app.storage.yunvm.com": "INACTIVE"
         },
         "1586913256": {
-            "new.api.ad.xiaomi.com": "INACTIVE",
-            "test.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.api.ad.xiaomi.com": "INACTIVE",
-            "www.cdn.ad.xiaomi.com": "INACTIVE",
-            "www.e.ad.xiaomi.com": "INACTIVE",
-            "www.globalapi.ad.xiaomi.com": "INACTIVE",
-            "www.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.test.e.ad.xiaomi.com": "INACTIVE",
-            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
+            "www.globalapi.ad.xiaomi.com": "INACTIVE"
         },
         "1586926256": {
             "ssp.ad.xiaomi.com": "INACTIVE",
@@ -399,6 +391,16 @@
             "www.tracking.miui.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE",
             "yfleur.myftp.org": "INACTIVE"
+        },
+        "1587061590": {
+            "new.api.ad.xiaomi.com": "INACTIVE",
+            "test.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.api.ad.xiaomi.com": "INACTIVE",
+            "www.cdn.ad.xiaomi.com": "INACTIVE",
+            "www.e.ad.xiaomi.com": "INACTIVE",
+            "www.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.test.e.ad.xiaomi.com": "INACTIVE",
+            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
