@@ -261,9 +261,6 @@
             "www.test.e.ad.xiaomi.com": "INACTIVE",
             "www.test.new.api.ad.xiaomi.com": "INACTIVE"
         },
-        "1586921968": {
-            "www.traffclick.ru": "INACTIVE"
-        },
         "1586926256": {
             "ssp.ad.xiaomi.com": "INACTIVE",
             "www.sdkconfig.ad.xiaomi.com": "INACTIVE"
@@ -398,6 +395,9 @@
             "0.0.0.0.hpyrdr.com": "INACTIVE",
             "watches-my.stream": "INACTIVE",
             "www.datacollect.vmall.com": "INACTIVE"
+        },
+        "1587012696": {
+            "www.traffclick.ru": "INACTIVE"
         }
     }
 }
