@@ -187,7 +187,7 @@
     "com-fasting.live": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "com-notice.info": {
         "epoch": 1587945600.0,
