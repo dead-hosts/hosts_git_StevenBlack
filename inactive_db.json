@@ -267,30 +267,12 @@
             "www.zeus.ad.xiaomi.com": "INACTIVE"
         },
         "1587061590": {
-            "new.api.ad.xiaomi.com": "INACTIVE",
-            "test.new.api.ad.xiaomi.com": "INACTIVE",
             "www.api.ad.xiaomi.com": "INACTIVE",
             "www.cdn.ad.xiaomi.com": "INACTIVE",
             "www.e.ad.xiaomi.com": "INACTIVE",
             "www.new.api.ad.xiaomi.com": "INACTIVE",
             "www.test.e.ad.xiaomi.com": "INACTIVE",
             "www.test.new.api.ad.xiaomi.com": "INACTIVE"
-        },
-        "1587066009": {
-            "external.stealthedeal.com": "INACTIVE",
-            "www.15.taboola.com": "INACTIVE",
-            "www.convhkmp.taboola.com": "INACTIVE",
-            "www.convlatbmp.taboola.com": "INACTIVE",
-            "www.imprhkmp.taboola.com": "INACTIVE",
-            "www.imprlatbmp.taboola.com": "INACTIVE",
-            "www.match.taboola.com": "INACTIVE",
-            "www.opps.taboola.com": "INACTIVE",
-            "www.supload.com": "INACTIVE",
-            "www.vidutils.taboola.com": "INACTIVE",
-            "www.wf.taboola.com": "INACTIVE"
-        },
-        "1587070711": {
-            "castoola.tv.lan": "INVALID"
         },
         "1587075385": {
             "event.ksosoft.com": "INACTIVE"
@@ -394,6 +376,22 @@
             "www.tracking.miui.com": "INACTIVE",
             "wwww.playamo28.com": "INACTIVE",
             "yfleur.myftp.org": "INACTIVE"
+        },
+        "1587159847": {
+            "castoola.tv.lan": "INVALID",
+            "external.stealthedeal.com": "INACTIVE",
+            "new.api.ad.xiaomi.com": "INACTIVE",
+            "test.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.15.taboola.com": "INACTIVE",
+            "www.convhkmp.taboola.com": "INACTIVE",
+            "www.convlatbmp.taboola.com": "INACTIVE",
+            "www.imprhkmp.taboola.com": "INACTIVE",
+            "www.imprlatbmp.taboola.com": "INACTIVE",
+            "www.match.taboola.com": "INACTIVE",
+            "www.opps.taboola.com": "INACTIVE",
+            "www.supload.com": "INACTIVE",
+            "www.vidutils.taboola.com": "INACTIVE",
+            "www.wf.taboola.com": "INACTIVE"
         }
     }
 }
