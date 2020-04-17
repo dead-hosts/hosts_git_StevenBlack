@@ -270,8 +270,6 @@
             "www.zeus.ad.xiaomi.com": "INACTIVE"
         },
         "1587003607": {
-            "0.0.0.0.creative.hpyrdr.com": "INACTIVE",
-            "0.0.0.0.hpyrdr.com": "INACTIVE",
             "watches-my.stream": "INACTIVE",
             "www.datacollect.vmall.com": "INACTIVE"
         },
@@ -401,6 +399,11 @@
         },
         "1587075385": {
             "event.ksosoft.com": "INACTIVE"
+        },
+        "1587092898": {
+            "0.0.0.0.creative.hpyrdr.com": "INACTIVE",
+            "0.0.0.0.hpyrdr.com": "INACTIVE",
+            "browser.pipe.aria.microsoft.com": "INACTIVE"
         }
     }
 }
