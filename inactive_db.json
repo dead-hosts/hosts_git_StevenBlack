@@ -250,9 +250,6 @@
         "1586647661": {
             "www.app.storage.yunvm.com": "INACTIVE"
         },
-        "1586913256": {
-            "www.globalapi.ad.xiaomi.com": "INACTIVE"
-        },
         "1586926256": {
             "ssp.ad.xiaomi.com": "INACTIVE",
             "www.sdkconfig.ad.xiaomi.com": "INACTIVE"
@@ -268,13 +265,6 @@
             "www.ssp.ad.xiaomi.com": "INACTIVE",
             "www.test.ad.xiaomi.com": "INACTIVE",
             "www.zeus.ad.xiaomi.com": "INACTIVE"
-        },
-        "1587003607": {
-            "watches-my.stream": "INACTIVE",
-            "www.datacollect.vmall.com": "INACTIVE"
-        },
-        "1587012696": {
-            "www.traffclick.ru": "INACTIVE"
         },
         "1587030857": {
             "www.iplogger.com": "INACTIVE"
@@ -404,6 +394,12 @@
             "0.0.0.0.creative.hpyrdr.com": "INACTIVE",
             "0.0.0.0.hpyrdr.com": "INACTIVE",
             "browser.pipe.aria.microsoft.com": "INACTIVE"
+        },
+        "1587106282": {
+            "watches-my.stream": "INACTIVE",
+            "www.datacollect.vmall.com": "INACTIVE",
+            "www.globalapi.ad.xiaomi.com": "INACTIVE",
+            "www.traffclick.ru": "INACTIVE"
         }
     }
 }
