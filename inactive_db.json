@@ -267,12 +267,8 @@
             "www.zeus.ad.xiaomi.com": "INACTIVE"
         },
         "1587061590": {
-            "www.api.ad.xiaomi.com": "INACTIVE",
-            "www.cdn.ad.xiaomi.com": "INACTIVE",
             "www.e.ad.xiaomi.com": "INACTIVE",
-            "www.new.api.ad.xiaomi.com": "INACTIVE",
-            "www.test.e.ad.xiaomi.com": "INACTIVE",
-            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
+            "www.test.e.ad.xiaomi.com": "INACTIVE"
         },
         "1587092898": {
             "0.0.0.0.creative.hpyrdr.com": "INACTIVE",
@@ -389,6 +385,12 @@
             "www.supload.com": "INACTIVE",
             "www.vidutils.taboola.com": "INACTIVE",
             "www.wf.taboola.com": "INACTIVE"
+        },
+        "1587168908": {
+            "www.api.ad.xiaomi.com": "INACTIVE",
+            "www.cdn.ad.xiaomi.com": "INACTIVE",
+            "www.new.api.ad.xiaomi.com": "INACTIVE",
+            "www.test.new.api.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
