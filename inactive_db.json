@@ -235,8 +235,7 @@
             "www.abtest.mistat.intl.xiaomi.com": "INACTIVE",
             "www.api.hybrid.intl.xiaomi.com": "INACTIVE",
             "www.data.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE",
-            "www.zeus.ad.intl.xiaomi.com": "INACTIVE"
+            "www.storeconfig.mistat.intl.xiaomi.com": "INACTIVE"
         },
         "1586643272": {
             "www.a.stat.xiaomi.com": "INACTIVE",
@@ -249,16 +248,6 @@
         },
         "1586647661": {
             "www.app.storage.yunvm.com": "INACTIVE"
-        },
-        "1586939597": {
-            "www.api.ad.intl.xiaomi.com": "INACTIVE",
-            "www.api.admob.xiaomi.com": "INACTIVE",
-            "www.api.d.xiaomi.com": "INACTIVE",
-            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
-            "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
-        },
-        "1586952952": {
-            "www.zeus.ad.xiaomi.com": "INACTIVE"
         },
         "1587106282": {
             "watches-my.stream": "INACTIVE",
@@ -388,6 +377,16 @@
         "1587182126": {
             "0.0.0.0.creative.hpyrdr.com": "INACTIVE",
             "0.0.0.0.hpyrdr.com": "INACTIVE"
+        },
+        "1587186514": {
+            "www.api.ad.intl.xiaomi.com": "INACTIVE",
+            "www.api.admob.xiaomi.com": "INACTIVE",
+            "www.api.d.xiaomi.com": "INACTIVE",
+            "www.sdkconfig.ad.intl.xiaomi.com": "INACTIVE",
+            "www.sgp.o2o.api.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.intl.xiaomi.com": "INACTIVE",
+            "www.zeus.ad.xiaomi.com": "INACTIVE",
+            "zeus.ad.intl.xiaomi.com": "INACTIVE"
         }
     }
 }
