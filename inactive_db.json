@@ -252,8 +252,7 @@
         "1587106282": {
             "watches-my.stream": "INACTIVE",
             "www.datacollect.vmall.com": "INACTIVE",
-            "www.globalapi.ad.xiaomi.com": "INACTIVE",
-            "www.traffclick.ru": "INACTIVE"
+            "www.globalapi.ad.xiaomi.com": "INACTIVE"
         },
         "1587141425": {
             "analytics.247sports.com": "INACTIVE",
@@ -387,6 +386,12 @@
             "www.zeus.ad.intl.xiaomi.com": "INACTIVE",
             "www.zeus.ad.xiaomi.com": "INACTIVE",
             "zeus.ad.intl.xiaomi.com": "INACTIVE"
+        },
+        "1587195370": {
+            "www.indiaonclick.com": "INACTIVE"
+        },
+        "1587195371": {
+            "www.traffclick.ru": "INACTIVE"
         }
     }
 }
