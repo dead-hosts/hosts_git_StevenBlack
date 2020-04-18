@@ -250,10 +250,6 @@
         "1586647661": {
             "www.app.storage.yunvm.com": "INACTIVE"
         },
-        "1586926256": {
-            "ssp.ad.xiaomi.com": "INACTIVE",
-            "www.sdkconfig.ad.xiaomi.com": "INACTIVE"
-        },
         "1586939597": {
             "www.api.ad.intl.xiaomi.com": "INACTIVE",
             "www.api.admob.xiaomi.com": "INACTIVE",
@@ -262,13 +258,7 @@
             "www.sgp.o2o.api.xiaomi.com": "INACTIVE"
         },
         "1586952952": {
-            "www.ssp.ad.xiaomi.com": "INACTIVE",
-            "www.test.ad.xiaomi.com": "INACTIVE",
             "www.zeus.ad.xiaomi.com": "INACTIVE"
-        },
-        "1587061590": {
-            "www.e.ad.xiaomi.com": "INACTIVE",
-            "www.test.e.ad.xiaomi.com": "INACTIVE"
         },
         "1587092898": {
             "0.0.0.0.creative.hpyrdr.com": "INACTIVE",
@@ -391,6 +381,14 @@
             "www.cdn.ad.xiaomi.com": "INACTIVE",
             "www.new.api.ad.xiaomi.com": "INACTIVE",
             "www.test.new.api.ad.xiaomi.com": "INACTIVE"
+        },
+        "1587173358": {
+            "ssp.ad.xiaomi.com": "INACTIVE",
+            "www.e.ad.xiaomi.com": "INACTIVE",
+            "www.sdkconfig.ad.xiaomi.com": "INACTIVE",
+            "www.ssp.ad.xiaomi.com": "INACTIVE",
+            "www.test.ad.xiaomi.com": "INACTIVE",
+            "www.test.e.ad.xiaomi.com": "INACTIVE"
         }
     }
 }
