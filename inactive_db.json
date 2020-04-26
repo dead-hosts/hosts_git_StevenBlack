@@ -926,6 +926,13 @@
             "last_retested_at_iso": "2020-04-26T16:10:51.326034",
             "status": "INACTIVE"
         },
+        "www.soperson.com": {
+            "included_at_epoch": 1587941428.134024,
+            "included_at_iso": "2020-04-26T22:50:28.134024",
+            "last_retested_at_epoch": 1587941428.134024,
+            "last_retested_at_iso": "2020-04-26T22:50:28.134024",
+            "status": "INACTIVE"
+        },
         "www.ssp.ad.xiaomi.com": {
             "included_at_epoch": 1587916085.377683,
             "included_at_iso": "2020-04-26T15:48:05.377683",
