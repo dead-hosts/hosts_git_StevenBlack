@@ -54,6 +54,11 @@
         "expiration_date": "16-jan-2021",
         "state": "future"
     },
+    "allmygoodlife.com": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "amarktflow.com": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
@@ -102,6 +107,11 @@
     "armantark.com": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "aws-update.net": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "banner.org.ua": {
@@ -197,6 +207,11 @@
     "consumerproductsusa.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "corp-github.com": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "cosiloon.com": {
@@ -304,6 +319,36 @@
         "expiration_date": "03-mar-2021",
         "state": "future"
     },
+    "glt-app.net": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
+    "glthub.info": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "state": "future"
+    },
+    "glthub.net": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "glthube.app": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "glthubs.net": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
+        "state": "future"
+    },
+    "glthubse.info": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
     "goooooooooogle.com": {
         "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
@@ -327,6 +372,16 @@
     "greedseed.world": {
         "epoch": 1583884800.0,
         "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
+    "hadslims.com": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
+    "hadsoks.com": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "hdnewporn.com": {
@@ -439,6 +494,11 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "maper.info": {
+        "epoch": 1588204800.0,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
     "march262020.best": {
         "epoch": 1616716800.0,
         "expiration_date": "26-mar-2021",
@@ -512,6 +572,11 @@
     "nikitinskysport.ru": {
         "epoch": "1551830400",
         "expiration_date": "06-mar-2019",
+        "state": "future"
+    },
+    "nordfreevpn.com": {
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
         "state": "future"
     },
     "notification-browser.tools": {
@@ -624,6 +689,11 @@
         "expiration_date": "19-oct-2021",
         "state": "future"
     },
+    "slack-app.net": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
     "soperson.com": {
         "epoch": 1639872000.0,
         "expiration_date": "19-dec-2021",
@@ -639,6 +709,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "sso-github.com": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
+    },
     "stealthedeal.com": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
@@ -647,6 +722,11 @@
     "stopify.co": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "sts-github.com": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "supload.com": {
@@ -699,6 +779,11 @@
         "expiration_date": "27-sep-2019",
         "state": "future"
     },
+    "tsl-github.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
     "ttwitter.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
@@ -727,6 +812,11 @@
     "vdtrack.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "vpn4test.net": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "watches-my.stream": {
