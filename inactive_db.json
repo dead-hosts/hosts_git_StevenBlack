@@ -40,8 +40,8 @@
         "abtest.mistat.intl.xiaomi.com": {
             "included_at_epoch": 1586616841.0,
             "included_at_iso": "2020-04-11T14:54:01",
-            "last_retested_at_epoch": 1588247876.51972,
-            "last_retested_at_iso": "2020-04-30T11:57:56.519720",
+            "last_retested_at_epoch": 1588379281.146564,
+            "last_retested_at_iso": "2020-05-02T00:28:01.146564",
             "status": "INACTIVE"
         },
         "ads.grandonmedia.com": {
@@ -82,8 +82,8 @@
         "api.doubles.click": {
             "included_at_epoch": 1587917451.572121,
             "included_at_iso": "2020-04-26T16:10:51.572121",
-            "last_retested_at_epoch": 1588247876.756997,
-            "last_retested_at_iso": "2020-04-30T11:57:56.756997",
+            "last_retested_at_epoch": 1588379281.377588,
+            "last_retested_at_iso": "2020-05-02T00:28:01.377588",
             "status": "INACTIVE"
         },
         "api.grandonmedia.com": {
@@ -138,8 +138,8 @@
         "cdn.doublesclick.me": {
             "included_at_epoch": 1587917451.565152,
             "included_at_iso": "2020-04-26T16:10:51.565152",
-            "last_retested_at_epoch": 1588247876.749289,
-            "last_retested_at_iso": "2020-04-30T11:57:56.749289",
+            "last_retested_at_epoch": 1588379281.370351,
+            "last_retested_at_iso": "2020-05-02T00:28:01.370351",
             "status": "INACTIVE"
         },
         "click.grandonmedia.com": {
@@ -166,8 +166,8 @@
         "ensure-https.com": {
             "included_at_epoch": 1587917451.481613,
             "included_at_iso": "2020-04-26T16:10:51.481613",
-            "last_retested_at_epoch": 1588247876.650271,
-            "last_retested_at_iso": "2020-04-30T11:57:56.650271",
+            "last_retested_at_epoch": 1588379281.278121,
+            "last_retested_at_iso": "2020-05-02T00:28:01.278121",
             "status": "INACTIVE"
         },
         "external.stealthedeal.com": {
@@ -180,57 +180,57 @@
         "git-hub.co": {
             "included_at_epoch": 1587917451.477968,
             "included_at_iso": "2020-04-26T16:10:51.477968",
-            "last_retested_at_epoch": 1588247876.654171,
-            "last_retested_at_iso": "2020-04-30T11:57:56.654171",
+            "last_retested_at_epoch": 1588379281.274415,
+            "last_retested_at_iso": "2020-05-02T00:28:01.274415",
             "status": "INACTIVE"
         },
         "git-secure-service.in": {
             "included_at_epoch": 1587917451.488795,
             "included_at_iso": "2020-04-26T16:10:51.488795",
-            "last_retested_at_epoch": 1588247876.661885,
-            "last_retested_at_iso": "2020-04-30T11:57:56.661885",
+            "last_retested_at_epoch": 1588379281.285818,
+            "last_retested_at_iso": "2020-05-02T00:28:01.285818",
             "status": "INACTIVE"
         },
         "githb.co": {
             "included_at_epoch": 1587917451.485159,
             "included_at_iso": "2020-04-26T16:10:51.485159",
-            "last_retested_at_epoch": 1588247876.657946,
-            "last_retested_at_iso": "2020-04-30T11:57:56.657946",
+            "last_retested_at_epoch": 1588379281.282104,
+            "last_retested_at_iso": "2020-05-02T00:28:01.282104",
             "status": "INACTIVE"
         },
         "glt-hub.com": {
             "included_at_epoch": 1587917451.495338,
             "included_at_iso": "2020-04-26T16:10:51.495338",
-            "last_retested_at_epoch": 1588247876.669306,
-            "last_retested_at_iso": "2020-04-30T11:57:56.669306",
+            "last_retested_at_epoch": 1588379281.292708,
+            "last_retested_at_iso": "2020-05-02T00:28:01.292708",
             "status": "INACTIVE"
         },
         "glthub.co": {
             "included_at_epoch": 1587917451.5021,
             "included_at_iso": "2020-04-26T16:10:51.502100",
-            "last_retested_at_epoch": 1588247876.676796,
-            "last_retested_at_iso": "2020-04-30T11:57:56.676796",
+            "last_retested_at_epoch": 1588379281.29667,
+            "last_retested_at_iso": "2020-05-02T00:28:01.296670",
             "status": "INACTIVE"
         },
         "glthubb.info": {
             "included_at_epoch": 1587917451.508758,
             "included_at_iso": "2020-04-26T16:10:51.508758",
-            "last_retested_at_epoch": 1588247876.684341,
-            "last_retested_at_iso": "2020-04-30T11:57:56.684341",
+            "last_retested_at_epoch": 1588379281.307012,
+            "last_retested_at_iso": "2020-05-02T00:28:01.307012",
             "status": "INACTIVE"
         },
         "glthubs.com": {
             "included_at_epoch": 1587917451.5154,
             "included_at_iso": "2020-04-26T16:10:51.515400",
-            "last_retested_at_epoch": 1588247876.691739,
-            "last_retested_at_iso": "2020-04-30T11:57:56.691739",
+            "last_retested_at_epoch": 1588379281.314026,
+            "last_retested_at_iso": "2020-05-02T00:28:01.314026",
             "status": "INACTIVE"
         },
         "glthubs.info": {
             "included_at_epoch": 1587917451.522062,
             "included_at_iso": "2020-04-26T16:10:51.522062",
-            "last_retested_at_epoch": 1588247876.699724,
-            "last_retested_at_iso": "2020-04-30T11:57:56.699724",
+            "last_retested_at_epoch": 1588379281.321207,
+            "last_retested_at_iso": "2020-05-02T00:28:01.321207",
             "status": "INACTIVE"
         },
         "greatmacsoft.tech": {
@@ -317,6 +317,13 @@
             "last_retested_at_iso": "2020-05-02T00:01:46.293758",
             "status": "INACTIVE"
         },
+        "ora.studiolegalebasili.com": {
+            "included_at_epoch": 1588379281.404178,
+            "included_at_iso": "2020-05-02T00:28:01.404178",
+            "last_retested_at_epoch": 1588379281.404178,
+            "last_retested_at_iso": "2020-05-02T00:28:01.404178",
+            "status": "INACTIVE"
+        },
         "pub.grandonmedia.com": {
             "included_at_epoch": 1587916084.553026,
             "included_at_iso": "2020-04-26T15:48:04.553026",
@@ -331,6 +338,13 @@
             "last_retested_at_iso": "2020-05-02T00:01:44.984156",
             "status": "INACTIVE"
         },
+        "rxc.rxcoordinator.com": {
+            "included_at_epoch": 1588379281.407904,
+            "included_at_iso": "2020-05-02T00:28:01.407904",
+            "last_retested_at_epoch": 1588379281.407904,
+            "last_retested_at_iso": "2020-05-02T00:28:01.407904",
+            "status": "INACTIVE"
+        },
         "sebder.roboinside.me": {
             "included_at_epoch": 1587916084.966558,
             "included_at_iso": "2020-04-26T15:48:04.966558",
@@ -341,8 +355,8 @@
         "ssl-connection.net": {
             "included_at_epoch": 1587917451.535041,
             "included_at_iso": "2020-04-26T16:10:51.535041",
-            "last_retested_at_epoch": 1588247876.714942,
-            "last_retested_at_iso": "2020-04-30T11:57:56.714942",
+            "last_retested_at_epoch": 1588379281.334727,
+            "last_retested_at_iso": "2020-05-02T00:28:01.334727",
             "status": "INACTIVE"
         },
         "ssp.ad.xiaomi.com": {
@@ -355,29 +369,29 @@
         "start.apiforssl.com": {
             "included_at_epoch": 1587917451.579254,
             "included_at_iso": "2020-04-26T16:10:51.579254",
-            "last_retested_at_epoch": 1588247876.764685,
-            "last_retested_at_iso": "2020-04-30T11:57:56.764685",
+            "last_retested_at_epoch": 1588379281.381195,
+            "last_retested_at_iso": "2020-05-02T00:28:01.381195",
             "status": "INACTIVE"
         },
         "static.doublesclick.info": {
             "included_at_epoch": 1587917451.561499,
             "included_at_iso": "2020-04-26T16:10:51.561499",
-            "last_retested_at_epoch": 1588247876.745567,
-            "last_retested_at_iso": "2020-04-30T11:57:56.745567",
+            "last_retested_at_epoch": 1588379281.366609,
+            "last_retested_at_iso": "2020-05-02T00:28:01.366609",
             "status": "INACTIVE"
         },
         "status.search-sslkey-flush.com": {
             "included_at_epoch": 1587917451.568636,
             "included_at_iso": "2020-04-26T16:10:51.568636",
-            "last_retested_at_epoch": 1588247876.753187,
-            "last_retested_at_iso": "2020-04-30T11:57:56.753187",
+            "last_retested_at_epoch": 1588379281.373972,
+            "last_retested_at_iso": "2020-05-02T00:28:01.373972",
             "status": "INACTIVE"
         },
         "status.verifyingbycf.com": {
             "included_at_epoch": 1587917451.575785,
             "included_at_iso": "2020-04-26T16:10:51.575785",
-            "last_retested_at_epoch": 1588247876.760844,
-            "last_retested_at_iso": "2020-04-30T11:57:56.760844",
+            "last_retested_at_epoch": 1588379281.384869,
+            "last_retested_at_iso": "2020-05-02T00:28:01.384869",
             "status": "INACTIVE"
         },
         "support.apple.com-notice.info": {
@@ -446,22 +460,22 @@
         "www.a.stat.xiaomi.com": {
             "included_at_epoch": 1586643272.0,
             "included_at_iso": "2020-04-11T22:14:32",
-            "last_retested_at_epoch": 1588247876.563228,
-            "last_retested_at_iso": "2020-04-30T11:57:56.563228",
+            "last_retested_at_epoch": 1588379281.184881,
+            "last_retested_at_iso": "2020-05-02T00:28:01.184881",
             "status": "INACTIVE"
         },
         "www.abtest.mistat.intl.xiaomi.com": {
             "included_at_epoch": 1587917451.354426,
             "included_at_iso": "2020-04-26T16:10:51.354426",
-            "last_retested_at_epoch": 1588247876.523385,
-            "last_retested_at_iso": "2020-04-30T11:57:56.523385",
+            "last_retested_at_epoch": 1588379281.150149,
+            "last_retested_at_iso": "2020-05-02T00:28:01.150149",
             "status": "INACTIVE"
         },
         "www.abtest.mistat.xiaomi.com": {
             "included_at_epoch": 1587917451.380691,
             "included_at_iso": "2020-04-26T16:10:51.380691",
-            "last_retested_at_epoch": 1588247876.551532,
-            "last_retested_at_iso": "2020-04-30T11:57:56.551532",
+            "last_retested_at_epoch": 1588379281.174054,
+            "last_retested_at_iso": "2020-05-02T00:28:01.174054",
             "status": "INACTIVE"
         },
         "www.ads.grandonmedia.com": {
@@ -502,8 +516,8 @@
         "www.api.ad.intl.xiaomi.com": {
             "included_at_epoch": 1587186514.0,
             "included_at_iso": "2020-04-18T05:08:34",
-            "last_retested_at_epoch": 1588247876.497563,
-            "last_retested_at_iso": "2020-04-30T11:57:56.497563",
+            "last_retested_at_epoch": 1588379281.124407,
+            "last_retested_at_iso": "2020-05-02T00:28:01.124407",
             "status": "INACTIVE"
         },
         "www.api.ad.snappea.com": {
@@ -523,8 +537,8 @@
         "www.api.admob.xiaomi.com": {
             "included_at_epoch": 1587917451.321502,
             "included_at_iso": "2020-04-26T16:10:51.321502",
-            "last_retested_at_epoch": 1588247876.479882,
-            "last_retested_at_iso": "2020-04-30T11:57:56.479882",
+            "last_retested_at_epoch": 1588379281.108625,
+            "last_retested_at_iso": "2020-05-02T00:28:01.108625",
             "status": "INACTIVE"
         },
         "www.api.brs.intl.miui.com": {
@@ -544,8 +558,8 @@
         "www.api.d.xiaomi.com": {
             "included_at_epoch": 1587917451.330734,
             "included_at_iso": "2020-04-26T16:10:51.330734",
-            "last_retested_at_epoch": 1588247876.492269,
-            "last_retested_at_iso": "2020-04-30T11:57:56.492269",
+            "last_retested_at_epoch": 1588379281.120819,
+            "last_retested_at_iso": "2020-05-02T00:28:01.120819",
             "status": "INACTIVE"
         },
         "www.api.grandonmedia.com": {
@@ -558,8 +572,8 @@
         "www.api.hybrid.intl.xiaomi.com": {
             "included_at_epoch": 1587917451.349705,
             "included_at_iso": "2020-04-26T16:10:51.349705",
-            "last_retested_at_epoch": 1588247876.514042,
-            "last_retested_at_iso": "2020-04-30T11:57:56.514042",
+            "last_retested_at_epoch": 1588379281.141541,
+            "last_retested_at_iso": "2020-05-02T00:28:01.141541",
             "status": "INACTIVE"
         },
         "www.api.sec.intl.miui.com": {
@@ -635,8 +649,8 @@
         "www.cc.sys.intl.xiaomi.com": {
             "included_at_epoch": 1587917451.372358,
             "included_at_iso": "2020-04-26T16:10:51.372358",
-            "last_retested_at_epoch": 1588247876.540379,
-            "last_retested_at_iso": "2020-04-30T11:57:56.540379",
+            "last_retested_at_epoch": 1588379281.163938,
+            "last_retested_at_iso": "2020-05-02T00:28:01.163938",
             "status": "INACTIVE"
         },
         "www.cc.sys.miui.com": {
@@ -649,8 +663,8 @@
         "www.ccc.sys.intl.xiaomi.com": {
             "included_at_epoch": 1587917451.377428,
             "included_at_iso": "2020-04-26T16:10:51.377428",
-            "last_retested_at_epoch": 1588247876.546445,
-            "last_retested_at_iso": "2020-04-30T11:57:56.546445",
+            "last_retested_at_epoch": 1588379281.169032,
+            "last_retested_at_iso": "2020-05-02T00:28:01.169032",
             "status": "INACTIVE"
         },
         "www.ccc.sys.miui.com": {
@@ -705,15 +719,15 @@
         "www.data.mistat.intl.xiaomi.com": {
             "included_at_epoch": 1587917451.362389,
             "included_at_iso": "2020-04-26T16:10:51.362389",
-            "last_retested_at_epoch": 1588247876.528859,
-            "last_retested_at_iso": "2020-04-30T11:57:56.528859",
+            "last_retested_at_epoch": 1588379281.153703,
+            "last_retested_at_iso": "2020-05-02T00:28:01.153703",
             "status": "INACTIVE"
         },
         "www.data.mistat.xiaomi.com": {
             "included_at_epoch": 1587917451.387396,
             "included_at_iso": "2020-04-26T16:10:51.387396",
-            "last_retested_at_epoch": 1588247876.556841,
-            "last_retested_at_iso": "2020-04-30T11:57:56.556841",
+            "last_retested_at_epoch": 1588379281.181263,
+            "last_retested_at_iso": "2020-05-02T00:28:01.181263",
             "status": "INACTIVE"
         },
         "www.data.sec.intl.miui.com": {
@@ -894,8 +908,8 @@
         "www.sdkconfig.ad.intl.xiaomi.com": {
             "included_at_epoch": 1587917451.338713,
             "included_at_iso": "2020-04-26T16:10:51.338713",
-            "last_retested_at_epoch": 1588247876.501351,
-            "last_retested_at_iso": "2020-04-30T11:57:56.501351",
+            "last_retested_at_epoch": 1588379281.130912,
+            "last_retested_at_iso": "2020-05-02T00:28:01.130912",
             "status": "INACTIVE"
         },
         "www.sdkconfig.ad.xiaomi.com": {
@@ -915,8 +929,8 @@
         "www.sgp.o2o.api.xiaomi.com": {
             "included_at_epoch": 1587917451.326034,
             "included_at_iso": "2020-04-26T16:10:51.326034",
-            "last_retested_at_epoch": 1588247876.48678,
-            "last_retested_at_iso": "2020-04-30T11:57:56.486780",
+            "last_retested_at_epoch": 1588379281.114047,
+            "last_retested_at_iso": "2020-05-02T00:28:01.114047",
             "status": "INACTIVE"
         },
         "www.soperson.com": {
@@ -929,8 +943,8 @@
         "www.ssp.ad.xiaomi.com": {
             "included_at_epoch": 1587916085.377683,
             "included_at_iso": "2020-04-26T15:48:05.377683",
-            "last_retested_at_epoch": 1588242021.207912,
-            "last_retested_at_iso": "2020-04-30T10:20:21.207912",
+            "last_retested_at_epoch": 1588379281.093882,
+            "last_retested_at_iso": "2020-05-02T00:28:01.093882",
             "status": "INACTIVE"
         },
         "www.stats.jpush.cn": {
@@ -943,8 +957,8 @@
         "www.storeconfig.mistat.intl.xiaomi.com": {
             "included_at_epoch": 1587917451.365689,
             "included_at_iso": "2020-04-26T16:10:51.365689",
-            "last_retested_at_epoch": 1588247876.534183,
-            "last_retested_at_iso": "2020-04-30T11:57:56.534183",
+            "last_retested_at_epoch": 1588379281.158878,
+            "last_retested_at_iso": "2020-05-02T00:28:01.158878",
             "status": "INACTIVE"
         },
         "www.superlogout.github.io": {
@@ -971,8 +985,8 @@
         "www.test.ad.xiaomi.com": {
             "included_at_epoch": 1587917451.312241,
             "included_at_iso": "2020-04-26T16:10:51.312241",
-            "last_retested_at_epoch": 1588242021.212824,
-            "last_retested_at_iso": "2020-04-30T10:20:21.212824",
+            "last_retested_at_epoch": 1588379281.099503,
+            "last_retested_at_iso": "2020-05-02T00:28:01.099503",
             "status": "INACTIVE"
         },
         "www.test.e.ad.xiaomi.com": {
@@ -1027,15 +1041,15 @@
         "www.zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1587917451.346506,
             "included_at_iso": "2020-04-26T16:10:51.346506",
-            "last_retested_at_epoch": 1588247876.510232,
-            "last_retested_at_iso": "2020-04-30T11:57:56.510232",
+            "last_retested_at_epoch": 1588379281.137988,
+            "last_retested_at_iso": "2020-05-02T00:28:01.137988",
             "status": "INACTIVE"
         },
         "www.zeus.ad.xiaomi.com": {
             "included_at_epoch": 1587917451.316753,
             "included_at_iso": "2020-04-26T16:10:51.316753",
-            "last_retested_at_epoch": 1588242021.216305,
-            "last_retested_at_iso": "2020-04-30T10:20:21.216305",
+            "last_retested_at_epoch": 1588379281.104831,
+            "last_retested_at_iso": "2020-05-02T00:28:01.104831",
             "status": "INACTIVE"
         },
         "wwww.playamo28.com": {
@@ -1048,15 +1062,15 @@
         "xn--srahah-bua.eu": {
             "included_at_epoch": 1587917451.41232,
             "included_at_iso": "2020-04-26T16:10:51.412320",
-            "last_retested_at_epoch": 1588247876.583614,
-            "last_retested_at_iso": "2020-04-30T11:57:56.583614",
+            "last_retested_at_epoch": 1588379281.207429,
+            "last_retested_at_iso": "2020-05-02T00:28:01.207429",
             "status": "INACTIVE"
         },
         "xn--srahah-bua.pl": {
             "included_at_epoch": 1587917451.416089,
             "included_at_iso": "2020-04-26T16:10:51.416089",
-            "last_retested_at_epoch": 1588247876.587537,
-            "last_retested_at_iso": "2020-04-30T11:57:56.587537",
+            "last_retested_at_epoch": 1588379281.211068,
+            "last_retested_at_iso": "2020-05-02T00:28:01.211068",
             "status": "INACTIVE"
         },
         "yfleur.myftp.org": {
@@ -1069,8 +1083,8 @@
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1587917451.34334,
             "included_at_iso": "2020-04-26T16:10:51.343340",
-            "last_retested_at_epoch": 1588247876.506544,
-            "last_retested_at_iso": "2020-04-30T11:57:56.506544",
+            "last_retested_at_epoch": 1588379281.134439,
+            "last_retested_at_iso": "2020-05-02T00:28:01.134439",
             "status": "INACTIVE"
         }
     }

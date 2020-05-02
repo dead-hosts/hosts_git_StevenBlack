@@ -309,6 +309,11 @@
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "gainblox.com": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
     "gamblerush.com": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
@@ -357,6 +362,11 @@
     "grabify.link": {
         "epoch": 1656979200.0,
         "expiration_date": "05-jul-2022",
+        "state": "future"
+    },
+    "grandmods.com": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "grandonmedia.com": {
@@ -495,9 +505,9 @@
         "state": "future"
     },
     "maper.info": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
-        "state": "past"
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
+        "state": "future"
     },
     "march262020.best": {
         "epoch": 1616716800.0,
@@ -669,6 +679,11 @@
         "expiration_date": "23-jul-2020",
         "state": "future"
     },
+    "robux.dev": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
     "rollbar.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
@@ -752,6 +767,11 @@
     "thebestgame2020.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
+    "themoil.site": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
         "state": "future"
     },
     "torrenty-org.pl": {
