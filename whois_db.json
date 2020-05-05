@@ -919,6 +919,11 @@
         "expiration_date": "17-jan-2025",
         "state": "future"
     },
+    "teddygirls.cc": {
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
     "theannoyingsite.com": {
         "epoch": 1638316800.0,
         "expiration_date": "01-dec-2021",
@@ -992,6 +997,11 @@
     "vdtrack.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "vipmodels.tv": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "vpn4test.net": {
