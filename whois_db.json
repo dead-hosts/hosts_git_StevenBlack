@@ -544,6 +544,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "jbcam.cz": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
     "jbvmix.link": {
         "epoch": 1613779200.0,
         "expiration_date": "20-feb-2021",
@@ -682,6 +687,11 @@
     "newlimitedoffer.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "nicemice.cf": {
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "state": "future"
     },
     "nikitinskysport.ru": {
