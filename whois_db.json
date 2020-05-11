@@ -154,6 +154,11 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "aresboot.xyz": {
+        "epoch": 1675814400.0,
+        "expiration_date": "08-feb-2023",
+        "state": "future"
+    },
     "arjoflor.com": {
         "epoch": 1616112000.0,
         "expiration_date": "19-mar-2021",
@@ -454,6 +459,16 @@
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "dfgdgertdvdf.online": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "dfgdgertdvdf.xyz": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "dobre-programy.pl": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
@@ -729,6 +744,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "hrcorp1.site": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
     "hrtya.com": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
@@ -762,6 +782,11 @@
     "init.sh": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "inps-informa.online": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "iplogger.com": {
@@ -827,6 +852,11 @@
     "joinmy.site": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "jomamba.best": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "k5market.com": {
@@ -982,6 +1012,11 @@
     "mediaparade.net": {
         "epoch": "1576108800",
         "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "memedarka.xyz": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "microsoftupdateswin.com": {
@@ -1812,6 +1847,11 @@
     "youfunv.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "younglustforum.pw": {
+        "epoch": 1602633600.0,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "yoursuperservice.com": {
