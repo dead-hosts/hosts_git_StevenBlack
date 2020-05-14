@@ -369,6 +369,11 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
+    "brilns.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "brotherselectricco.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
@@ -549,6 +554,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "crilns.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
     "cutebaitsforum.cc": {
         "epoch": 1612310400.0,
         "expiration_date": "03-feb-2021",
@@ -627,6 +637,11 @@
     "dobreprogramy.pro": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "dolodos.top": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "domenuscdm.com": {
@@ -822,6 +837,11 @@
     "freshdepor.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "frilns.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "frosdank.com": {
@@ -1184,6 +1204,11 @@
         "expiration_date": "19-dec-2020",
         "state": "future"
     },
+    "kdsidsiadsakfsas.com": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
     "kittygfs.cc": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
@@ -1399,6 +1424,11 @@
         "expiration_date": "27-jun-2020",
         "state": "future"
     },
+    "masikini.com": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
     "matchmyip.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
@@ -1437,6 +1467,11 @@
     "mediaparade.net": {
         "epoch": "1576108800",
         "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "medsource.top": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "memedarka.xyz": {
@@ -1679,6 +1714,11 @@
         "expiration_date": "01-feb-2021",
         "state": "future"
     },
+    "oajdasnndkdahm.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
     "oawyr.com": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
@@ -1744,6 +1784,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "pervas.top": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
     "petitelady.top": {
         "epoch": 1619913600.0,
         "expiration_date": "02-may-2021",
@@ -1757,6 +1802,16 @@
     "phamchilong.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "piastas.gdn": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "piasuna.gdn": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "pingconnect.net": {
@@ -2124,6 +2179,11 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "tdreg.top": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
     "teacoffe.net": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
@@ -2254,6 +2314,16 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "tretas.top": {
+        "epoch": 1583020800.0,
+        "expiration_date": "01-mar-2020",
+        "state": "past"
+    },
+    "trilns.com": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
     "tripan.me": {
         "epoch": "1569542400",
         "expiration_date": "27-sep-2019",
@@ -2362,6 +2432,11 @@
     "vpn4test.net": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
+    "vtoras.top": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
         "state": "future"
     },
     "watches-my.stream": {
