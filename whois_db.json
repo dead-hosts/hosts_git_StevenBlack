@@ -854,6 +854,11 @@
         "expiration_date": "17-apr-2021",
         "state": "future"
     },
+    "fedortest.xyz": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "feylibertad.org": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
@@ -1452,6 +1457,11 @@
     "mail-auth.email": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
+    "mail-auth.online": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "mail-google.email": {
