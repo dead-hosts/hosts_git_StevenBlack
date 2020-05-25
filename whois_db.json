@@ -295,8 +295,8 @@
         "state": "future"
     },
     "auth-mail.email": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "avrenew.com": {
@@ -1490,9 +1490,9 @@
         "state": "future"
     },
     "mail-google.email": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
-        "state": "past"
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
     },
     "mainmainncjnrjpbn.fr": {
         "epoch": 1622246400.0,
