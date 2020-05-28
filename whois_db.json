@@ -112,7 +112,7 @@
     "accountsgoog1e.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adaptivecss.org": {
         "epoch": 1614556800.0,
@@ -572,7 +572,7 @@
     "comericac.com": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "comssite.com": {
         "epoch": 1613174400.0,
@@ -2167,6 +2167,11 @@
     "security-check-551.com": {
         "epoch": "1578355200",
         "expiration_date": "07-jan-2020",
+        "state": "future"
+    },
+    "seemascakes.com": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "semasa.icu": {
