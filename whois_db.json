@@ -942,7 +942,7 @@
     "freegiftcards.co": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "freeoldsafe.com": {
         "epoch": 1613606400.0,
@@ -2800,8 +2800,8 @@
         "state": "future"
     },
     "xn--disordapp-s3a.com": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "xn--minecrft-5za.com": {
