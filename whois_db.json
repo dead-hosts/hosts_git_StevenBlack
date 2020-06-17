@@ -452,7 +452,7 @@
     "busyserviceinc.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "buzzclicks.com": {
         "epoch": 1607990400.0,
@@ -1792,7 +1792,7 @@
     "navyfedara1.org": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "navyfedera1.com": {
         "epoch": 1593561600.0,
