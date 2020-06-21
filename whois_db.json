@@ -280,8 +280,8 @@
         "state": "future"
     },
     "armconsul.ru": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "artizaa.com": {
@@ -565,8 +565,8 @@
         "state": "past"
     },
     "com-enter.site": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "com-fasting.live": {
@@ -1512,7 +1512,7 @@
     "mail-auth.email": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mail-auth.online": {
         "epoch": 1594857600.0,
@@ -1625,8 +1625,8 @@
         "state": "future"
     },
     "mcsoft365.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "mechat.info": {
@@ -2285,9 +2285,9 @@
         "state": "future"
     },
     "skategirlchina.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
-        "state": "past"
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
     },
     "slack-app.net": {
         "epoch": 1617235200.0,
