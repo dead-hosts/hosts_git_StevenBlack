@@ -2697,6 +2697,20 @@
             "last_retested_at_iso": "2020-07-02T01:04:08.894145",
             "status": "INACTIVE"
         },
+        "libjs.inquirerjs.com": {
+            "included_at_epoch": 1593685741.192068,
+            "included_at_iso": "2020-07-02T10:29:01.192068",
+            "last_retested_at_epoch": 1593685741.192068,
+            "last_retested_at_iso": "2020-07-02T10:29:01.192068",
+            "status": "INACTIVE"
+        },
+        "libjss.inquirerjs.com": {
+            "included_at_epoch": 1593685740.897482,
+            "included_at_iso": "2020-07-02T10:29:00.897482",
+            "last_retested_at_epoch": 1593685740.897482,
+            "last_retested_at_iso": "2020-07-02T10:29:00.897482",
+            "status": "INACTIVE"
+        },
         "link-js.link": {
             "included_at_epoch": 1592008959.841343,
             "included_at_iso": "2020-06-13T00:42:39.841343",
@@ -6519,6 +6533,13 @@
             "last_retested_at_iso": "2020-07-02T00:19:50.334119",
             "status": "INACTIVE"
         },
+        "www.bywebsite.com": {
+            "included_at_epoch": 1593685738.409786,
+            "included_at_iso": "2020-07-02T10:28:58.409786",
+            "last_retested_at_epoch": 1593685738.409786,
+            "last_retested_at_iso": "2020-07-02T10:28:58.409786",
+            "status": "INACTIVE"
+        },
         "www.canuck-method.com": {
             "included_at_epoch": 1592823178.872013,
             "included_at_iso": "2020-06-22T10:52:58.872013",
@@ -6834,6 +6855,13 @@
             "last_retested_at_iso": "2020-07-02T00:19:47.186965",
             "status": "INACTIVE"
         },
+        "www.saumweb.com": {
+            "included_at_epoch": 1593685740.219811,
+            "included_at_iso": "2020-07-02T10:29:00.219811",
+            "last_retested_at_epoch": 1593685740.219811,
+            "last_retested_at_iso": "2020-07-02T10:29:00.219811",
+            "status": "INACTIVE"
+        },
         "www.sdkconfig.ad.intl.xiaomi.com": {
             "included_at_epoch": 1592823183.084202,
             "included_at_iso": "2020-06-22T10:53:03.084202",
@@ -6965,6 +6993,13 @@
             "included_at_iso": "2020-06-19T00:07:07.864724",
             "last_retested_at_epoch": 1593649191.295592,
             "last_retested_at_iso": "2020-07-02T00:19:51.295592",
+            "status": "INACTIVE"
+        },
+        "www.websitecompany.org": {
+            "included_at_epoch": 1593685740.680869,
+            "included_at_iso": "2020-07-02T10:29:00.680869",
+            "last_retested_at_epoch": 1593685740.680869,
+            "last_retested_at_iso": "2020-07-02T10:29:00.680869",
             "status": "INACTIVE"
         },
         "www.wf.taboola.com": {
