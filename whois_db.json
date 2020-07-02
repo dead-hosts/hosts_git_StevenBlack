@@ -1800,8 +1800,8 @@
         "state": "past"
     },
     "navyfedera1.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "navyfedera1.org": {
@@ -1810,9 +1810,9 @@
         "state": "future"
     },
     "navyfederai.org": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
-        "state": "past"
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "state": "future"
     },
     "nayfedera1.org": {
         "epoch": 1593648000.0,
