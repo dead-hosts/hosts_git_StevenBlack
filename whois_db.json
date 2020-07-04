@@ -1410,8 +1410,8 @@
         "state": "future"
     },
     "lamatrest.xyz": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "largeloot.com": {
@@ -1815,9 +1815,9 @@
         "state": "future"
     },
     "nayfedera1.org": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
-        "state": "past"
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
     },
     "nbf9b5aurl.com": {
         "epoch": 1603497600.0,
@@ -1827,6 +1827,11 @@
     "ncjjfn.org": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "ndjambo.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "nevyfedera1.org": {
@@ -2045,9 +2050,9 @@
         "state": "future"
     },
     "poxypoxy.xyz": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
-        "state": "past"
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
     },
     "primecaviar.com": {
         "epoch": 1606176000.0,
