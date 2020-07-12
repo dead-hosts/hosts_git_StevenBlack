@@ -150,9 +150,9 @@
         "state": "future"
     },
     "afsasdfa33.xyz": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
-        "state": "past"
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
+        "state": "future"
     },
     "ahf4ycvea439tt9rq.site": {
         "epoch": 1616544000.0,
@@ -247,6 +247,11 @@
     "app-measurement.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "ar500arnor.com": {
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "arcartall.club": {
@@ -674,6 +679,11 @@
         "expiration_date": "19-dec-2020",
         "state": "future"
     },
+    "dadsats.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "data-ero-advertising.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
@@ -742,12 +752,12 @@
     "dokerest.xyz": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "dokertest.xyz": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "dolodos.top": {
         "epoch": 1601251200.0,
@@ -892,7 +902,7 @@
     "fedortest.xyz": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "feylibertad.org": {
         "epoch": 1604966400.0,
