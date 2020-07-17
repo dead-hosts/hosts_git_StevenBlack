@@ -6771,6 +6771,13 @@
             "last_retested_at_iso": "2020-07-17T00:20:55.357374",
             "status": "INACTIVE"
         },
+        "www.jailbsearch.xyz": {
+            "included_at_epoch": 1594982181.002275,
+            "included_at_iso": "2020-07-17T10:36:21.002275",
+            "last_retested_at_epoch": 1594982181.002275,
+            "last_retested_at_iso": "2020-07-17T10:36:21.002275",
+            "status": "INACTIVE"
+        },
         "www.kushat.roboinside.me": {
             "included_at_epoch": 1592823181.784403,
             "included_at_iso": "2020-06-22T10:53:01.784403",
@@ -6986,6 +6993,13 @@
             "included_at_iso": "2020-06-22T10:53:02.311124",
             "last_retested_at_epoch": 1594945257.031419,
             "last_retested_at_iso": "2020-07-17T00:20:57.031419",
+            "status": "INACTIVE"
+        },
+        "www.webhaat.com": {
+            "included_at_epoch": 1594982182.028723,
+            "included_at_iso": "2020-07-17T10:36:22.028723",
+            "last_retested_at_epoch": 1594982182.028723,
+            "last_retested_at_iso": "2020-07-17T10:36:22.028723",
             "status": "INACTIVE"
         },
         "www.wf.taboola.com": {
