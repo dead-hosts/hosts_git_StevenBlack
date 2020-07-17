@@ -6344,6 +6344,13 @@
             "last_retested_at_iso": "2020-07-17T00:57:09.893096",
             "status": "INACTIVE"
         },
+        "wind.windmilldrops.com": {
+            "included_at_epoch": 1595027732.735375,
+            "included_at_iso": "2020-07-17T23:15:32.735375",
+            "last_retested_at_epoch": 1595027732.735375,
+            "last_retested_at_iso": "2020-07-17T23:15:32.735375",
+            "status": "INACTIVE"
+        },
         "wor.wordtheminer.com": {
             "included_at_epoch": 1594516471.15392,
             "included_at_iso": "2020-07-12T01:14:31.153920",
