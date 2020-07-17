@@ -495,8 +495,8 @@
         "state": "future"
     },
     "cdnmage.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "ceromobi.club": {
@@ -707,17 +707,17 @@
     "desktest1.xyz": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "desktest5.xyz": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "desktest9.xyz": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "devata.icu": {
         "epoch": 1583625600.0,
@@ -780,9 +780,9 @@
         "state": "future"
     },
     "droinjoin.xyz": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "droptop1.com": {
         "epoch": 1613520000.0,
@@ -980,9 +980,9 @@
         "state": "future"
     },
     "frosdank.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "frostdank.com": {
         "epoch": 1621468800.0,
@@ -1345,9 +1345,9 @@
         "state": "future"
     },
     "joindroin.xyz": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "joinmy.site": {
         "epoch": 1601078400.0,
@@ -1510,8 +1510,8 @@
         "state": "future"
     },
     "magesecuritys.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "mahalowood.com": {
@@ -1525,8 +1525,8 @@
         "state": "future"
     },
     "mail-auth.online": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "mail-google.email": {
@@ -1630,8 +1630,8 @@
         "state": "future"
     },
     "mcloudjs.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "mcsoft365.com": {
@@ -1732,17 +1732,17 @@
     "mynavvfedera1.org": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mynavyfedera1.org": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mynavyfedral.org": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mynevyfedera1.org": {
         "epoch": 1595116800.0,
