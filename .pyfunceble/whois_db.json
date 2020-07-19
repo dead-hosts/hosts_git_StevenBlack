@@ -1629,6 +1629,11 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "makmoney.club": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "manygoodnews.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
@@ -1769,6 +1774,11 @@
         "expiration_date": "05-jun-2021",
         "state": "future"
     },
+    "mobile-app-market-here6.life": {
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "state": "future"
+    },
     "moeskin.com": {
         "epoch": 1612310400.0,
         "expiration_date": "03-feb-2021",
@@ -1805,9 +1815,9 @@
         "state": "future"
     },
     "mynavvfedera1.org": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "mynavyfedera1.org": {
         "epoch": 1626393600.0,
@@ -1822,7 +1832,7 @@
     "mynevyfedera1.org": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "myornamenti.com": {
         "epoch": 1615507200.0,
@@ -1922,7 +1932,7 @@
     "nevyfedera1.org": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "newbot.ug": {
         "epoch": 1616630400.0,
@@ -2109,6 +2119,11 @@
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
+    "pkmkkjwknvf.com": {
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
+    },
     "plaimedia.com": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
@@ -2117,6 +2132,11 @@
     "playamo30.com": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
+    "plkyjbew.com": {
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "powerad.ai": {
@@ -2532,12 +2552,12 @@
     "testdhome1.xyz": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "testdhome4.xyz": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "testdom1.xyz": {
         "epoch": 1595894400.0,
@@ -2659,6 +2679,11 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "trafficmoose.com": {
+        "epoch": 1659052800.0,
+        "expiration_date": "29-jul-2022",
+        "state": "future"
+    },
     "trafforsrv.com": {
         "epoch": 1609113600.0,
         "expiration_date": "28-dec-2020",
@@ -2732,6 +2757,11 @@
     "updatemanagir.us": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "updatesecure.pro": {
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "updatewinlsass.com": {
