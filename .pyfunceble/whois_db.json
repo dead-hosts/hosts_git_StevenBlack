@@ -1985,8 +1985,8 @@
         "state": "future"
     },
     "nsdns.xyz": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "ntaryan.com": {
@@ -2317,7 +2317,7 @@
     "scriptoscript.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "security-check-551.com": {
         "epoch": "1578355200",
@@ -2572,7 +2572,7 @@
     "testfor7.xyz": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "thaivictory.co.th": {
         "epoch": 1596585600.0,
