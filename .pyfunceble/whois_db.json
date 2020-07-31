@@ -192,7 +192,7 @@
     "alexandr01299.xyz": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "alidnx.com": {
         "epoch": 1605312000.0,
@@ -785,8 +785,8 @@
         "state": "future"
     },
     "dobre-programy.pl": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "dobre-programy.xyz": {
@@ -1175,9 +1175,9 @@
         "state": "future"
     },
     "greatmacsoft.tech": {
-        "epoch": 1564704000,
-        "expiration_date": "02-aug-2019",
-        "state": "past"
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "state": "future"
     },
     "greattus.com": {
         "epoch": 1613174400.0,
@@ -1502,7 +1502,7 @@
     "latamdcs.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "leancoding.co": {
         "epoch": 1597190400.0,
@@ -1695,8 +1695,8 @@
         "state": "future"
     },
     "masikini.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1659225600.0,
+        "expiration_date": "31-jul-2022",
         "state": "future"
     },
     "matchmyip.com": {
