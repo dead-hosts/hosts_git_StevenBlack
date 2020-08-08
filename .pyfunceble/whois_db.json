@@ -2927,7 +2927,7 @@
     "xn--bckchain-v3a30f.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "xn--blckchain-17c.com": {
         "epoch": 1627516800.0,
@@ -2957,17 +2957,17 @@
     "xn--mynavyfedera-occ.org": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "xn--navyfderal-36a.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "xn--navyfedera-j0b.org": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "xn--srahah-bua.pl": {
         "epoch": 1574208000.0,
