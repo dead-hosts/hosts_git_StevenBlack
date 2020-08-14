@@ -347,7 +347,7 @@
     "beauty-tea.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bergadimspower.com": {
         "epoch": 1616112000.0,
@@ -907,7 +907,7 @@
     "energytea.org": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "environmentalist.com": {
         "epoch": 1609804800.0,
