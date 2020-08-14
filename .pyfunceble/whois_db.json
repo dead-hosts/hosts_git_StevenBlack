@@ -2384,6 +2384,11 @@
         "expiration_date": "23-apr-2021",
         "state": "future"
     },
+    "servsave.com": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
     "sex-and-flirt.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
@@ -2940,8 +2945,8 @@
         "state": "future"
     },
     "xn--discrd-zxa.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "xn--disordapp-s3a.com": {
@@ -2950,8 +2955,8 @@
         "state": "future"
     },
     "xn--minecrft-5za.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "xn--mynavyfedera-occ.org": {
