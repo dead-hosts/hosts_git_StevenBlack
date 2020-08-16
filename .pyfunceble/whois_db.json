@@ -2927,7 +2927,7 @@
     "xn--avyfedera-yubm.org": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "xn--bckchain-v3a30f.com": {
         "epoch": 1628294400.0,
