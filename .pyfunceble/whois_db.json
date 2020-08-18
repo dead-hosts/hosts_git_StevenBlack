@@ -65,8 +65,8 @@
         "state": "future"
     },
     "4ourkidsky.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "568vovhs6ekbupjo.pro": {
@@ -1242,7 +1242,7 @@
     "hostingfreelife.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hpphhpph.com": {
         "epoch": 1619049600.0,
