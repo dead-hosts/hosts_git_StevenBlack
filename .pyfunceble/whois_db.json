@@ -680,9 +680,9 @@
         "state": "future"
     },
     "cosiloon.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "covid19-info.online": {
         "epoch": 1615852800.0,
@@ -915,8 +915,8 @@
         "state": "future"
     },
     "eom-nv.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "epos-ua.com": {
