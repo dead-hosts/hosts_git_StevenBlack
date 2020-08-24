@@ -96,8 +96,8 @@
         "abtest.mistat.intl.xiaomi.com": {
             "included_at_epoch": 1596502341.537623,
             "included_at_iso": "2020-08-04T00:52:21.537623",
-            "last_retested_at_epoch": 1598058176.94447,
-            "last_retested_at_iso": "2020-08-22T01:02:56.944470",
+            "last_retested_at_epoch": 1598232142.543886,
+            "last_retested_at_iso": "2020-08-24T01:22:22.543886",
             "status": "INACTIVE"
         },
         "ads.grandonmedia.com": {
@@ -159,15 +159,15 @@
         "ap45.hetznir.ventanasyaluminios.com.mx": {
             "included_at_epoch": 1597886502.525596,
             "included_at_iso": "2020-08-20T01:21:42.525596",
-            "last_retested_at_epoch": 1598058178.368894,
-            "last_retested_at_iso": "2020-08-22T01:02:58.368894",
+            "last_retested_at_epoch": 1598232144.06996,
+            "last_retested_at_iso": "2020-08-24T01:22:24.069960",
             "status": "INACTIVE"
         },
         "api.admob.xiaomi.com": {
             "included_at_epoch": 1596675320.897399,
             "included_at_iso": "2020-08-06T00:55:20.897399",
-            "last_retested_at_epoch": 1598058176.792652,
-            "last_retested_at_iso": "2020-08-22T01:02:56.792652",
+            "last_retested_at_epoch": 1598232142.380073,
+            "last_retested_at_iso": "2020-08-24T01:22:22.380073",
             "status": "INACTIVE"
         },
         "api.doubles.click": {
@@ -1524,8 +1524,8 @@
         "hetznir.ventanasyaluminios.com.mx": {
             "included_at_epoch": 1597886502.553646,
             "included_at_iso": "2020-08-20T01:21:42.553646",
-            "last_retested_at_epoch": 1598058178.396485,
-            "last_retested_at_iso": "2020-08-22T01:02:58.396485",
+            "last_retested_at_epoch": 1598232144.096362,
+            "last_retested_at_iso": "2020-08-24T01:22:24.096362",
             "status": "INACTIVE"
         },
         "howupdateworks.amazingupdates4youtoday.website": {
@@ -3029,8 +3029,8 @@
         "mackeeperapp.zeobit.com": {
             "included_at_epoch": 1596849122.210007,
             "included_at_iso": "2020-08-08T01:12:02.210007",
-            "last_retested_at_epoch": 1598058178.254593,
-            "last_retested_at_iso": "2020-08-22T01:02:58.254593",
+            "last_retested_at_epoch": 1598232143.967146,
+            "last_retested_at_iso": "2020-08-24T01:22:23.967146",
             "status": "INACTIVE"
         },
         "mage-checkout.org": {
@@ -5353,8 +5353,8 @@
         "qsj.xtsryh.com": {
             "included_at_epoch": 1596502341.893367,
             "included_at_iso": "2020-08-04T00:52:21.893367",
-            "last_retested_at_epoch": 1598058177.30544,
-            "last_retested_at_iso": "2020-08-22T01:02:57.305440",
+            "last_retested_at_epoch": 1598232142.927718,
+            "last_retested_at_iso": "2020-08-24T01:22:22.927718",
             "status": "INACTIVE"
         },
         "rabianbrother.com": {
@@ -6543,8 +6543,8 @@
         "ssp.ad.xiaomi.com": {
             "included_at_epoch": 1597193513.033984,
             "included_at_iso": "2020-08-12T00:51:53.033984",
-            "last_retested_at_epoch": 1598057854.087413,
-            "last_retested_at_iso": "2020-08-22T00:57:34.087413",
+            "last_retested_at_epoch": 1598232142.301751,
+            "last_retested_at_iso": "2020-08-24T01:22:22.301751",
             "status": "INACTIVE"
         },
         "start.apiforssl.com": {
@@ -6893,22 +6893,22 @@
         "www.a.stat.xiaomi.com": {
             "included_at_epoch": 1596502341.717231,
             "included_at_iso": "2020-08-04T00:52:21.717231",
-            "last_retested_at_epoch": 1598058177.123589,
-            "last_retested_at_iso": "2020-08-22T01:02:57.123589",
+            "last_retested_at_epoch": 1598232142.731942,
+            "last_retested_at_iso": "2020-08-24T01:22:22.731942",
             "status": "INACTIVE"
         },
         "www.abtest.mistat.intl.xiaomi.com": {
             "included_at_epoch": 1597713488.247969,
             "included_at_iso": "2020-08-18T01:18:08.247969",
-            "last_retested_at_epoch": 1598058176.981573,
-            "last_retested_at_iso": "2020-08-22T01:02:56.981573",
+            "last_retested_at_epoch": 1598232142.583253,
+            "last_retested_at_iso": "2020-08-24T01:22:22.583253",
             "status": "INACTIVE"
         },
         "www.abtest.mistat.xiaomi.com": {
             "included_at_epoch": 1597713488.356644,
             "included_at_iso": "2020-08-18T01:18:08.356644",
-            "last_retested_at_epoch": 1598058177.083499,
-            "last_retested_at_iso": "2020-08-22T01:02:57.083499",
+            "last_retested_at_epoch": 1598232142.689915,
+            "last_retested_at_iso": "2020-08-24T01:22:22.689915",
             "status": "INACTIVE"
         },
         "www.ads.grandonmedia.com": {
@@ -6942,8 +6942,8 @@
         "www.api.ad.intl.xiaomi.com": {
             "included_at_epoch": 1597193828.961961,
             "included_at_iso": "2020-08-12T00:57:08.961961",
-            "last_retested_at_epoch": 1598058176.873032,
-            "last_retested_at_iso": "2020-08-22T01:02:56.873032",
+            "last_retested_at_epoch": 1598232142.465381,
+            "last_retested_at_iso": "2020-08-24T01:22:22.465381",
             "status": "INACTIVE"
         },
         "www.api.ad.snappea.com": {
@@ -6963,8 +6963,8 @@
         "www.api.admob.xiaomi.com": {
             "included_at_epoch": 1597713488.063023,
             "included_at_iso": "2020-08-18T01:18:08.063023",
-            "last_retested_at_epoch": 1598058176.809991,
-            "last_retested_at_iso": "2020-08-22T01:02:56.809991",
+            "last_retested_at_epoch": 1598232142.402125,
+            "last_retested_at_iso": "2020-08-24T01:22:22.402125",
             "status": "INACTIVE"
         },
         "www.api.brs.intl.miui.com": {
@@ -6984,8 +6984,8 @@
         "www.api.d.xiaomi.com": {
             "included_at_epoch": 1597713488.105442,
             "included_at_iso": "2020-08-18T01:18:08.105442",
-            "last_retested_at_epoch": 1598058176.853446,
-            "last_retested_at_iso": "2020-08-22T01:02:56.853446",
+            "last_retested_at_epoch": 1598232142.444638,
+            "last_retested_at_iso": "2020-08-24T01:22:22.444638",
             "status": "INACTIVE"
         },
         "www.api.grandonmedia.com": {
@@ -6998,8 +6998,8 @@
         "www.api.hybrid.intl.xiaomi.com": {
             "included_at_epoch": 1597713488.226066,
             "included_at_iso": "2020-08-18T01:18:08.226066",
-            "last_retested_at_epoch": 1598058176.96138,
-            "last_retested_at_iso": "2020-08-22T01:02:56.961380",
+            "last_retested_at_epoch": 1598232142.562147,
+            "last_retested_at_iso": "2020-08-24T01:22:22.562147",
             "status": "INACTIVE"
         },
         "www.api.sec.intl.miui.com": {
@@ -7082,8 +7082,8 @@
         "www.cc.sys.intl.xiaomi.com": {
             "included_at_epoch": 1597713488.310754,
             "included_at_iso": "2020-08-18T01:18:08.310754",
-            "last_retested_at_epoch": 1598058177.043333,
-            "last_retested_at_iso": "2020-08-22T01:02:57.043333",
+            "last_retested_at_epoch": 1598232142.645956,
+            "last_retested_at_iso": "2020-08-24T01:22:22.645956",
             "status": "INACTIVE"
         },
         "www.cc.sys.miui.com": {
@@ -7096,8 +7096,8 @@
         "www.ccc.sys.intl.xiaomi.com": {
             "included_at_epoch": 1597713488.335034,
             "included_at_iso": "2020-08-18T01:18:08.335034",
-            "last_retested_at_epoch": 1598058177.063526,
-            "last_retested_at_iso": "2020-08-22T01:02:57.063526",
+            "last_retested_at_epoch": 1598232142.668765,
+            "last_retested_at_iso": "2020-08-24T01:22:22.668765",
             "status": "INACTIVE"
         },
         "www.ccc.sys.miui.com": {
@@ -7173,15 +7173,15 @@
         "www.data.mistat.intl.xiaomi.com": {
             "included_at_epoch": 1597713488.265967,
             "included_at_iso": "2020-08-18T01:18:08.265967",
-            "last_retested_at_epoch": 1598058176.99836,
-            "last_retested_at_iso": "2020-08-22T01:02:56.998360",
+            "last_retested_at_epoch": 1598232142.60414,
+            "last_retested_at_iso": "2020-08-24T01:22:22.604140",
             "status": "INACTIVE"
         },
         "www.data.mistat.xiaomi.com": {
             "included_at_epoch": 1597713488.374851,
             "included_at_iso": "2020-08-18T01:18:08.374851",
-            "last_retested_at_epoch": 1598058177.10359,
-            "last_retested_at_iso": "2020-08-22T01:02:57.103590",
+            "last_retested_at_epoch": 1598232142.710948,
+            "last_retested_at_iso": "2020-08-24T01:22:22.710948",
             "status": "INACTIVE"
         },
         "www.data.sec.intl.miui.com": {
@@ -7355,8 +7355,8 @@
         "www.mackeeperapp.zeobit.com": {
             "included_at_epoch": 1596849122.227692,
             "included_at_iso": "2020-08-08T01:12:02.227692",
-            "last_retested_at_epoch": 1598058178.272135,
-            "last_retested_at_iso": "2020-08-22T01:02:58.272135",
+            "last_retested_at_epoch": 1598232143.949119,
+            "last_retested_at_iso": "2020-08-24T01:22:23.949119",
             "status": "INACTIVE"
         },
         "www.match.taboola.com": {
@@ -7453,15 +7453,15 @@
         "www.sdkconfig.ad.intl.xiaomi.com": {
             "included_at_epoch": 1597713488.16852,
             "included_at_iso": "2020-08-18T01:18:08.168520",
-            "last_retested_at_epoch": 1598058176.907051,
-            "last_retested_at_iso": "2020-08-22T01:02:56.907051",
+            "last_retested_at_epoch": 1598232142.483887,
+            "last_retested_at_iso": "2020-08-24T01:22:22.483887",
             "status": "INACTIVE"
         },
         "www.sdkconfig.ad.xiaomi.com": {
             "included_at_epoch": 1597713487.971701,
             "included_at_iso": "2020-08-18T01:18:07.971701",
-            "last_retested_at_epoch": 1598057854.105489,
-            "last_retested_at_iso": "2020-08-22T00:57:34.105489",
+            "last_retested_at_epoch": 1598232142.276923,
+            "last_retested_at_iso": "2020-08-24T01:22:22.276923",
             "status": "INACTIVE"
         },
         "www.sebder.roboinside.me": {
@@ -7474,15 +7474,15 @@
         "www.sgp.o2o.api.xiaomi.com": {
             "included_at_epoch": 1597713488.088345,
             "included_at_iso": "2020-08-18T01:18:08.088345",
-            "last_retested_at_epoch": 1598058176.833199,
-            "last_retested_at_iso": "2020-08-22T01:02:56.833199",
+            "last_retested_at_epoch": 1598232142.422927,
+            "last_retested_at_iso": "2020-08-24T01:22:22.422927",
             "status": "INACTIVE"
         },
         "www.ssp.ad.xiaomi.com": {
             "included_at_epoch": 1597713487.991787,
             "included_at_iso": "2020-08-18T01:18:07.991787",
-            "last_retested_at_epoch": 1598057854.127523,
-            "last_retested_at_iso": "2020-08-22T00:57:34.127523",
+            "last_retested_at_epoch": 1598232142.322875,
+            "last_retested_at_iso": "2020-08-24T01:22:22.322875",
             "status": "INACTIVE"
         },
         "www.stats.jpush.cn": {
@@ -7495,8 +7495,8 @@
         "www.storeconfig.mistat.intl.xiaomi.com": {
             "included_at_epoch": 1597713488.29139,
             "included_at_iso": "2020-08-18T01:18:08.291390",
-            "last_retested_at_epoch": 1598058177.023771,
-            "last_retested_at_iso": "2020-08-22T01:02:57.023771",
+            "last_retested_at_epoch": 1598232142.622022,
+            "last_retested_at_iso": "2020-08-24T01:22:22.622022",
             "status": "INACTIVE"
         },
         "www.superlogout.github.io": {
@@ -7530,8 +7530,8 @@
         "www.test.ad.xiaomi.com": {
             "included_at_epoch": 1597713488.011757,
             "included_at_iso": "2020-08-18T01:18:08.011757",
-            "last_retested_at_epoch": 1598058176.753421,
-            "last_retested_at_iso": "2020-08-22T01:02:56.753421",
+            "last_retested_at_epoch": 1598232142.344356,
+            "last_retested_at_iso": "2020-08-24T01:22:22.344356",
             "status": "INACTIVE"
         },
         "www.test.e.ad.xiaomi.com": {
@@ -7600,15 +7600,15 @@
         "www.zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1597713488.189712,
             "included_at_iso": "2020-08-18T01:18:08.189712",
-            "last_retested_at_epoch": 1598058176.926717,
-            "last_retested_at_iso": "2020-08-22T01:02:56.926717",
+            "last_retested_at_epoch": 1598232142.525886,
+            "last_retested_at_iso": "2020-08-24T01:22:22.525886",
             "status": "INACTIVE"
         },
         "www.zeus.ad.xiaomi.com": {
             "included_at_epoch": 1597713488.028953,
             "included_at_iso": "2020-08-18T01:18:08.028953",
-            "last_retested_at_epoch": 1598058176.774139,
-            "last_retested_at_iso": "2020-08-22T01:02:56.774139",
+            "last_retested_at_epoch": 1598232142.362322,
+            "last_retested_at_iso": "2020-08-24T01:22:22.362322",
             "status": "INACTIVE"
         },
         "wwww.playamo28.com": {
@@ -7642,29 +7642,29 @@
         "xn--coronavirs-codiv19-u6b.club": {
             "included_at_epoch": 1597022268.107966,
             "included_at_iso": "2020-08-10T01:17:48.107966",
-            "last_retested_at_epoch": 1598058177.190777,
-            "last_retested_at_iso": "2020-08-22T01:02:57.190777",
+            "last_retested_at_epoch": 1598232142.802073,
+            "last_retested_at_iso": "2020-08-24T01:22:22.802073",
             "status": "INACTIVE"
         },
         "xn--covid19-gncelsalgnvakalar-nwc35l.com": {
             "included_at_epoch": 1597022268.13321,
             "included_at_iso": "2020-08-10T01:17:48.133210",
-            "last_retested_at_epoch": 1598058177.215171,
-            "last_retested_at_iso": "2020-08-22T01:02:57.215171",
+            "last_retested_at_epoch": 1598232142.82873,
+            "last_retested_at_iso": "2020-08-24T01:22:22.828730",
             "status": "INACTIVE"
         },
         "xn--srahah-bua.eu": {
             "included_at_epoch": 1597713488.565969,
             "included_at_iso": "2020-08-18T01:18:08.565969",
-            "last_retested_at_epoch": 1598058177.26808,
-            "last_retested_at_iso": "2020-08-22T01:02:57.268080",
+            "last_retested_at_epoch": 1598232142.887827,
+            "last_retested_at_iso": "2020-08-24T01:22:22.887827",
             "status": "INACTIVE"
         },
         "xn--srahah-bua.pl": {
             "included_at_epoch": 1597713488.584147,
             "included_at_iso": "2020-08-18T01:18:08.584147",
-            "last_retested_at_epoch": 1598058177.285074,
-            "last_retested_at_iso": "2020-08-22T01:02:57.285074",
+            "last_retested_at_epoch": 1598232142.906095,
+            "last_retested_at_iso": "2020-08-24T01:22:22.906095",
             "status": "INACTIVE"
         },
         "xz.jave.xyz": {
@@ -7684,302 +7684,302 @@
         "yandex-account-security.com": {
             "included_at_epoch": 1597022268.264468,
             "included_at_iso": "2020-08-10T01:17:48.264468",
-            "last_retested_at_epoch": 1598058177.342579,
-            "last_retested_at_iso": "2020-08-22T01:02:57.342579",
+            "last_retested_at_epoch": 1598232142.967381,
+            "last_retested_at_iso": "2020-08-24T01:22:22.967381",
             "status": "INACTIVE"
         },
         "yhddsw.biz": {
             "included_at_epoch": 1596502341.95447,
             "included_at_iso": "2020-08-04T00:52:21.954470",
-            "last_retested_at_epoch": 1598058177.36993,
-            "last_retested_at_iso": "2020-08-22T01:02:57.369930",
+            "last_retested_at_epoch": 1598232142.995277,
+            "last_retested_at_iso": "2020-08-24T01:22:22.995277",
             "status": "INACTIVE"
         },
         "yhddsw.ro": {
             "included_at_epoch": 1596502341.970816,
             "included_at_iso": "2020-08-04T00:52:21.970816",
-            "last_retested_at_epoch": 1598058177.387393,
-            "last_retested_at_iso": "2020-08-22T01:02:57.387393",
+            "last_retested_at_epoch": 1598232143.014666,
+            "last_retested_at_iso": "2020-08-24T01:22:23.014666",
             "status": "INACTIVE"
         },
         "yhddswfjr.com": {
             "included_at_epoch": 1596502341.98748,
             "included_at_iso": "2020-08-04T00:52:21.987480",
-            "last_retested_at_epoch": 1598058177.40543,
-            "last_retested_at_iso": "2020-08-22T01:02:57.405430",
+            "last_retested_at_epoch": 1598232143.033781,
+            "last_retested_at_iso": "2020-08-24T01:22:23.033781",
             "status": "INACTIVE"
         },
         "yhddswnrjjfn.nl": {
             "included_at_epoch": 1596502342.004171,
             "included_at_iso": "2020-08-04T00:52:22.004171",
-            "last_retested_at_epoch": 1598058177.423868,
-            "last_retested_at_iso": "2020-08-22T01:02:57.423868",
+            "last_retested_at_epoch": 1598232143.052763,
+            "last_retested_at_iso": "2020-08-24T01:22:23.052763",
             "status": "INACTIVE"
         },
         "yhddswsitepbn.ca": {
             "included_at_epoch": 1596502342.021813,
             "included_at_iso": "2020-08-04T00:52:22.021813",
-            "last_retested_at_epoch": 1598058177.441145,
-            "last_retested_at_iso": "2020-08-22T01:02:57.441145",
+            "last_retested_at_epoch": 1598232143.071821,
+            "last_retested_at_iso": "2020-08-24T01:22:23.071821",
             "status": "INACTIVE"
         },
         "yhdfjr.tk": {
             "included_at_epoch": 1596502342.038845,
             "included_at_iso": "2020-08-04T00:52:22.038845",
-            "last_retested_at_epoch": 1598058177.458589,
-            "last_retested_at_iso": "2020-08-22T01:02:57.458589",
+            "last_retested_at_epoch": 1598232143.091308,
+            "last_retested_at_iso": "2020-08-24T01:22:23.091308",
             "status": "INACTIVE"
         },
         "yhdfjrkcnyhdserv.co": {
             "included_at_epoch": 1596502342.064312,
             "included_at_iso": "2020-08-04T00:52:22.064312",
-            "last_retested_at_epoch": 1598058177.476001,
-            "last_retested_at_iso": "2020-08-22T01:02:57.476001",
+            "last_retested_at_epoch": 1598232143.110184,
+            "last_retested_at_iso": "2020-08-24T01:22:23.110184",
             "status": "INACTIVE"
         },
         "yhdfjrncdnncj.nl": {
             "included_at_epoch": 1596502342.082681,
             "included_at_iso": "2020-08-04T00:52:22.082681",
-            "last_retested_at_epoch": 1598058177.493529,
-            "last_retested_at_iso": "2020-08-22T01:02:57.493529",
+            "last_retested_at_epoch": 1598232143.130074,
+            "last_retested_at_iso": "2020-08-24T01:22:23.130074",
             "status": "INACTIVE"
         },
         "yhdfjrncdnserv.nl": {
             "included_at_epoch": 1596502342.099839,
             "included_at_iso": "2020-08-04T00:52:22.099839",
-            "last_retested_at_epoch": 1598058177.510619,
-            "last_retested_at_iso": "2020-08-22T01:02:57.510619",
+            "last_retested_at_epoch": 1598232143.148921,
+            "last_retested_at_iso": "2020-08-24T01:22:23.148921",
             "status": "INACTIVE"
         },
         "yhdikj.in": {
             "included_at_epoch": 1596502342.117585,
             "included_at_iso": "2020-08-04T00:52:22.117585",
-            "last_retested_at_epoch": 1598058177.528078,
-            "last_retested_at_iso": "2020-08-22T01:02:57.528078",
+            "last_retested_at_epoch": 1598232143.167209,
+            "last_retested_at_iso": "2020-08-24T01:22:23.167209",
             "status": "INACTIVE"
         },
         "yhdjfn.ru": {
             "included_at_epoch": 1596502342.152916,
             "included_at_iso": "2020-08-04T00:52:22.152916",
-            "last_retested_at_epoch": 1598058177.562485,
-            "last_retested_at_iso": "2020-08-22T01:02:57.562485",
+            "last_retested_at_epoch": 1598232143.203838,
+            "last_retested_at_iso": "2020-08-24T01:22:23.203838",
             "status": "INACTIVE"
         },
         "yhdjfnjfn.ro": {
             "included_at_epoch": 1596502342.135192,
             "included_at_iso": "2020-08-04T00:52:22.135192",
-            "last_retested_at_epoch": 1598058177.544905,
-            "last_retested_at_iso": "2020-08-22T01:02:57.544905",
+            "last_retested_at_epoch": 1598232143.185793,
+            "last_retested_at_iso": "2020-08-24T01:22:23.185793",
             "status": "INACTIVE"
         },
         "yhdjfnncjkcn.nl": {
             "included_at_epoch": 1596502342.170332,
             "included_at_iso": "2020-08-04T00:52:22.170332",
-            "last_retested_at_epoch": 1598058177.596649,
-            "last_retested_at_iso": "2020-08-22T01:02:57.596649",
+            "last_retested_at_epoch": 1598232143.239848,
+            "last_retested_at_iso": "2020-08-24T01:22:23.239848",
             "status": "INACTIVE"
         },
         "yhdjfnservjfn.info": {
             "included_at_epoch": 1596502342.188049,
             "included_at_iso": "2020-08-04T00:52:22.188049",
-            "last_retested_at_epoch": 1598058177.579681,
-            "last_retested_at_iso": "2020-08-22T01:02:57.579681",
+            "last_retested_at_epoch": 1598232143.221918,
+            "last_retested_at_iso": "2020-08-24T01:22:23.221918",
             "status": "INACTIVE"
         },
         "yhdjfnsite.nl": {
             "included_at_epoch": 1596502342.224438,
             "included_at_iso": "2020-08-04T00:52:22.224438",
-            "last_retested_at_epoch": 1598058177.631177,
-            "last_retested_at_iso": "2020-08-22T01:02:57.631177",
+            "last_retested_at_epoch": 1598232143.276361,
+            "last_retested_at_iso": "2020-08-24T01:22:23.276361",
             "status": "INACTIVE"
         },
         "yhdkcn.info": {
             "included_at_epoch": 1596502342.205559,
             "included_at_iso": "2020-08-04T00:52:22.205559",
-            "last_retested_at_epoch": 1598058177.613875,
-            "last_retested_at_iso": "2020-08-22T01:02:57.613875",
+            "last_retested_at_epoch": 1598232143.258183,
+            "last_retested_at_iso": "2020-08-24T01:22:23.258183",
             "status": "INACTIVE"
         },
         "yhdmain.in": {
             "included_at_epoch": 1596502342.241741,
             "included_at_iso": "2020-08-04T00:52:22.241741",
-            "last_retested_at_epoch": 1598058177.665947,
-            "last_retested_at_iso": "2020-08-22T01:02:57.665947",
+            "last_retested_at_epoch": 1598232143.294842,
+            "last_retested_at_iso": "2020-08-24T01:22:23.294842",
             "status": "INACTIVE"
         },
         "yhdncdnfjr.in": {
             "included_at_epoch": 1596502342.259317,
             "included_at_iso": "2020-08-04T00:52:22.259317",
-            "last_retested_at_epoch": 1598058177.648083,
-            "last_retested_at_iso": "2020-08-22T01:02:57.648083",
+            "last_retested_at_epoch": 1598232143.313047,
+            "last_retested_at_iso": "2020-08-24T01:22:23.313047",
             "status": "INACTIVE"
         },
         "yhdncdnikjjfn.fr": {
             "included_at_epoch": 1596675321.829258,
             "included_at_iso": "2020-08-06T00:55:21.829258",
-            "last_retested_at_epoch": 1598058177.700306,
-            "last_retested_at_iso": "2020-08-22T01:02:57.700306",
+            "last_retested_at_epoch": 1598232143.33122,
+            "last_retested_at_iso": "2020-08-24T01:22:23.331220",
             "status": "INACTIVE"
         },
         "yhdncdnnrj.in": {
             "included_at_epoch": 1596675321.810911,
             "included_at_iso": "2020-08-06T00:55:21.810911",
-            "last_retested_at_epoch": 1598058177.683135,
-            "last_retested_at_iso": "2020-08-22T01:02:57.683135",
+            "last_retested_at_epoch": 1598232143.350822,
+            "last_retested_at_iso": "2020-08-24T01:22:23.350822",
             "status": "INACTIVE"
         },
         "yhdncj.ch": {
             "included_at_epoch": 1596502342.319596,
             "included_at_iso": "2020-08-04T00:52:22.319596",
-            "last_retested_at_epoch": 1598058177.71736,
-            "last_retested_at_iso": "2020-08-22T01:02:57.717360",
+            "last_retested_at_epoch": 1598232143.377092,
+            "last_retested_at_iso": "2020-08-24T01:22:23.377092",
             "status": "INACTIVE"
         },
         "yhdncjfjrnrj.co": {
             "included_at_epoch": 1596502342.33702,
             "included_at_iso": "2020-08-04T00:52:22.337020",
-            "last_retested_at_epoch": 1598058177.741566,
-            "last_retested_at_iso": "2020-08-22T01:02:57.741566",
+            "last_retested_at_epoch": 1598232143.395446,
+            "last_retested_at_iso": "2020-08-24T01:22:23.395446",
             "status": "INACTIVE"
         },
         "yhdncjncdn.ro": {
             "included_at_epoch": 1596502342.354647,
             "included_at_iso": "2020-08-04T00:52:22.354647",
-            "last_retested_at_epoch": 1598058177.759463,
-            "last_retested_at_iso": "2020-08-22T01:02:57.759463",
+            "last_retested_at_epoch": 1598232143.414537,
+            "last_retested_at_iso": "2020-08-24T01:22:23.414537",
             "status": "INACTIVE"
         },
         "yhdncjsitekcn.info": {
             "included_at_epoch": 1596502342.375416,
             "included_at_iso": "2020-08-04T00:52:22.375416",
-            "last_retested_at_epoch": 1598058177.77681,
-            "last_retested_at_iso": "2020-08-22T01:02:57.776810",
+            "last_retested_at_epoch": 1598232143.433229,
+            "last_retested_at_iso": "2020-08-24T01:22:23.433229",
             "status": "INACTIVE"
         },
         "yhdnrjncj.cn": {
             "included_at_epoch": 1596502342.410742,
             "included_at_iso": "2020-08-04T00:52:22.410742",
-            "last_retested_at_epoch": 1598058177.81361,
-            "last_retested_at_iso": "2020-08-22T01:02:57.813610",
+            "last_retested_at_epoch": 1598232143.474395,
+            "last_retested_at_iso": "2020-08-24T01:22:23.474395",
             "status": "INACTIVE"
         },
         "yhdpbn.com": {
             "included_at_epoch": 1596502342.393121,
             "included_at_iso": "2020-08-04T00:52:22.393121",
-            "last_retested_at_epoch": 1598058177.796684,
-            "last_retested_at_iso": "2020-08-22T01:02:57.796684",
+            "last_retested_at_epoch": 1598232143.455446,
+            "last_retested_at_iso": "2020-08-24T01:22:23.455446",
             "status": "INACTIVE"
         },
         "yhdpbn.fr": {
             "included_at_epoch": 1596502342.428182,
             "included_at_iso": "2020-08-04T00:52:22.428182",
-            "last_retested_at_epoch": 1598058177.830669,
-            "last_retested_at_iso": "2020-08-22T01:02:57.830669",
+            "last_retested_at_epoch": 1598232143.493262,
+            "last_retested_at_iso": "2020-08-24T01:22:23.493262",
             "status": "INACTIVE"
         },
         "yhdpbndswjfn.ru": {
             "included_at_epoch": 1596502342.445531,
             "included_at_iso": "2020-08-04T00:52:22.445531",
-            "last_retested_at_epoch": 1598058177.847759,
-            "last_retested_at_iso": "2020-08-22T01:02:57.847759",
+            "last_retested_at_epoch": 1598232143.512341,
+            "last_retested_at_iso": "2020-08-24T01:22:23.512341",
             "status": "INACTIVE"
         },
         "yhdpbnpbnncdn.org": {
             "included_at_epoch": 1596502342.481164,
             "included_at_iso": "2020-08-04T00:52:22.481164",
-            "last_retested_at_epoch": 1598058177.864794,
-            "last_retested_at_iso": "2020-08-22T01:02:57.864794",
+            "last_retested_at_epoch": 1598232143.530942,
+            "last_retested_at_iso": "2020-08-24T01:22:23.530942",
             "status": "INACTIVE"
         },
         "yhdpowerserv.in": {
             "included_at_epoch": 1596502342.463622,
             "included_at_iso": "2020-08-04T00:52:22.463622",
-            "last_retested_at_epoch": 1598058177.881653,
-            "last_retested_at_iso": "2020-08-22T01:02:57.881653",
+            "last_retested_at_epoch": 1598232143.549451,
+            "last_retested_at_iso": "2020-08-24T01:22:23.549451",
             "status": "INACTIVE"
         },
         "yhdserv.in": {
             "included_at_epoch": 1596502342.49952,
             "included_at_iso": "2020-08-04T00:52:22.499520",
-            "last_retested_at_epoch": 1598058177.915893,
-            "last_retested_at_iso": "2020-08-22T01:02:57.915893",
+            "last_retested_at_epoch": 1598232143.608473,
+            "last_retested_at_iso": "2020-08-24T01:22:23.608473",
             "status": "INACTIVE"
         },
         "yhdservncj.ca": {
             "included_at_epoch": 1596502342.51708,
             "included_at_iso": "2020-08-04T00:52:22.517080",
-            "last_retested_at_epoch": 1598058177.898771,
-            "last_retested_at_iso": "2020-08-22T01:02:57.898771",
+            "last_retested_at_epoch": 1598232143.589621,
+            "last_retested_at_iso": "2020-08-24T01:22:23.589621",
             "status": "INACTIVE"
         },
         "yhdservpowerncjkcn.nl": {
             "included_at_epoch": 1596502342.55196,
             "included_at_iso": "2020-08-04T00:52:22.551960",
-            "last_retested_at_epoch": 1598058177.949549,
-            "last_retested_at_iso": "2020-08-22T01:02:57.949549",
+            "last_retested_at_epoch": 1598232143.645021,
+            "last_retested_at_iso": "2020-08-24T01:22:23.645021",
             "status": "INACTIVE"
         },
         "yhdservsitesrvkcn.nl": {
             "included_at_epoch": 1596675322.068038,
             "included_at_iso": "2020-08-06T00:55:22.068038",
-            "last_retested_at_epoch": 1598058177.932752,
-            "last_retested_at_iso": "2020-08-22T01:02:57.932752",
+            "last_retested_at_epoch": 1598232143.62692,
+            "last_retested_at_iso": "2020-08-24T01:22:23.626920",
             "status": "INACTIVE"
         },
         "yhdsite.com": {
             "included_at_epoch": 1596502342.570578,
             "included_at_iso": "2020-08-04T00:52:22.570578",
-            "last_retested_at_epoch": 1598058177.984217,
-            "last_retested_at_iso": "2020-08-22T01:02:57.984217",
+            "last_retested_at_epoch": 1598232143.681549,
+            "last_retested_at_iso": "2020-08-24T01:22:23.681549",
             "status": "INACTIVE"
         },
         "yhdsiteikjncdnncdn.com": {
             "included_at_epoch": 1596502342.588326,
             "included_at_iso": "2020-08-04T00:52:22.588326",
-            "last_retested_at_epoch": 1598058178.00133,
-            "last_retested_at_iso": "2020-08-22T01:02:58.001330",
+            "last_retested_at_epoch": 1598232143.663337,
+            "last_retested_at_iso": "2020-08-24T01:22:23.663337",
             "status": "INACTIVE"
         },
         "yhdsitesrvservpower.fr": {
             "included_at_epoch": 1596502342.623755,
             "included_at_iso": "2020-08-04T00:52:22.623755",
-            "last_retested_at_epoch": 1598058178.035949,
-            "last_retested_at_iso": "2020-08-22T01:02:58.035949",
+            "last_retested_at_epoch": 1598232143.71737,
+            "last_retested_at_iso": "2020-08-24T01:22:23.717370",
             "status": "INACTIVE"
         },
         "yhdsrvncdnnrj.com": {
             "included_at_epoch": 1596502342.605917,
             "included_at_iso": "2020-08-04T00:52:22.605917",
-            "last_retested_at_epoch": 1598058178.01835,
-            "last_retested_at_iso": "2020-08-22T01:02:58.018350",
+            "last_retested_at_epoch": 1598232143.699451,
+            "last_retested_at_iso": "2020-08-24T01:22:23.699451",
             "status": "INACTIVE"
         },
         "yhdsrvpbn.us": {
             "included_at_epoch": 1596502342.65853,
             "included_at_iso": "2020-08-04T00:52:22.658530",
-            "last_retested_at_epoch": 1598058178.053636,
-            "last_retested_at_iso": "2020-08-22T01:02:58.053636",
+            "last_retested_at_epoch": 1598232143.735315,
+            "last_retested_at_iso": "2020-08-24T01:22:23.735315",
             "status": "INACTIVE"
         },
         "yhdsrvyhdpower.org": {
             "included_at_epoch": 1596675322.187905,
             "included_at_iso": "2020-08-06T00:55:22.187905",
-            "last_retested_at_epoch": 1598058178.071196,
-            "last_retested_at_iso": "2020-08-22T01:02:58.071196",
+            "last_retested_at_epoch": 1598232143.754124,
+            "last_retested_at_iso": "2020-08-24T01:22:23.754124",
             "status": "INACTIVE"
         },
         "yhdyhd.ro": {
             "included_at_epoch": 1596675322.205154,
             "included_at_iso": "2020-08-06T00:55:22.205154",
-            "last_retested_at_epoch": 1598058178.088519,
-            "last_retested_at_iso": "2020-08-22T01:02:58.088519",
+            "last_retested_at_epoch": 1598232143.772168,
+            "last_retested_at_iso": "2020-08-24T01:22:23.772168",
             "status": "INACTIVE"
         },
         "yhdyhdfjr.tk": {
             "included_at_epoch": 1596502342.692656,
             "included_at_iso": "2020-08-04T00:52:22.692656",
-            "last_retested_at_epoch": 1598058178.105631,
-            "last_retested_at_iso": "2020-08-22T01:02:58.105631",
+            "last_retested_at_epoch": 1598232143.790134,
+            "last_retested_at_iso": "2020-08-24T01:22:23.790134",
             "status": "INACTIVE"
         },
         "yum.nortonvirus.org": {
@@ -7992,15 +7992,15 @@
         "yvxjsixn.eu": {
             "included_at_epoch": 1597713489.489147,
             "included_at_iso": "2020-08-18T01:18:09.489147",
-            "last_retested_at_epoch": 1598058178.18885,
-            "last_retested_at_iso": "2020-08-22T01:02:58.188850",
+            "last_retested_at_epoch": 1598232143.881108,
+            "last_retested_at_iso": "2020-08-24T01:22:23.881108",
             "status": "INACTIVE"
         },
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1597713488.150699,
             "included_at_iso": "2020-08-18T01:18:08.150699",
-            "last_retested_at_epoch": 1598058176.890105,
-            "last_retested_at_iso": "2020-08-22T01:02:56.890105",
+            "last_retested_at_epoch": 1598232142.502038,
+            "last_retested_at_iso": "2020-08-24T01:22:22.502038",
             "status": "INACTIVE"
         },
         "zg.poorgoddaay.com": {
