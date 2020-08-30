@@ -267,6 +267,7 @@
     "arcartall.club": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "aresboot.xyz": {
@@ -385,8 +386,9 @@
         "state": "future"
     },
     "bidgear.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1693353600.0,
+        "expiration_date": "30-aug-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bigsharkmedia.com": {
@@ -637,7 +639,8 @@
     "completesatisfaction.ltd": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.nic.ltd",
+        "state": "past"
     },
     "comssite.com": {
         "epoch": 1613174400.0,
@@ -785,8 +788,9 @@
         "state": "future"
     },
     "dobre-programy.pl": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "dobre-programy.xyz": {
@@ -907,6 +911,7 @@
     "energytea.org": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
+        "server": "whois.pir.org",
         "state": "past"
     },
     "environmentalist.com": {
@@ -965,8 +970,9 @@
         "state": "future"
     },
     "fgoogle.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1756425600.0,
+        "expiration_date": "29-aug-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "findtus.com": {
@@ -1527,6 +1533,7 @@
     "lecap-services.fr": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
+        "server": "whois.nic.fr",
         "state": "past"
     },
     "ledampenergy.net": {
@@ -1847,6 +1854,7 @@
     "mynevyfedera1.org": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
+        "server": "whois.pir.org",
         "state": "past"
     },
     "myornamenti.com": {
@@ -1907,6 +1915,7 @@
     "navyfedara1.org": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "server": "whois.pir.org",
         "state": "past"
     },
     "navyfedera1.com": {
@@ -2920,8 +2929,9 @@
         "state": "future"
     },
     "wzrkt.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1661731200.0,
+        "expiration_date": "29-aug-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xda-developers.us": {

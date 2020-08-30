@@ -185,10 +185,10 @@
             "status": "INACTIVE"
         },
         "app.dynamicrosoft.com": {
-            "included_at_epoch": 1596328120.380653,
-            "included_at_iso": "2020-08-02T00:28:40.380653",
-            "last_retested_at_epoch": 1598575400.33249,
-            "last_retested_at_iso": "2020-08-28T00:43:20.332490",
+            "included_at_epoch": 1598748251.000891,
+            "included_at_iso": "2020-08-30T00:44:11.000891",
+            "last_retested_at_epoch": 1598748251.000891,
+            "last_retested_at_iso": "2020-08-30T00:44:11.000891",
             "status": "INACTIVE"
         },
         "app.hkrevolution.club": {
@@ -7217,13 +7217,6 @@
             "included_at_iso": "2020-08-18T01:11:33.206248",
             "last_retested_at_epoch": 1598576450.386668,
             "last_retested_at_iso": "2020-08-28T01:00:50.386668",
-            "status": "INACTIVE"
-        },
-        "www.dobre-programy.pl": {
-            "included_at_epoch": 1596328119.271776,
-            "included_at_iso": "2020-08-02T00:28:39.271776",
-            "last_retested_at_epoch": 1598575399.249865,
-            "last_retested_at_iso": "2020-08-28T00:43:19.249865",
             "status": "INACTIVE"
         },
         "www.e.ad.xiaomi.com": {
