@@ -3043,7 +3043,8 @@
     "zapaljs.com": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "zarget.com": {
         "epoch": 1693526400.0,
