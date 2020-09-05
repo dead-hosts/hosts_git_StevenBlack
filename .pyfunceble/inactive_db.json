@@ -163,13 +163,6 @@
             "last_retested_at_iso": "2020-08-28T01:05:35.443577",
             "status": "INACTIVE"
         },
-        "api.admob.xiaomi.com": {
-            "included_at_epoch": 1596675320.897399,
-            "included_at_iso": "2020-08-06T00:55:20.897399",
-            "last_retested_at_epoch": 1598576451.182868,
-            "last_retested_at_iso": "2020-08-28T01:00:51.182868",
-            "status": "INACTIVE"
-        },
         "api.doubles.click": {
             "included_at_epoch": 1597711274.909413,
             "included_at_iso": "2020-08-18T00:41:14.909413",
@@ -7835,20 +7828,6 @@
             "last_retested_at_iso": "2020-09-03T00:54:37.217080",
             "status": "INACTIVE"
         },
-        "yhdncdnikjjfn.fr": {
-            "included_at_epoch": 1596675321.829258,
-            "included_at_iso": "2020-08-06T00:55:21.829258",
-            "last_retested_at_epoch": 1598576734.736164,
-            "last_retested_at_iso": "2020-08-28T01:05:34.736164",
-            "status": "INACTIVE"
-        },
-        "yhdncdnnrj.in": {
-            "included_at_epoch": 1596675321.810911,
-            "included_at_iso": "2020-08-06T00:55:21.810911",
-            "last_retested_at_epoch": 1598576734.753905,
-            "last_retested_at_iso": "2020-08-28T01:05:34.753905",
-            "status": "INACTIVE"
-        },
         "yhdncj.ch": {
             "included_at_epoch": 1599094477.236473,
             "included_at_iso": "2020-09-03T00:54:37.236473",
@@ -7940,13 +7919,6 @@
             "last_retested_at_iso": "2020-09-03T00:54:37.451924",
             "status": "INACTIVE"
         },
-        "yhdservsitesrvkcn.nl": {
-            "included_at_epoch": 1596675322.068038,
-            "included_at_iso": "2020-08-06T00:55:22.068038",
-            "last_retested_at_epoch": 1598576735.009901,
-            "last_retested_at_iso": "2020-08-28T01:05:35.009901",
-            "status": "INACTIVE"
-        },
         "yhdsite.com": {
             "included_at_epoch": 1599094477.469345,
             "included_at_iso": "2020-09-03T00:54:37.469345",
@@ -7980,20 +7952,6 @@
             "included_at_iso": "2020-09-03T00:54:37.540065",
             "last_retested_at_epoch": 1599094477.540065,
             "last_retested_at_iso": "2020-09-03T00:54:37.540065",
-            "status": "INACTIVE"
-        },
-        "yhdsrvyhdpower.org": {
-            "included_at_epoch": 1596675322.187905,
-            "included_at_iso": "2020-08-06T00:55:22.187905",
-            "last_retested_at_epoch": 1598576735.116696,
-            "last_retested_at_iso": "2020-08-28T01:05:35.116696",
-            "status": "INACTIVE"
-        },
-        "yhdyhd.ro": {
-            "included_at_epoch": 1596675322.205154,
-            "included_at_iso": "2020-08-06T00:55:22.205154",
-            "last_retested_at_epoch": 1598576735.134406,
-            "last_retested_at_iso": "2020-08-28T01:05:35.134406",
             "status": "INACTIVE"
         },
         "yhdyhdfjr.tk": {
