@@ -2808,7 +2808,8 @@
     "upiserversys1212.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "urldelivery.com": {
         "epoch": 1600473600.0,
