@@ -23,6 +23,13 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
+        "0.0.0.0.creative.hpyrdr.com": {
+            "included_at_epoch": 1599785454.879971,
+            "included_at_iso": "2020-09-11T00:50:54.879971",
+            "last_retested_at_epoch": 1599785454.879971,
+            "last_retested_at_iso": "2020-09-11T00:50:54.879971",
+            "status": "INACTIVE"
+        },
         "0x4fc271.tk": {
             "included_at_epoch": 1599612575.429474,
             "included_at_iso": "2020-09-09T00:49:35.429474",
@@ -93,6 +100,34 @@
             "last_retested_at_iso": "2020-09-03T00:54:36.797494",
             "status": "INACTIVE"
         },
+        "ad.adapter.kaffnet.com": {
+            "included_at_epoch": 1599785455.035651,
+            "included_at_iso": "2020-09-11T00:50:55.035651",
+            "last_retested_at_epoch": 1599785455.035651,
+            "last_retested_at_iso": "2020-09-11T00:50:55.035651",
+            "status": "INACTIVE"
+        },
+        "ad.api.kaffnet.com": {
+            "included_at_epoch": 1599785455.056478,
+            "included_at_iso": "2020-09-11T00:50:55.056478",
+            "last_retested_at_epoch": 1599785455.056478,
+            "last_retested_at_iso": "2020-09-11T00:50:55.056478",
+            "status": "INACTIVE"
+        },
+        "ad.click.kaffnet.com": {
+            "included_at_epoch": 1599785455.074038,
+            "included_at_iso": "2020-09-11T00:50:55.074038",
+            "last_retested_at_epoch": 1599785455.074038,
+            "last_retested_at_iso": "2020-09-11T00:50:55.074038",
+            "status": "INACTIVE"
+        },
+        "ads.grandonmedia.com": {
+            "included_at_epoch": 1599785454.787458,
+            "included_at_iso": "2020-09-11T00:50:54.787458",
+            "last_retested_at_epoch": 1599785454.787458,
+            "last_retested_at_iso": "2020-09-11T00:50:54.787458",
+            "status": "INACTIVE"
+        },
         "adv.grandonmedia.com": {
             "included_at_epoch": 1597711278.379434,
             "included_at_iso": "2020-08-18T00:41:18.379434",
@@ -136,10 +171,10 @@
             "status": "INACTIVE"
         },
         "ap-sonar.sociomantic.com": {
-            "included_at_epoch": 1597193510.019841,
-            "included_at_iso": "2020-08-12T00:51:50.019841",
-            "last_retested_at_epoch": 1598576447.957437,
-            "last_retested_at_iso": "2020-08-28T01:00:47.957437",
+            "included_at_epoch": 1599785455.919766,
+            "included_at_iso": "2020-09-11T00:50:55.919766",
+            "last_retested_at_epoch": 1599785455.919766,
+            "last_retested_at_iso": "2020-09-11T00:50:55.919766",
             "status": "INACTIVE"
         },
         "ap45.hetznir.ventanasyaluminios.com.mx": {
@@ -381,10 +416,10 @@
             "status": "INACTIVE"
         },
         "castoola.tv.lan": {
-            "included_at_epoch": 1597193511.801541,
-            "included_at_iso": "2020-08-12T00:51:51.801541",
-            "last_retested_at_epoch": 1598576449.799609,
-            "last_retested_at_iso": "2020-08-28T01:00:49.799609",
+            "included_at_epoch": 1599785456.138349,
+            "included_at_iso": "2020-09-11T00:50:56.138349",
+            "last_retested_at_epoch": 1599785456.138349,
+            "last_retested_at_iso": "2020-09-11T00:50:56.138349",
             "status": "INVALID"
         },
         "cdmgqqdqjwlo.eu": {
@@ -3363,10 +3398,10 @@
             "status": "INACTIVE"
         },
         "myconnect-support.com": {
-            "included_at_epoch": 1597193501.701398,
-            "included_at_iso": "2020-08-12T00:51:41.701398",
-            "last_retested_at_epoch": 1598576439.380942,
-            "last_retested_at_iso": "2020-08-28T01:00:39.380942",
+            "included_at_epoch": 1599785455.391879,
+            "included_at_iso": "2020-09-11T00:50:55.391879",
+            "last_retested_at_epoch": 1599785455.391879,
+            "last_retested_at_iso": "2020-09-11T00:50:55.391879",
             "status": "INACTIVE"
         },
         "mylrendyphone.com": {
@@ -4651,10 +4686,10 @@
             "status": "INACTIVE"
         },
         "ora.blindsidefantasy.com": {
-            "included_at_epoch": 1597365297.386852,
-            "included_at_iso": "2020-08-14T00:34:57.386852",
-            "last_retested_at_epoch": 1598575397.864407,
-            "last_retested_at_iso": "2020-08-28T00:43:17.864407",
+            "included_at_epoch": 1599785453.617855,
+            "included_at_iso": "2020-09-11T00:50:53.617855",
+            "last_retested_at_epoch": 1599785453.617855,
+            "last_retested_at_iso": "2020-09-11T00:50:53.617855",
             "status": "INACTIVE"
         },
         "ora.studiolegalebasili.com": {
@@ -5470,10 +5505,10 @@
             "status": "INACTIVE"
         },
         "semasa.icu": {
-            "included_at_epoch": 1597193507.976908,
-            "included_at_iso": "2020-08-12T00:51:47.976908",
-            "last_retested_at_epoch": 1598576445.875401,
-            "last_retested_at_iso": "2020-08-28T01:00:45.875401",
+            "included_at_epoch": 1599785455.843114,
+            "included_at_iso": "2020-09-11T00:50:55.843114",
+            "last_retested_at_epoch": 1599785455.843114,
+            "last_retested_at_iso": "2020-09-11T00:50:55.843114",
             "status": "INACTIVE"
         },
         "servdswncjkcn.ru": {
@@ -6548,10 +6583,10 @@
             "status": "INACTIVE"
         },
         "ssp.ad.xiaomi.com": {
-            "included_at_epoch": 1597193513.033984,
-            "included_at_iso": "2020-08-12T00:51:53.033984",
-            "last_retested_at_epoch": 1598576451.104581,
-            "last_retested_at_iso": "2020-08-28T01:00:51.104581",
+            "included_at_epoch": 1599785456.51641,
+            "included_at_iso": "2020-09-11T00:50:56.516410",
+            "last_retested_at_epoch": 1599785456.51641,
+            "last_retested_at_iso": "2020-09-11T00:50:56.516410",
             "status": "INACTIVE"
         },
         "start.apiforssl.com": {
@@ -6828,10 +6863,10 @@
             "status": "INACTIVE"
         },
         "vosmas.icu": {
-            "included_at_epoch": 1597193512.398954,
-            "included_at_iso": "2020-08-12T00:51:52.398954",
-            "last_retested_at_epoch": 1598576450.418048,
-            "last_retested_at_iso": "2020-08-28T01:00:50.418048",
+            "included_at_epoch": 1599785456.377626,
+            "included_at_iso": "2020-09-11T00:50:56.377626",
+            "last_retested_at_epoch": 1599785456.377626,
+            "last_retested_at_iso": "2020-09-11T00:50:56.377626",
             "status": "INACTIVE"
         },
         "walletgear.org": {
@@ -6842,10 +6877,10 @@
             "status": "INACTIVE"
         },
         "watches-my.stream": {
-            "included_at_epoch": 1597193512.467756,
-            "included_at_iso": "2020-08-12T00:51:52.467756",
-            "last_retested_at_epoch": 1598576450.489048,
-            "last_retested_at_iso": "2020-08-28T01:00:50.489048",
+            "included_at_epoch": 1599785456.400662,
+            "included_at_iso": "2020-09-11T00:50:56.400662",
+            "last_retested_at_epoch": 1599785456.400662,
+            "last_retested_at_iso": "2020-09-11T00:50:56.400662",
             "status": "INACTIVE"
         },
         "wcb.eygefl.com": {
@@ -6946,13 +6981,6 @@
             "last_retested_at_iso": "2020-08-28T01:00:45.199341",
             "status": "INACTIVE"
         },
-        "www.api.ad.intl.xiaomi.com": {
-            "included_at_epoch": 1597193828.961961,
-            "included_at_iso": "2020-08-12T00:57:08.961961",
-            "last_retested_at_epoch": 1598576451.265621,
-            "last_retested_at_iso": "2020-08-28T01:00:51.265621",
-            "status": "INACTIVE"
-        },
         "www.api.ad.snappea.com": {
             "included_at_epoch": 1597713090.866452,
             "included_at_iso": "2020-08-18T01:11:30.866452",
@@ -6961,10 +6989,10 @@
             "status": "INACTIVE"
         },
         "www.api.ad.xiaomi.com": {
-            "included_at_epoch": 1597193512.935582,
-            "included_at_iso": "2020-08-12T00:51:52.935582",
-            "last_retested_at_epoch": 1598576450.982354,
-            "last_retested_at_iso": "2020-08-28T01:00:50.982354",
+            "included_at_epoch": 1599785456.489391,
+            "included_at_iso": "2020-09-11T00:50:56.489391",
+            "last_retested_at_epoch": 1599785456.489391,
+            "last_retested_at_iso": "2020-09-11T00:50:56.489391",
             "status": "INACTIVE"
         },
         "www.api.admob.xiaomi.com": {
@@ -7318,17 +7346,24 @@
             "status": "INACTIVE"
         },
         "www.in-starlive-preroll.videoplaza.tv": {
-            "included_at_epoch": 1597193512.26381,
-            "included_at_iso": "2020-08-12T00:51:52.263810",
-            "last_retested_at_epoch": 1598576450.283257,
-            "last_retested_at_iso": "2020-08-28T01:00:50.283257",
+            "included_at_epoch": 1599785456.332738,
+            "included_at_iso": "2020-09-11T00:50:56.332738",
+            "last_retested_at_epoch": 1599785456.332738,
+            "last_retested_at_iso": "2020-09-11T00:50:56.332738",
             "status": "INACTIVE"
         },
         "www.in-starlive.videoplaza.tv": {
-            "included_at_epoch": 1597193512.239427,
-            "included_at_iso": "2020-08-12T00:51:52.239427",
-            "last_retested_at_epoch": 1598576450.259551,
-            "last_retested_at_iso": "2020-08-28T01:00:50.259551",
+            "included_at_epoch": 1599785456.310983,
+            "included_at_iso": "2020-09-11T00:50:56.310983",
+            "last_retested_at_epoch": 1599785456.310983,
+            "last_retested_at_iso": "2020-09-11T00:50:56.310983",
+            "status": "INACTIVE"
+        },
+        "www.indiaonclick.com": {
+            "included_at_epoch": 1599785454.94075,
+            "included_at_iso": "2020-09-11T00:50:54.940750",
+            "last_retested_at_epoch": 1599785454.94075,
+            "last_retested_at_iso": "2020-09-11T00:50:54.940750",
             "status": "INACTIVE"
         },
         "www.jackbootedroom.com": {
