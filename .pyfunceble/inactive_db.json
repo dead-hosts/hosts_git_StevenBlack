@@ -6779,10 +6779,10 @@
             "status": "INACTIVE"
         },
         "tretas.top": {
-            "included_at_epoch": 1597366347.520384,
-            "included_at_iso": "2020-08-14T00:52:27.520384",
-            "last_retested_at_epoch": 1598576449.733145,
-            "last_retested_at_iso": "2020-08-28T01:00:49.733145",
+            "included_at_epoch": 1599785692.430419,
+            "included_at_iso": "2020-09-11T00:54:52.430419",
+            "last_retested_at_epoch": 1599785692.430419,
+            "last_retested_at_iso": "2020-09-11T00:54:52.430419",
             "status": "INACTIVE"
         },
         "ubt.ubtv.xyz": {
@@ -6979,6 +6979,13 @@
             "included_at_iso": "2020-08-18T01:11:28.231675",
             "last_retested_at_epoch": 1598576445.199341,
             "last_retested_at_iso": "2020-08-28T01:00:45.199341",
+            "status": "INACTIVE"
+        },
+        "www.api.ad.intl.xiaomi.com": {
+            "included_at_epoch": 1599785692.460773,
+            "included_at_iso": "2020-09-11T00:54:52.460773",
+            "last_retested_at_epoch": 1599785692.460773,
+            "last_retested_at_iso": "2020-09-11T00:54:52.460773",
             "status": "INACTIVE"
         },
         "www.api.ad.snappea.com": {
