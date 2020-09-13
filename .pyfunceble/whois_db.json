@@ -216,10 +216,10 @@
         "state": "future"
     },
     "amarktflow.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1662854400.0,
+        "expiration_date": "11-sep-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "amazonco.uk": {
         "epoch": 1600646400.0,
@@ -606,9 +606,10 @@
         "state": "future"
     },
     "com-auth.site": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
-        "state": "past"
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.nic.site",
+        "state": "future"
     },
     "com-enter.site": {
         "epoch": 1624147200.0,
@@ -2231,10 +2232,10 @@
         "state": "future"
     },
     "queensiteforapp.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "quickcash-system.com": {
         "epoch": 1600473600.0,
