@@ -184,13 +184,6 @@
             "last_retested_at_iso": "2020-09-11T00:50:55.919766",
             "status": "INACTIVE"
         },
-        "ap45.hetznir.ventanasyaluminios.com.mx": {
-            "included_at_epoch": 1597886502.525596,
-            "included_at_iso": "2020-08-20T01:21:42.525596",
-            "last_retested_at_epoch": 1598576735.443577,
-            "last_retested_at_iso": "2020-08-28T01:05:35.443577",
-            "status": "INACTIVE"
-        },
         "api.admob.xiaomi.com": {
             "included_at_epoch": 1599267187.425066,
             "included_at_iso": "2020-09-05T00:53:07.425066",
@@ -1052,6 +1045,13 @@
             "last_retested_at_iso": "2020-09-09T00:49:36.739064",
             "status": "INACTIVE"
         },
+        "energytea.org": {
+            "included_at_epoch": 1600476869.631181,
+            "included_at_iso": "2020-09-19T00:54:29.631181",
+            "last_retested_at_epoch": 1600476869.631181,
+            "last_retested_at_iso": "2020-09-19T00:54:29.631181",
+            "status": "INACTIVE"
+        },
         "ensure-https.com": {
             "included_at_epoch": 1600303999.727371,
             "included_at_iso": "2020-09-17T00:53:19.727371",
@@ -1575,13 +1575,6 @@
             "included_at_iso": "2020-09-17T00:53:20.972449",
             "last_retested_at_epoch": 1600304000.972449,
             "last_retested_at_iso": "2020-09-17T00:53:20.972449",
-            "status": "INACTIVE"
-        },
-        "hetznir.ventanasyaluminios.com.mx": {
-            "included_at_epoch": 1597886502.553646,
-            "included_at_iso": "2020-08-20T01:21:42.553646",
-            "last_retested_at_epoch": 1598576735.472278,
-            "last_retested_at_iso": "2020-08-28T01:05:35.472278",
             "status": "INACTIVE"
         },
         "howupdateworks.amazingupdates4youtoday.website": {
@@ -5456,10 +5449,10 @@
             "status": "INACTIVE"
         },
         "roboinside.me": {
-            "included_at_epoch": 1597886183.629612,
-            "included_at_iso": "2020-08-20T01:16:23.629612",
-            "last_retested_at_epoch": 1598576445.379209,
-            "last_retested_at_iso": "2020-08-28T01:00:45.379209",
+            "included_at_epoch": 1600476871.198993,
+            "included_at_iso": "2020-09-19T00:54:31.198993",
+            "last_retested_at_epoch": 1600476871.198993,
+            "last_retested_at_iso": "2020-09-19T00:54:31.198993",
             "status": "INACTIVE"
         },
         "roots.dynamic-dns.net": {
@@ -7689,10 +7682,10 @@
             "status": "INACTIVE"
         },
         "www.traffclick.ru": {
-            "included_at_epoch": 1597886187.800001,
-            "included_at_iso": "2020-08-20T01:16:27.800001",
-            "last_retested_at_epoch": 1598576449.701888,
-            "last_retested_at_iso": "2020-08-28T01:00:49.701888",
+            "included_at_epoch": 1600476871.541666,
+            "included_at_iso": "2020-09-19T00:54:31.541666",
+            "last_retested_at_epoch": 1600476871.541666,
+            "last_retested_at_iso": "2020-09-19T00:54:31.541666",
             "status": "INACTIVE"
         },
         "www.vidutils.taboola.com": {
