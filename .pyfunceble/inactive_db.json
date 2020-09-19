@@ -184,6 +184,13 @@
             "last_retested_at_iso": "2020-09-11T00:50:55.919766",
             "status": "INACTIVE"
         },
+        "ap45.hetznir.ventanasyaluminios.com.mx": {
+            "included_at_epoch": 1600477037.143394,
+            "included_at_iso": "2020-09-19T00:57:17.143394",
+            "last_retested_at_epoch": 1600477037.143394,
+            "last_retested_at_iso": "2020-09-19T00:57:17.143394",
+            "status": "INACTIVE"
+        },
         "api.admob.xiaomi.com": {
             "included_at_epoch": 1599267187.425066,
             "included_at_iso": "2020-09-05T00:53:07.425066",
@@ -406,13 +413,6 @@
             "included_at_iso": "2020-09-09T00:49:37.589951",
             "last_retested_at_epoch": 1599612577.589951,
             "last_retested_at_iso": "2020-09-09T00:49:37.589951",
-            "status": "INACTIVE"
-        },
-        "camteens.to": {
-            "included_at_epoch": 1598056808.431172,
-            "included_at_iso": "2020-08-22T00:40:08.431172",
-            "last_retested_at_epoch": 1598575398.065282,
-            "last_retested_at_iso": "2020-08-28T00:43:18.065282",
             "status": "INACTIVE"
         },
         "castoola.tv.lan": {
@@ -1575,6 +1575,13 @@
             "included_at_iso": "2020-09-17T00:53:20.972449",
             "last_retested_at_epoch": 1600304000.972449,
             "last_retested_at_iso": "2020-09-17T00:53:20.972449",
+            "status": "INACTIVE"
+        },
+        "hetznir.ventanasyaluminios.com.mx": {
+            "included_at_epoch": 1600477037.165272,
+            "included_at_iso": "2020-09-19T00:57:17.165272",
+            "last_retested_at_epoch": 1600477037.165272,
+            "last_retested_at_iso": "2020-09-19T00:57:17.165272",
             "status": "INACTIVE"
         },
         "howupdateworks.amazingupdates4youtoday.website": {
@@ -5406,13 +5413,6 @@
             "last_retested_at_iso": "2020-09-09T00:49:38.072434",
             "status": "INACTIVE"
         },
-        "promotion.com-rewards.club": {
-            "included_at_epoch": 1598056809.108248,
-            "included_at_iso": "2020-08-22T00:40:09.108248",
-            "last_retested_at_epoch": 1598575398.783035,
-            "last_retested_at_iso": "2020-08-28T00:43:18.783035",
-            "status": "INACTIVE"
-        },
         "pub.grandonmedia.com": {
             "included_at_epoch": 1600304000.923387,
             "included_at_iso": "2020-09-17T00:53:20.923387",
@@ -7261,13 +7261,6 @@
             "last_retested_at_iso": "2020-09-17T00:53:23.651650",
             "status": "INACTIVE"
         },
-        "www.cutebaitsforum.cc": {
-            "included_at_epoch": 1598056809.290213,
-            "included_at_iso": "2020-08-22T00:40:09.290213",
-            "last_retested_at_epoch": 1598575398.981647,
-            "last_retested_at_iso": "2020-08-28T00:43:18.981647",
-            "status": "INACTIVE"
-        },
         "www.data-ero-advertising.com": {
             "included_at_epoch": 1598402547.780685,
             "included_at_iso": "2020-08-26T00:42:27.780685",
@@ -7315,13 +7308,6 @@
             "included_at_iso": "2020-09-17T00:53:23.124828",
             "last_retested_at_epoch": 1600304003.124828,
             "last_retested_at_iso": "2020-09-17T00:53:23.124828",
-            "status": "INACTIVE"
-        },
-        "www.fap.al": {
-            "included_at_epoch": 1598056811.540903,
-            "included_at_iso": "2020-08-22T00:40:11.540903",
-            "last_retested_at_epoch": 1598575401.359142,
-            "last_retested_at_iso": "2020-08-28T00:43:21.359142",
             "status": "INACTIVE"
         },
         "www.fcanr.tracking.miui.com": {
@@ -7518,13 +7504,6 @@
             "included_at_iso": "2020-09-17T00:53:22.957748",
             "last_retested_at_epoch": 1600304002.957748,
             "last_retested_at_iso": "2020-09-17T00:53:22.957748",
-            "status": "INACTIVE"
-        },
-        "www.promotion.com-rewards.club": {
-            "included_at_epoch": 1598056809.124899,
-            "included_at_iso": "2020-08-22T00:40:09.124899",
-            "last_retested_at_epoch": 1598575398.800657,
-            "last_retested_at_iso": "2020-08-28T00:43:18.800657",
             "status": "INACTIVE"
         },
         "www.protectmobiletechieai.club": {
