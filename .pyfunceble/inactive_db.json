@@ -415,6 +415,13 @@
             "last_retested_at_iso": "2020-09-09T00:49:37.589951",
             "status": "INACTIVE"
         },
+        "camteens.to": {
+            "included_at_epoch": 1600649629.590373,
+            "included_at_iso": "2020-09-21T00:53:49.590373",
+            "last_retested_at_epoch": 1600649629.590373,
+            "last_retested_at_iso": "2020-09-21T00:53:49.590373",
+            "status": "INACTIVE"
+        },
         "castoola.tv.lan": {
             "included_at_epoch": 1599785456.138349,
             "included_at_iso": "2020-09-11T00:50:56.138349",
@@ -591,10 +598,10 @@
             "status": "INACTIVE"
         },
         "cu.versiondat.xyz": {
-            "included_at_epoch": 1598057853.185134,
-            "included_at_iso": "2020-08-22T00:57:33.185134",
-            "last_retested_at_epoch": 1598576450.181563,
-            "last_retested_at_iso": "2020-08-28T01:00:50.181563",
+            "included_at_epoch": 1600649632.220709,
+            "included_at_iso": "2020-09-21T00:53:52.220709",
+            "last_retested_at_epoch": 1600649632.220709,
+            "last_retested_at_iso": "2020-09-21T00:53:52.220709",
             "status": "INACTIVE"
         },
         "dabmaster.wm01.to": {
@@ -5413,6 +5420,13 @@
             "last_retested_at_iso": "2020-09-09T00:49:38.072434",
             "status": "INACTIVE"
         },
+        "promotion.com-rewards.club": {
+            "included_at_epoch": 1600649629.710819,
+            "included_at_iso": "2020-09-21T00:53:49.710819",
+            "last_retested_at_epoch": 1600649629.710819,
+            "last_retested_at_iso": "2020-09-21T00:53:49.710819",
+            "status": "INACTIVE"
+        },
         "pub.grandonmedia.com": {
             "included_at_epoch": 1600304000.923387,
             "included_at_iso": "2020-09-17T00:53:20.923387",
@@ -5824,6 +5838,13 @@
             "included_at_iso": "2020-09-01T00:56:37.875070",
             "last_retested_at_epoch": 1598921797.87507,
             "last_retested_at_iso": "2020-09-01T00:56:37.875070",
+            "status": "INACTIVE"
+        },
+        "servunity.tk": {
+            "included_at_epoch": 1600649631.818653,
+            "included_at_iso": "2020-09-21T00:53:51.818653",
+            "last_retested_at_epoch": 1600649631.818653,
+            "last_retested_at_iso": "2020-09-21T00:53:51.818653",
             "status": "INACTIVE"
         },
         "servuntmainnews.nl": {
@@ -7261,6 +7282,13 @@
             "last_retested_at_iso": "2020-09-17T00:53:23.651650",
             "status": "INACTIVE"
         },
+        "www.cutebaitsforum.cc": {
+            "included_at_epoch": 1600649629.770819,
+            "included_at_iso": "2020-09-21T00:53:49.770819",
+            "last_retested_at_epoch": 1600649629.770819,
+            "last_retested_at_iso": "2020-09-21T00:53:49.770819",
+            "status": "INACTIVE"
+        },
         "www.data-ero-advertising.com": {
             "included_at_epoch": 1598402547.780685,
             "included_at_iso": "2020-08-26T00:42:27.780685",
@@ -7308,6 +7336,13 @@
             "included_at_iso": "2020-09-17T00:53:23.124828",
             "last_retested_at_epoch": 1600304003.124828,
             "last_retested_at_iso": "2020-09-17T00:53:23.124828",
+            "status": "INACTIVE"
+        },
+        "www.fap.al": {
+            "included_at_epoch": 1600649630.653279,
+            "included_at_iso": "2020-09-21T00:53:50.653279",
+            "last_retested_at_epoch": 1600649630.653279,
+            "last_retested_at_iso": "2020-09-21T00:53:50.653279",
             "status": "INACTIVE"
         },
         "www.fcanr.tracking.miui.com": {
@@ -7506,6 +7541,13 @@
             "last_retested_at_iso": "2020-09-17T00:53:22.957748",
             "status": "INACTIVE"
         },
+        "www.promotion.com-rewards.club": {
+            "included_at_epoch": 1600649629.692,
+            "included_at_iso": "2020-09-21T00:53:49.692000",
+            "last_retested_at_epoch": 1600649629.692,
+            "last_retested_at_iso": "2020-09-21T00:53:49.692000",
+            "status": "INACTIVE"
+        },
         "www.protectmobiletechieai.club": {
             "included_at_epoch": 1598576445.16395,
             "included_at_iso": "2020-08-28T01:00:45.163950",
@@ -7609,13 +7651,6 @@
             "included_at_iso": "2020-09-15T00:52:50.952781",
             "last_retested_at_epoch": 1600131170.952781,
             "last_retested_at_iso": "2020-09-15T00:52:50.952781",
-            "status": "INACTIVE"
-        },
-        "www.teddygirls.cc": {
-            "included_at_epoch": 1598057852.273376,
-            "included_at_iso": "2020-08-22T00:57:32.273376",
-            "last_retested_at_epoch": 1598576449.277552,
-            "last_retested_at_iso": "2020-08-28T01:00:49.277552",
             "status": "INACTIVE"
         },
         "www.test.ad.xiaomi.com": {
