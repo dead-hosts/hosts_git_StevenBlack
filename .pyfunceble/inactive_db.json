@@ -233,13 +233,6 @@
             "last_retested_at_iso": "2020-09-09T00:49:39.403289",
             "status": "INACTIVE"
         },
-        "apple.com-fasting.live": {
-            "included_at_epoch": 1598229686.844857,
-            "included_at_iso": "2020-08-24T00:41:26.844857",
-            "last_retested_at_epoch": 1598575398.574582,
-            "last_retested_at_iso": "2020-08-28T00:43:18.574582",
-            "status": "INACTIVE"
-        },
         "apple.com-notice.info": {
             "included_at_epoch": 1600303999.38032,
             "included_at_iso": "2020-09-17T00:53:19.380320",
@@ -434,13 +427,6 @@
             "included_at_iso": "2020-09-17T00:53:19.221397",
             "last_retested_at_epoch": 1600303999.221397,
             "last_retested_at_iso": "2020-09-17T00:53:19.221397",
-            "status": "INACTIVE"
-        },
-        "cdn.beginads.com": {
-            "included_at_epoch": 1598229685.912664,
-            "included_at_iso": "2020-08-24T00:41:25.912664",
-            "last_retested_at_epoch": 1598575397.526919,
-            "last_retested_at_iso": "2020-08-28T00:43:17.526919",
             "status": "INACTIVE"
         },
         "cdn.dosya.web.tr": {
@@ -994,13 +980,6 @@
             "included_at_iso": "2020-09-03T00:46:33.056877",
             "last_retested_at_epoch": 1599093993.056877,
             "last_retested_at_iso": "2020-09-03T00:46:33.056877",
-            "status": "INACTIVE"
-        },
-        "dw.adyboh.com": {
-            "included_at_epoch": 1598229685.236087,
-            "included_at_iso": "2020-08-24T00:41:25.236087",
-            "last_retested_at_epoch": 1598575396.841098,
-            "last_retested_at_iso": "2020-08-28T00:43:16.841098",
             "status": "INACTIVE"
         },
         "dyh.cafnc.com": {
@@ -5476,13 +5455,6 @@
             "last_retested_at_iso": "2020-09-03T00:46:33.084807",
             "status": "INACTIVE"
         },
-        "rotator.beginads.com": {
-            "included_at_epoch": 1598229685.929413,
-            "included_at_iso": "2020-08-24T00:41:25.929413",
-            "last_retested_at_epoch": 1598575397.561299,
-            "last_retested_at_iso": "2020-08-28T00:43:17.561299",
-            "status": "INACTIVE"
-        },
         "rtblbtr.alphonso.tv": {
             "included_at_epoch": 1600303998.828709,
             "included_at_iso": "2020-09-17T00:53:18.828709",
@@ -6834,13 +6806,6 @@
             "last_retested_at_iso": "2020-09-17T00:53:21.080863",
             "status": "INACTIVE"
         },
-        "tracking.beginads.com": {
-            "included_at_epoch": 1598229685.979489,
-            "included_at_iso": "2020-08-24T00:41:25.979489",
-            "last_retested_at_epoch": 1598575397.615268,
-            "last_retested_at_iso": "2020-08-28T00:43:17.615268",
-            "status": "INACTIVE"
-        },
         "tracking.i2w.io": {
             "included_at_epoch": 1600304001.064351,
             "included_at_iso": "2020-09-17T00:53:21.064351",
@@ -7135,13 +7100,6 @@
             "last_retested_at_iso": "2020-09-17T00:53:22.012879",
             "status": "INACTIVE"
         },
-        "www.apple.com-fasting.live": {
-            "included_at_epoch": 1598229686.877189,
-            "included_at_iso": "2020-08-24T00:41:26.877189",
-            "last_retested_at_epoch": 1598575398.592021,
-            "last_retested_at_iso": "2020-08-28T00:43:18.592021",
-            "status": "INACTIVE"
-        },
         "www.apple.com-notice.info": {
             "included_at_epoch": 1600303999.424856,
             "included_at_iso": "2020-09-17T00:53:19.424856",
@@ -7233,13 +7191,6 @@
             "last_retested_at_iso": "2020-09-17T00:58:55.517969",
             "status": "INACTIVE"
         },
-        "www.cdn.beginads.com": {
-            "included_at_epoch": 1598229685.896509,
-            "included_at_iso": "2020-08-24T00:41:25.896509",
-            "last_retested_at_epoch": 1598575397.543741,
-            "last_retested_at_iso": "2020-08-28T00:43:17.543741",
-            "status": "INACTIVE"
-        },
         "www.click.grandonmedia.com": {
             "included_at_epoch": 1600304000.908674,
             "included_at_iso": "2020-09-17T00:53:20.908674",
@@ -7252,13 +7203,6 @@
             "included_at_iso": "2020-09-17T00:53:19.268380",
             "last_retested_at_epoch": 1600303999.26838,
             "last_retested_at_iso": "2020-09-17T00:53:19.268380",
-            "status": "INACTIVE"
-        },
-        "www.com-fasting.live": {
-            "included_at_epoch": 1598229686.860307,
-            "included_at_iso": "2020-08-24T00:41:26.860307",
-            "last_retested_at_epoch": 1598575398.609802,
-            "last_retested_at_iso": "2020-08-28T00:43:18.609802",
             "status": "INACTIVE"
         },
         "www.com-notice.info": {
@@ -7569,13 +7513,6 @@
             "last_retested_at_iso": "2020-09-17T00:53:23.208346",
             "status": "INACTIVE"
         },
-        "www.rotator.beginads.com": {
-            "included_at_epoch": 1598229685.946258,
-            "included_at_iso": "2020-08-24T00:41:25.946258",
-            "last_retested_at_epoch": 1598575397.57888,
-            "last_retested_at_iso": "2020-08-28T00:43:17.578880",
-            "status": "INACTIVE"
-        },
         "www.sdkconfig.ad.intl.xiaomi.com": {
             "included_at_epoch": 1600304335.74217,
             "included_at_iso": "2020-09-17T00:58:55.742170",
@@ -7674,13 +7611,6 @@
             "last_retested_at_iso": "2020-09-17T00:58:55.497451",
             "status": "INACTIVE"
         },
-        "www.tracking.beginads.com": {
-            "included_at_epoch": 1598229685.963045,
-            "included_at_iso": "2020-08-24T00:41:25.963045",
-            "last_retested_at_epoch": 1598575397.596926,
-            "last_retested_at_iso": "2020-08-28T00:43:17.596926",
-            "status": "INACTIVE"
-        },
         "www.tracking.intl.miui.com": {
             "included_at_epoch": 1600304002.028306,
             "included_at_iso": "2020-09-17T00:53:22.028306",
@@ -7742,13 +7672,6 @@
             "included_at_iso": "2020-09-17T00:53:22.925554",
             "last_retested_at_epoch": 1600304002.925554,
             "last_retested_at_iso": "2020-09-17T00:53:22.925554",
-            "status": "INACTIVE"
-        },
-        "wy.adyboh.com": {
-            "included_at_epoch": 1598229685.257802,
-            "included_at_iso": "2020-08-24T00:41:25.257802",
-            "last_retested_at_epoch": 1598575396.863917,
-            "last_retested_at_iso": "2020-08-28T00:43:16.863917",
             "status": "INACTIVE"
         },
         "xeixtnolvuuwmwy.eu": {
