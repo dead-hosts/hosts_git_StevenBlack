@@ -233,6 +233,13 @@
             "last_retested_at_iso": "2020-09-09T00:49:39.403289",
             "status": "INACTIVE"
         },
+        "apple.com-fasting.live": {
+            "included_at_epoch": 1600822509.916189,
+            "included_at_iso": "2020-09-23T00:55:09.916189",
+            "last_retested_at_epoch": 1600822509.916189,
+            "last_retested_at_iso": "2020-09-23T00:55:09.916189",
+            "status": "INACTIVE"
+        },
         "apple.com-notice.info": {
             "included_at_epoch": 1600303999.38032,
             "included_at_iso": "2020-09-17T00:53:19.380320",
@@ -980,6 +987,13 @@
             "included_at_iso": "2020-09-03T00:46:33.056877",
             "last_retested_at_epoch": 1599093993.056877,
             "last_retested_at_iso": "2020-09-03T00:46:33.056877",
+            "status": "INACTIVE"
+        },
+        "dw.adyboh.com": {
+            "included_at_epoch": 1600822509.559345,
+            "included_at_iso": "2020-09-23T00:55:09.559345",
+            "last_retested_at_epoch": 1600822509.559345,
+            "last_retested_at_iso": "2020-09-23T00:55:09.559345",
             "status": "INACTIVE"
         },
         "dyh.cafnc.com": {
@@ -7100,6 +7114,13 @@
             "last_retested_at_iso": "2020-09-17T00:53:22.012879",
             "status": "INACTIVE"
         },
+        "www.apple.com-fasting.live": {
+            "included_at_epoch": 1600822509.93302,
+            "included_at_iso": "2020-09-23T00:55:09.933020",
+            "last_retested_at_epoch": 1600822509.93302,
+            "last_retested_at_iso": "2020-09-23T00:55:09.933020",
+            "status": "INACTIVE"
+        },
         "www.apple.com-notice.info": {
             "included_at_epoch": 1600303999.424856,
             "included_at_iso": "2020-09-17T00:53:19.424856",
@@ -7203,6 +7224,13 @@
             "included_at_iso": "2020-09-17T00:53:19.268380",
             "last_retested_at_epoch": 1600303999.26838,
             "last_retested_at_iso": "2020-09-17T00:53:19.268380",
+            "status": "INACTIVE"
+        },
+        "www.com-fasting.live": {
+            "included_at_epoch": 1600822509.950662,
+            "included_at_iso": "2020-09-23T00:55:09.950662",
+            "last_retested_at_epoch": 1600822509.950662,
+            "last_retested_at_iso": "2020-09-23T00:55:09.950662",
             "status": "INACTIVE"
         },
         "www.com-notice.info": {
@@ -7541,6 +7569,13 @@
             "last_retested_at_iso": "2020-09-17T00:58:55.703339",
             "status": "INACTIVE"
         },
+        "www.soperson.com": {
+            "included_at_epoch": 1600822511.871722,
+            "included_at_iso": "2020-09-23T00:55:11.871722",
+            "last_retested_at_epoch": 1600822511.871722,
+            "last_retested_at_iso": "2020-09-23T00:55:11.871722",
+            "status": "INACTIVE"
+        },
         "www.ssp.ad.xiaomi.com": {
             "included_at_epoch": 1600304335.620893,
             "included_at_iso": "2020-09-17T00:58:55.620893",
@@ -7672,6 +7707,13 @@
             "included_at_iso": "2020-09-17T00:53:22.925554",
             "last_retested_at_epoch": 1600304002.925554,
             "last_retested_at_iso": "2020-09-17T00:53:22.925554",
+            "status": "INACTIVE"
+        },
+        "wy.adyboh.com": {
+            "included_at_epoch": 1600822509.578811,
+            "included_at_iso": "2020-09-23T00:55:09.578811",
+            "last_retested_at_epoch": 1600822509.578811,
+            "last_retested_at_iso": "2020-09-23T00:55:09.578811",
             "status": "INACTIVE"
         },
         "xeixtnolvuuwmwy.eu": {
@@ -8036,6 +8078,13 @@
             "included_at_iso": "2020-09-01T00:56:35.653363",
             "last_retested_at_epoch": 1598921795.653363,
             "last_retested_at_iso": "2020-09-01T00:56:35.653363",
+            "status": "INACTIVE"
+        },
+        "yun-static.soperson.com": {
+            "included_at_epoch": 1600822511.890988,
+            "included_at_iso": "2020-09-23T00:55:11.890988",
+            "last_retested_at_epoch": 1600822511.890988,
+            "last_retested_at_iso": "2020-09-23T00:55:11.890988",
             "status": "INACTIVE"
         },
         "yvxjsixn.eu": {
