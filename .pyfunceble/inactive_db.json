@@ -233,6 +233,13 @@
             "last_retested_at_iso": "2020-09-09T00:49:39.403289",
             "status": "INACTIVE"
         },
+        "app.storage.yunvm.com": {
+            "included_at_epoch": 1600822812.52316,
+            "included_at_iso": "2020-09-23T01:00:12.523160",
+            "last_retested_at_epoch": 1600822812.52316,
+            "last_retested_at_iso": "2020-09-23T01:00:12.523160",
+            "status": "INACTIVE"
+        },
         "apple.com-fasting.live": {
             "included_at_epoch": 1600822509.916189,
             "included_at_iso": "2020-09-23T00:55:09.916189",
@@ -7114,6 +7121,13 @@
             "last_retested_at_iso": "2020-09-17T00:53:22.012879",
             "status": "INACTIVE"
         },
+        "www.app.storage.yunvm.com": {
+            "included_at_epoch": 1600822812.50536,
+            "included_at_iso": "2020-09-23T01:00:12.505360",
+            "last_retested_at_epoch": 1600822812.50536,
+            "last_retested_at_iso": "2020-09-23T01:00:12.505360",
+            "status": "INACTIVE"
+        },
         "www.apple.com-fasting.live": {
             "included_at_epoch": 1600822509.93302,
             "included_at_iso": "2020-09-23T00:55:09.933020",
@@ -7261,13 +7275,6 @@
             "last_retested_at_iso": "2020-09-21T00:53:49.770819",
             "status": "INACTIVE"
         },
-        "www.data-ero-advertising.com": {
-            "included_at_epoch": 1598402547.780685,
-            "included_at_iso": "2020-08-26T00:42:27.780685",
-            "last_retested_at_epoch": 1598575399.073434,
-            "last_retested_at_iso": "2020-08-28T00:43:19.073434",
-            "status": "INACTIVE"
-        },
         "www.data.mistat.intl.xiaomi.com": {
             "included_at_epoch": 1600304335.843089,
             "included_at_iso": "2020-09-17T00:58:55.843089",
@@ -7336,13 +7343,6 @@
             "included_at_iso": "2020-09-17T00:53:22.083565",
             "last_retested_at_epoch": 1600304002.083565,
             "last_retested_at_iso": "2020-09-17T00:53:22.083565",
-            "status": "INACTIVE"
-        },
-        "www.girlstofap.ga": {
-            "included_at_epoch": 1598402551.348828,
-            "included_at_iso": "2020-08-26T00:42:31.348828",
-            "last_retested_at_epoch": 1598575402.701895,
-            "last_retested_at_iso": "2020-08-28T00:43:22.701895",
             "status": "INACTIVE"
         },
         "www.globalapi.ad.xiaomi.com": {

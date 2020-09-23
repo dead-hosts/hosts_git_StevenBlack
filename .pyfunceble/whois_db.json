@@ -2837,7 +2837,8 @@
     "vdtrack.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "ventanasyaluminios.com.mx": {
         "epoch": 1631404800.0,
