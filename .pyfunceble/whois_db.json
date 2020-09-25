@@ -1044,8 +1044,9 @@
         "state": "future"
     },
     "freetospeak.me": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "freshdepor.com": {
@@ -1159,8 +1160,9 @@
         "state": "future"
     },
     "googlephoto.vip": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.nic.vip",
         "state": "future"
     },
     "goooooooooogle.com": {
@@ -1251,7 +1253,8 @@
     "hkrevolt.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "hostfleek.com": {
         "epoch": 1614988800.0,
@@ -2585,7 +2588,8 @@
     "teddyshatsworld.pl": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "teenclubforum.pw": {
         "epoch": 1602460800.0,
@@ -2835,10 +2839,10 @@
         "state": "future"
     },
     "vdtrack.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "ventanasyaluminios.com.mx": {
         "epoch": 1631404800.0,
