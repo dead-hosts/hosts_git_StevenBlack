@@ -3103,6 +3103,13 @@
             "last_retested_at_iso": "2020-09-09T00:49:36.208967",
             "status": "INACTIVE"
         },
+        "chrome-redirect.top": {
+            "included_at_epoch": 1601167412.985843,
+            "included_at_iso": "2020-09-27T00:43:32.985843",
+            "last_retested_at_epoch": 1601167412.985843,
+            "last_retested_at_iso": "2020-09-27T00:43:32.985843",
+            "status": "INACTIVE"
+        },
         "cionx.inteleksys.com": {
             "included_at_epoch": 1599612578.088534,
             "included_at_iso": "2020-09-09T00:49:38.088534",
@@ -3209,10 +3216,10 @@
             "status": "ACTIVE"
         },
         "cloud.newsofnp.com": {
-            "included_at_epoch": 1598576441.857548,
-            "included_at_iso": "2020-08-28T01:00:41.857548",
-            "last_retested_at_epoch": 1598576441.857548,
-            "last_retested_at_iso": "2020-08-28T01:00:41.857548",
+            "included_at_epoch": 1601167413.248169,
+            "included_at_iso": "2020-09-27T00:43:33.248169",
+            "last_retested_at_epoch": 1601167413.248169,
+            "last_retested_at_iso": "2020-09-27T00:43:33.248169",
             "status": "INACTIVE"
         },
         "cmakrkp033.z19.web.core.windows.net": {
@@ -8486,6 +8493,20 @@
             "last_retested_at_iso": "2020-09-25T00:57:01.564805",
             "status": "ACTIVE"
         },
+        "libjs.inquirerjs.com": {
+            "included_at_epoch": 1601167413.118248,
+            "included_at_iso": "2020-09-27T00:43:33.118248",
+            "last_retested_at_epoch": 1601167413.118248,
+            "last_retested_at_iso": "2020-09-27T00:43:33.118248",
+            "status": "INACTIVE"
+        },
+        "libjss.inquirerjs.com": {
+            "included_at_epoch": 1601167413.074599,
+            "included_at_iso": "2020-09-27T00:43:33.074599",
+            "last_retested_at_epoch": 1601167413.074599,
+            "last_retested_at_iso": "2020-09-27T00:43:33.074599",
+            "status": "INACTIVE"
+        },
         "link-js.link": {
             "included_at_epoch": 1599612578.652973,
             "included_at_iso": "2020-09-09T00:49:38.652973",
@@ -11588,10 +11609,17 @@
             "status": "ACTIVE"
         },
         "osheoufhusheoghuesd.ru": {
-            "included_at_epoch": 1598576443.151544,
-            "included_at_iso": "2020-08-28T01:00:43.151544",
-            "last_retested_at_epoch": 1598576443.151544,
-            "last_retested_at_iso": "2020-08-28T01:00:43.151544",
+            "included_at_epoch": 1601167413.290489,
+            "included_at_iso": "2020-09-27T00:43:33.290489",
+            "last_retested_at_epoch": 1601167413.290489,
+            "last_retested_at_iso": "2020-09-27T00:43:33.290489",
+            "status": "INACTIVE"
+        },
+        "otpe.bestnewsworld.info": {
+            "included_at_epoch": 1601167412.895638,
+            "included_at_iso": "2020-09-27T00:43:32.895638",
+            "last_retested_at_epoch": 1601167412.895638,
+            "last_retested_at_iso": "2020-09-27T00:43:32.895638",
             "status": "INACTIVE"
         },
         "ottocap.org": {
@@ -14752,10 +14780,10 @@
             "status": "ACTIVE"
         },
         "ssl.newsofnp.com": {
-            "included_at_epoch": 1598576441.838948,
-            "included_at_iso": "2020-08-28T01:00:41.838948",
-            "last_retested_at_epoch": 1598576441.838948,
-            "last_retested_at_iso": "2020-08-28T01:00:41.838948",
+            "included_at_epoch": 1601167413.204698,
+            "included_at_iso": "2020-09-27T00:43:33.204698",
+            "last_retested_at_epoch": 1601167413.204698,
+            "last_retested_at_iso": "2020-09-27T00:43:33.204698",
             "status": "INACTIVE"
         },
         "ssl.widgets.webengage.com": {
@@ -16032,6 +16060,13 @@
             "last_retested_at_iso": "2020-09-09T00:49:35.984870",
             "status": "INACTIVE"
         },
+        "uy6x.c3y5-tools.com": {
+            "included_at_epoch": 1601167412.942355,
+            "included_at_iso": "2020-09-27T00:43:32.942355",
+            "last_retested_at_epoch": 1601167412.942355,
+            "last_retested_at_iso": "2020-09-27T00:43:32.942355",
+            "status": "INACTIVE"
+        },
         "v10c.events.data.microsoft.com": {
             "included_at_epoch": 1600995423.763908,
             "included_at_iso": "2020-09-25T00:57:03.763908",
@@ -16299,10 +16334,10 @@
             "status": "ACTIVE"
         },
         "webgirlsforum.to": {
-            "included_at_epoch": 1598576450.555571,
-            "included_at_iso": "2020-08-28T01:00:50.555571",
-            "last_retested_at_epoch": 1598576450.555571,
-            "last_retested_at_iso": "2020-08-28T01:00:50.555571",
+            "included_at_epoch": 1601167413.380114,
+            "included_at_iso": "2020-09-27T00:43:33.380114",
+            "last_retested_at_epoch": 1601167413.380114,
+            "last_retested_at_iso": "2020-09-27T00:43:33.380114",
             "status": "INACTIVE"
         },
         "webmail-who-int.000webhostapp.com": {
@@ -18342,6 +18377,13 @@
             "last_retested_at_iso": "2020-09-17T00:53:18.867785",
             "status": "INACTIVE"
         },
+        "www.hrtya.com": {
+            "included_at_epoch": 1601167413.031434,
+            "included_at_iso": "2020-09-27T00:43:33.031434",
+            "last_retested_at_epoch": 1601167413.031434,
+            "last_retested_at_iso": "2020-09-27T00:43:33.031434",
+            "status": "INACTIVE"
+        },
         "www.icloud.com-locations.in": {
             "included_at_epoch": 1600303999.363993,
             "included_at_iso": "2020-09-17T00:53:19.363993",
@@ -18509,6 +18551,13 @@
             "last_retested_at_epoch": 1600995411.09681,
             "last_retested_at_iso": "2020-09-25T00:56:51.096810",
             "status": "ACTIVE"
+        },
+        "www.lecap-services.fr": {
+            "included_at_epoch": 1601167413.161201,
+            "included_at_iso": "2020-09-27T00:43:33.161201",
+            "last_retested_at_epoch": 1601167413.161201,
+            "last_retested_at_iso": "2020-09-27T00:43:33.161201",
+            "status": "INACTIVE"
         },
         "www.logitechlogitechglobal.112.2o7.net": {
             "included_at_epoch": 1600995393.642283,
@@ -18847,10 +18896,10 @@
             "status": "INACTIVE"
         },
         "www.protectmobiletechieai.club": {
-            "included_at_epoch": 1598576445.16395,
-            "included_at_iso": "2020-08-28T01:00:45.163950",
-            "last_retested_at_epoch": 1598576445.16395,
-            "last_retested_at_iso": "2020-08-28T01:00:45.163950",
+            "included_at_epoch": 1601167413.334327,
+            "included_at_iso": "2020-09-27T00:43:33.334327",
+            "last_retested_at_epoch": 1601167413.334327,
+            "last_retested_at_iso": "2020-09-27T00:43:33.334327",
             "status": "INACTIVE"
         },
         "www.pub.axiatraders.com": {
