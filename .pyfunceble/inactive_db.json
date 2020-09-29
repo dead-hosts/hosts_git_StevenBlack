@@ -1809,11 +1809,11 @@
             "status": "ACTIVE"
         },
         "app.dynamicrosoft.com": {
-            "included_at_epoch": 1598748251.000891,
-            "included_at_iso": "2020-08-30T00:44:11.000891",
-            "last_retested_at_epoch": 1598748251.000891,
-            "last_retested_at_iso": "2020-08-30T00:44:11.000891",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601340239.999684,
+            "included_at_iso": "2020-09-29T00:43:59.999684",
+            "last_retested_at_epoch": 1601340239.999684,
+            "last_retested_at_iso": "2020-09-29T00:43:59.999684",
+            "status": "ACTIVE"
         },
         "app.hkrevolution.club": {
             "included_at_epoch": 1599612577.880308,
