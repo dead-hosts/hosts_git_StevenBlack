@@ -31,11 +31,11 @@
             "status": "ACTIVE"
         },
         "0.0.0.0.creative.hpyrdr.com": {
-            "included_at_epoch": 1599785454.879971,
-            "included_at_iso": "2020-09-11T00:50:54.879971",
-            "last_retested_at_epoch": 1599785454.879971,
-            "last_retested_at_iso": "2020-09-11T00:50:54.879971",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602377293.83182,
+            "included_at_iso": "2020-10-11T00:48:13.831820",
+            "last_retested_at_epoch": 1602377293.83182,
+            "last_retested_at_iso": "2020-10-11T00:48:13.831820",
+            "status": "ACTIVE"
         },
         "0.0.0.0.hpyrdr.com": {
             "included_at_epoch": 1600995418.833755,
@@ -535,17 +535,17 @@
             "status": "ACTIVE"
         },
         "ad.adapter.kaffnet.com": {
-            "included_at_epoch": 1599785455.035651,
-            "included_at_iso": "2020-09-11T00:50:55.035651",
-            "last_retested_at_epoch": 1599785455.035651,
-            "last_retested_at_iso": "2020-09-11T00:50:55.035651",
+            "included_at_epoch": 1602377293.957517,
+            "included_at_iso": "2020-10-11T00:48:13.957517",
+            "last_retested_at_epoch": 1602377293.957517,
+            "last_retested_at_iso": "2020-10-11T00:48:13.957517",
             "status": "INACTIVE"
         },
         "ad.api.kaffnet.com": {
-            "included_at_epoch": 1599785455.056478,
-            "included_at_iso": "2020-09-11T00:50:55.056478",
-            "last_retested_at_epoch": 1599785455.056478,
-            "last_retested_at_iso": "2020-09-11T00:50:55.056478",
+            "included_at_epoch": 1602377293.915499,
+            "included_at_iso": "2020-10-11T00:48:13.915499",
+            "last_retested_at_epoch": 1602377293.915499,
+            "last_retested_at_iso": "2020-10-11T00:48:13.915499",
             "status": "INACTIVE"
         },
         "ad.apsalar.com": {
@@ -556,10 +556,10 @@
             "status": "ACTIVE"
         },
         "ad.click.kaffnet.com": {
-            "included_at_epoch": 1599785455.074038,
-            "included_at_iso": "2020-09-11T00:50:55.074038",
-            "last_retested_at_epoch": 1599785455.074038,
-            "last_retested_at_iso": "2020-09-11T00:50:55.074038",
+            "included_at_epoch": 1602377293.999997,
+            "included_at_iso": "2020-10-11T00:48:13.999997",
+            "last_retested_at_epoch": 1602377293.999997,
+            "last_retested_at_iso": "2020-10-11T00:48:13.999997",
             "status": "INACTIVE"
         },
         "ad.dnoticias.pt": {
@@ -906,10 +906,10 @@
             "status": "ACTIVE"
         },
         "ads.grandonmedia.com": {
-            "included_at_epoch": 1599785454.787458,
-            "included_at_iso": "2020-09-11T00:50:54.787458",
-            "last_retested_at_epoch": 1599785454.787458,
-            "last_retested_at_iso": "2020-09-11T00:50:54.787458",
+            "included_at_epoch": 1602377293.788199,
+            "included_at_iso": "2020-10-11T00:48:13.788199",
+            "last_retested_at_epoch": 1602377293.788199,
+            "last_retested_at_iso": "2020-10-11T00:48:13.788199",
             "status": "INACTIVE"
         },
         "ads.proc.cc": {
@@ -1529,10 +1529,10 @@
             "status": "ACTIVE"
         },
         "ap-sonar.sociomantic.com": {
-            "included_at_epoch": 1599785455.919766,
-            "included_at_iso": "2020-09-11T00:50:55.919766",
-            "last_retested_at_epoch": 1599785455.919766,
-            "last_retested_at_iso": "2020-09-11T00:50:55.919766",
+            "included_at_epoch": 1602377294.126858,
+            "included_at_iso": "2020-10-11T00:48:14.126858",
+            "last_retested_at_epoch": 1602377294.126858,
+            "last_retested_at_iso": "2020-10-11T00:48:14.126858",
             "status": "INACTIVE"
         },
         "ap45.hetznir.ventanasyaluminios.com.mx": {
@@ -2803,10 +2803,10 @@
             "status": "ACTIVE"
         },
         "castoola.tv.lan": {
-            "included_at_epoch": 1599785456.138349,
-            "included_at_iso": "2020-09-11T00:50:56.138349",
-            "last_retested_at_epoch": 1599785456.138349,
-            "last_retested_at_iso": "2020-09-11T00:50:56.138349",
+            "included_at_epoch": 1602377294.211835,
+            "included_at_iso": "2020-10-11T00:48:14.211835",
+            "last_retested_at_epoch": 1602377294.211835,
+            "last_retested_at_iso": "2020-10-11T00:48:14.211835",
             "status": "INVALID"
         },
         "cata.ero-advertising.com": {
@@ -9775,10 +9775,10 @@
             "status": "INACTIVE"
         },
         "myconnect-support.com": {
-            "included_at_epoch": 1599785455.391879,
-            "included_at_iso": "2020-09-11T00:50:55.391879",
-            "last_retested_at_epoch": 1599785455.391879,
-            "last_retested_at_iso": "2020-09-11T00:50:55.391879",
+            "included_at_epoch": 1602377294.041314,
+            "included_at_iso": "2020-10-11T00:48:14.041314",
+            "last_retested_at_epoch": 1602377294.041314,
+            "last_retested_at_iso": "2020-10-11T00:48:14.041314",
             "status": "INACTIVE"
         },
         "mylrendyphone.com": {
@@ -11574,10 +11574,10 @@
             "status": "ACTIVE"
         },
         "ora.blindsidefantasy.com": {
-            "included_at_epoch": 1599785453.617855,
-            "included_at_iso": "2020-09-11T00:50:53.617855",
-            "last_retested_at_epoch": 1599785453.617855,
-            "last_retested_at_iso": "2020-09-11T00:50:53.617855",
+            "included_at_epoch": 1602377293.74446,
+            "included_at_iso": "2020-10-11T00:48:13.744460",
+            "last_retested_at_epoch": 1602377293.74446,
+            "last_retested_at_iso": "2020-10-11T00:48:13.744460",
             "status": "INACTIVE"
         },
         "ora.carlaarrabitoarchitetto.com": {
@@ -13380,10 +13380,10 @@
             "status": "ACTIVE"
         },
         "semasa.icu": {
-            "included_at_epoch": 1599785455.843114,
-            "included_at_iso": "2020-09-11T00:50:55.843114",
-            "last_retested_at_epoch": 1599785455.843114,
-            "last_retested_at_iso": "2020-09-11T00:50:55.843114",
+            "included_at_epoch": 1602377294.084504,
+            "included_at_iso": "2020-10-11T00:48:14.084504",
+            "last_retested_at_epoch": 1602377294.084504,
+            "last_retested_at_iso": "2020-10-11T00:48:14.084504",
             "status": "INACTIVE"
         },
         "serconsole.vicp.cc": {
@@ -14815,10 +14815,10 @@
             "status": "ACTIVE"
         },
         "ssp.ad.xiaomi.com": {
-            "included_at_epoch": 1599785456.51641,
-            "included_at_iso": "2020-09-11T00:50:56.516410",
-            "last_retested_at_epoch": 1599785456.51641,
-            "last_retested_at_iso": "2020-09-11T00:50:56.516410",
+            "included_at_epoch": 1602377294.467893,
+            "included_at_iso": "2020-10-11T00:48:14.467893",
+            "last_retested_at_epoch": 1602377294.467893,
+            "last_retested_at_iso": "2020-10-11T00:48:14.467893",
             "status": "INACTIVE"
         },
         "ssp.face2trade.com": {
@@ -15725,10 +15725,10 @@
             "status": "ACTIVE"
         },
         "tretas.top": {
-            "included_at_epoch": 1599785692.430419,
-            "included_at_iso": "2020-09-11T00:54:52.430419",
-            "last_retested_at_epoch": 1599785692.430419,
-            "last_retested_at_iso": "2020-09-11T00:54:52.430419",
+            "included_at_epoch": 1602377294.169269,
+            "included_at_iso": "2020-10-11T00:48:14.169269",
+            "last_retested_at_epoch": 1602377294.169269,
+            "last_retested_at_iso": "2020-10-11T00:48:14.169269",
             "status": "INACTIVE"
         },
         "trilns.com": {
@@ -16236,10 +16236,10 @@
             "status": "ACTIVE"
         },
         "vosmas.icu": {
-            "included_at_epoch": 1599785456.377626,
-            "included_at_iso": "2020-09-11T00:50:56.377626",
-            "last_retested_at_epoch": 1599785456.377626,
-            "last_retested_at_iso": "2020-09-11T00:50:56.377626",
+            "included_at_epoch": 1602377294.339051,
+            "included_at_iso": "2020-10-11T00:48:14.339051",
+            "last_retested_at_epoch": 1602377294.339051,
+            "last_retested_at_iso": "2020-10-11T00:48:14.339051",
             "status": "INACTIVE"
         },
         "vpn4test.net": {
@@ -16278,10 +16278,10 @@
             "status": "INACTIVE"
         },
         "watches-my.stream": {
-            "included_at_epoch": 1599785456.400662,
-            "included_at_iso": "2020-09-11T00:50:56.400662",
-            "last_retested_at_epoch": 1599785456.400662,
-            "last_retested_at_iso": "2020-09-11T00:50:56.400662",
+            "included_at_epoch": 1602377294.381621,
+            "included_at_iso": "2020-10-11T00:48:14.381621",
+            "last_retested_at_epoch": 1602377294.381621,
+            "last_retested_at_iso": "2020-10-11T00:48:14.381621",
             "status": "INACTIVE"
         },
         "watson.telemetry.microsoft.com": {
@@ -17286,10 +17286,10 @@
             "status": "ACTIVE"
         },
         "www.api.ad.intl.xiaomi.com": {
-            "included_at_epoch": 1599785692.460773,
-            "included_at_iso": "2020-09-11T00:54:52.460773",
-            "last_retested_at_epoch": 1599785692.460773,
-            "last_retested_at_iso": "2020-09-11T00:54:52.460773",
+            "included_at_epoch": 1602377294.510161,
+            "included_at_iso": "2020-10-11T00:48:14.510161",
+            "last_retested_at_epoch": 1602377294.510161,
+            "last_retested_at_iso": "2020-10-11T00:48:14.510161",
             "status": "INACTIVE"
         },
         "www.api.ad.snappea.com": {
@@ -17300,10 +17300,10 @@
             "status": "INACTIVE"
         },
         "www.api.ad.xiaomi.com": {
-            "included_at_epoch": 1599785456.489391,
-            "included_at_iso": "2020-09-11T00:50:56.489391",
-            "last_retested_at_epoch": 1599785456.489391,
-            "last_retested_at_iso": "2020-09-11T00:50:56.489391",
+            "included_at_epoch": 1602377294.424577,
+            "included_at_iso": "2020-10-11T00:48:14.424577",
+            "last_retested_at_epoch": 1602377294.424577,
+            "last_retested_at_iso": "2020-10-11T00:48:14.424577",
             "status": "INACTIVE"
         },
         "www.api.admob.xiaomi.com": {
@@ -18448,17 +18448,17 @@
             "status": "ACTIVE"
         },
         "www.in-starlive-preroll.videoplaza.tv": {
-            "included_at_epoch": 1599785456.332738,
-            "included_at_iso": "2020-09-11T00:50:56.332738",
-            "last_retested_at_epoch": 1599785456.332738,
-            "last_retested_at_iso": "2020-09-11T00:50:56.332738",
+            "included_at_epoch": 1602377294.297192,
+            "included_at_iso": "2020-10-11T00:48:14.297192",
+            "last_retested_at_epoch": 1602377294.297192,
+            "last_retested_at_iso": "2020-10-11T00:48:14.297192",
             "status": "INACTIVE"
         },
         "www.in-starlive.videoplaza.tv": {
-            "included_at_epoch": 1599785456.310983,
-            "included_at_iso": "2020-09-11T00:50:56.310983",
-            "last_retested_at_epoch": 1599785456.310983,
-            "last_retested_at_iso": "2020-09-11T00:50:56.310983",
+            "included_at_epoch": 1602377294.254692,
+            "included_at_iso": "2020-10-11T00:48:14.254692",
+            "last_retested_at_epoch": 1602377294.254692,
+            "last_retested_at_iso": "2020-10-11T00:48:14.254692",
             "status": "INACTIVE"
         },
         "www.in-viacom18.videoplaza.tv": {
@@ -18469,10 +18469,10 @@
             "status": "ACTIVE"
         },
         "www.indiaonclick.com": {
-            "included_at_epoch": 1599785454.94075,
-            "included_at_iso": "2020-09-11T00:50:54.940750",
-            "last_retested_at_epoch": 1599785454.94075,
-            "last_retested_at_iso": "2020-09-11T00:50:54.940750",
+            "included_at_epoch": 1602377293.872895,
+            "included_at_iso": "2020-10-11T00:48:13.872895",
+            "last_retested_at_epoch": 1602377293.872895,
+            "last_retested_at_iso": "2020-10-11T00:48:13.872895",
             "status": "INACTIVE"
         },
         "www.intext.ero-advertising.com": {
