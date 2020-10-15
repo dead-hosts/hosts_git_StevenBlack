@@ -4973,10 +4973,10 @@
             "status": "ACTIVE"
         },
         "ffdgbserv.ml": {
-            "included_at_epoch": 1600131169.817175,
-            "included_at_iso": "2020-09-15T00:52:49.817175",
-            "last_retested_at_epoch": 1600131169.817175,
-            "last_retested_at_iso": "2020-09-15T00:52:49.817175",
+            "included_at_epoch": 1602723027.866911,
+            "included_at_iso": "2020-10-15T00:50:27.866911",
+            "last_retested_at_epoch": 1602723027.866911,
+            "last_retested_at_iso": "2020-10-15T00:50:27.866911",
             "status": "INACTIVE"
         },
         "ffdpogservgbunity.ml": {
@@ -15459,10 +15459,10 @@
             "status": "INACTIVE"
         },
         "tlfdmrnpog.tk": {
-            "included_at_epoch": 1600131171.016252,
-            "included_at_iso": "2020-09-15T00:52:51.016252",
-            "last_retested_at_epoch": 1600131171.016252,
-            "last_retested_at_iso": "2020-09-15T00:52:51.016252",
+            "included_at_epoch": 1602723027.959457,
+            "included_at_iso": "2020-10-15T00:50:27.959457",
+            "last_retested_at_epoch": 1602723027.959457,
+            "last_retested_at_iso": "2020-10-15T00:50:27.959457",
             "status": "INACTIVE"
         },
         "tlfdnkgsitepog.ml": {
@@ -19323,11 +19323,11 @@
             "status": "INACTIVE"
         },
         "www.talk99.cn": {
-            "included_at_epoch": 1600131170.952781,
-            "included_at_iso": "2020-09-15T00:52:50.952781",
-            "last_retested_at_epoch": 1600131170.952781,
-            "last_retested_at_iso": "2020-09-15T00:52:50.952781",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602723027.915031,
+            "included_at_iso": "2020-10-15T00:50:27.915031",
+            "last_retested_at_epoch": 1602723027.915031,
+            "last_retested_at_iso": "2020-10-15T00:50:27.915031",
+            "status": "ACTIVE"
         },
         "www.tcm.optica.ero-advertising.com": {
             "included_at_epoch": 1600995411.854882,
