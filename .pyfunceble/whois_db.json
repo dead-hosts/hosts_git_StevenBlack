@@ -1129,6 +1129,12 @@
         "expiration_date": "30-mar-2021",
         "state": "future"
     },
+    "glthubs.com": {
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "glthubs.net": {
         "epoch": 1616976000.0,
         "expiration_date": "29-mar-2021",
