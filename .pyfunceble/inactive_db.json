@@ -1536,10 +1536,10 @@
             "status": "INACTIVE"
         },
         "ap45.hetznir.ventanasyaluminios.com.mx": {
-            "included_at_epoch": 1600477037.143394,
-            "included_at_iso": "2020-09-19T00:57:17.143394",
-            "last_retested_at_epoch": 1600477037.143394,
-            "last_retested_at_iso": "2020-09-19T00:57:17.143394",
+            "included_at_epoch": 1603068720.574038,
+            "included_at_iso": "2020-10-19T00:52:00.574038",
+            "last_retested_at_epoch": 1603068720.574038,
+            "last_retested_at_iso": "2020-10-19T00:52:00.574038",
             "status": "INACTIVE"
         },
         "api-resource.youzicheng.net": {
@@ -4679,10 +4679,10 @@
             "status": "INACTIVE"
         },
         "energytea.org": {
-            "included_at_epoch": 1600476869.631181,
-            "included_at_iso": "2020-09-19T00:54:29.631181",
-            "last_retested_at_epoch": 1600476869.631181,
-            "last_retested_at_iso": "2020-09-19T00:54:29.631181",
+            "included_at_epoch": 1603068720.440566,
+            "included_at_iso": "2020-10-19T00:52:00.440566",
+            "last_retested_at_epoch": 1603068720.440566,
+            "last_retested_at_iso": "2020-10-19T00:52:00.440566",
             "status": "INACTIVE"
         },
         "engine.bitmedianetwork.com": {
@@ -6177,10 +6177,10 @@
             "status": "ACTIVE"
         },
         "hetznir.ventanasyaluminios.com.mx": {
-            "included_at_epoch": 1600477037.165272,
-            "included_at_iso": "2020-09-19T00:57:17.165272",
-            "last_retested_at_epoch": 1600477037.165272,
-            "last_retested_at_iso": "2020-09-19T00:57:17.165272",
+            "included_at_epoch": 1603068720.617363,
+            "included_at_iso": "2020-10-19T00:52:00.617363",
+            "last_retested_at_epoch": 1603068720.617363,
+            "last_retested_at_iso": "2020-10-19T00:52:00.617363",
             "status": "INACTIVE"
         },
         "hexagram.rtk.io": {
@@ -12967,11 +12967,11 @@
             "status": "ACTIVE"
         },
         "roboinside.me": {
-            "included_at_epoch": 1600476871.198993,
-            "included_at_iso": "2020-09-19T00:54:31.198993",
-            "last_retested_at_epoch": 1600476871.198993,
-            "last_retested_at_iso": "2020-09-19T00:54:31.198993",
-            "status": "INACTIVE"
+            "included_at_epoch": 1603068720.483578,
+            "included_at_iso": "2020-10-19T00:52:00.483578",
+            "last_retested_at_epoch": 1603068720.483578,
+            "last_retested_at_iso": "2020-10-19T00:52:00.483578",
+            "status": "ACTIVE"
         },
         "robux.dev": {
             "included_at_epoch": 1600995432.079596,
@@ -19463,10 +19463,10 @@
             "status": "ACTIVE"
         },
         "www.traffclick.ru": {
-            "included_at_epoch": 1600476871.541666,
-            "included_at_iso": "2020-09-19T00:54:31.541666",
-            "last_retested_at_epoch": 1600476871.541666,
-            "last_retested_at_iso": "2020-09-19T00:54:31.541666",
+            "included_at_epoch": 1603068720.53411,
+            "included_at_iso": "2020-10-19T00:52:00.534110",
+            "last_retested_at_epoch": 1603068720.53411,
+            "last_retested_at_iso": "2020-10-19T00:52:00.534110",
             "status": "INACTIVE"
         },
         "www.trafforsrv.com": {
