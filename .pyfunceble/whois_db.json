@@ -2219,6 +2219,12 @@
         "expiration_date": "05-jun-2021",
         "state": "future"
     },
+    "psozyhotho.pro": {
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "psserviceonline.com": {
         "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",

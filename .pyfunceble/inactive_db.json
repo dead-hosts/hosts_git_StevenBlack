@@ -233,6 +233,13 @@
             "last_retested_at_iso": "2020-09-25T00:56:33.945936",
             "status": "ACTIVE"
         },
+        "400.route.to.adtracker.network": {
+            "included_at_epoch": 1603241618.853436,
+            "included_at_iso": "2020-10-21T00:53:38.853436",
+            "last_retested_at_epoch": 1603241618.853436,
+            "last_retested_at_iso": "2020-10-21T00:53:38.853436",
+            "status": "ACTIVE"
+        },
         "4436230.fls.doubleclick.net": {
             "included_at_epoch": 1600995402.193155,
             "included_at_iso": "2020-09-25T00:56:42.193155",
@@ -2747,10 +2754,10 @@
             "status": "ACTIVE"
         },
         "camteens.to": {
-            "included_at_epoch": 1600649629.590373,
-            "included_at_iso": "2020-09-21T00:53:49.590373",
-            "last_retested_at_epoch": 1600649629.590373,
-            "last_retested_at_iso": "2020-09-21T00:53:49.590373",
+            "included_at_epoch": 1603241618.406731,
+            "included_at_iso": "2020-10-21T00:53:38.406731",
+            "last_retested_at_epoch": 1603241618.406731,
+            "last_retested_at_iso": "2020-10-21T00:53:38.406731",
             "status": "INACTIVE"
         },
         "candygirls.cc": {
@@ -3531,10 +3538,10 @@
             "status": "ACTIVE"
         },
         "cu.versiondat.xyz": {
-            "included_at_epoch": 1600649632.220709,
-            "included_at_iso": "2020-09-21T00:53:52.220709",
-            "last_retested_at_epoch": 1600649632.220709,
-            "last_retested_at_iso": "2020-09-21T00:53:52.220709",
+            "included_at_epoch": 1603241618.672364,
+            "included_at_iso": "2020-10-21T00:53:38.672364",
+            "last_retested_at_epoch": 1603241618.672364,
+            "last_retested_at_iso": "2020-10-21T00:53:38.672364",
             "status": "INACTIVE"
         },
         "cutebaitsforum.cc": {
@@ -12715,10 +12722,10 @@
             "status": "ACTIVE"
         },
         "promotion.com-rewards.club": {
-            "included_at_epoch": 1600649629.710819,
-            "included_at_iso": "2020-09-21T00:53:49.710819",
-            "last_retested_at_epoch": 1600649629.710819,
-            "last_retested_at_iso": "2020-09-21T00:53:49.710819",
+            "included_at_epoch": 1603241618.450281,
+            "included_at_iso": "2020-10-21T00:53:38.450281",
+            "last_retested_at_epoch": 1603241618.450281,
+            "last_retested_at_iso": "2020-10-21T00:53:38.450281",
             "status": "INACTIVE"
         },
         "prov.alphonso.tv": {
@@ -12733,6 +12740,13 @@
             "included_at_iso": "2020-09-25T00:56:35.418752",
             "last_retested_at_epoch": 1600995395.418752,
             "last_retested_at_iso": "2020-09-25T00:56:35.418752",
+            "status": "ACTIVE"
+        },
+        "psozyhotho.pro": {
+            "included_at_epoch": 1603241618.716073,
+            "included_at_iso": "2020-10-21T00:53:38.716073",
+            "last_retested_at_epoch": 1603241618.716073,
+            "last_retested_at_iso": "2020-10-21T00:53:38.716073",
             "status": "ACTIVE"
         },
         "psserviceonline.com": {
@@ -12908,6 +12922,13 @@
             "included_at_iso": "2020-09-25T00:56:36.192326",
             "last_retested_at_epoch": 1600995396.192326,
             "last_retested_at_iso": "2020-09-25T00:56:36.192326",
+            "status": "ACTIVE"
+        },
+        "remove-ads.xyz": {
+            "included_at_epoch": 1603241618.767565,
+            "included_at_iso": "2020-10-21T00:53:38.767565",
+            "last_retested_at_epoch": 1603241618.767565,
+            "last_retested_at_iso": "2020-10-21T00:53:38.767565",
             "status": "ACTIVE"
         },
         "renovatesystem.com": {
@@ -13765,10 +13786,10 @@
             "status": "INACTIVE"
         },
         "servunity.tk": {
-            "included_at_epoch": 1600649631.818653,
-            "included_at_iso": "2020-09-21T00:53:51.818653",
-            "last_retested_at_epoch": 1600649631.818653,
-            "last_retested_at_iso": "2020-09-21T00:53:51.818653",
+            "included_at_epoch": 1603241618.62828,
+            "included_at_iso": "2020-10-21T00:53:38.628280",
+            "last_retested_at_epoch": 1603241618.62828,
+            "last_retested_at_iso": "2020-10-21T00:53:38.628280",
             "status": "INACTIVE"
         },
         "servuntmainnews.nl": {
@@ -17832,10 +17853,10 @@
             "status": "ACTIVE"
         },
         "www.cutebaitsforum.cc": {
-            "included_at_epoch": 1600649629.770819,
-            "included_at_iso": "2020-09-21T00:53:49.770819",
-            "last_retested_at_epoch": 1600649629.770819,
-            "last_retested_at_iso": "2020-09-21T00:53:49.770819",
+            "included_at_epoch": 1603241618.540342,
+            "included_at_iso": "2020-10-21T00:53:38.540342",
+            "last_retested_at_epoch": 1603241618.540342,
+            "last_retested_at_iso": "2020-10-21T00:53:38.540342",
             "status": "INACTIVE"
         },
         "www.cvent.axiatraders.com": {
@@ -18133,10 +18154,10 @@
             "status": "ACTIVE"
         },
         "www.fap.al": {
-            "included_at_epoch": 1600649630.653279,
-            "included_at_iso": "2020-09-21T00:53:50.653279",
-            "last_retested_at_epoch": 1600649630.653279,
-            "last_retested_at_iso": "2020-09-21T00:53:50.653279",
+            "included_at_epoch": 1603241618.584965,
+            "included_at_iso": "2020-10-21T00:53:38.584965",
+            "last_retested_at_epoch": 1603241618.584965,
+            "last_retested_at_iso": "2020-10-21T00:53:38.584965",
             "status": "INACTIVE"
         },
         "www.fata.ero-advertising.com": {
@@ -18888,6 +18909,13 @@
             "last_retested_at_iso": "2020-09-25T00:56:34.633466",
             "status": "ACTIVE"
         },
+        "www.prioritisemyhealth.com": {
+            "included_at_epoch": 1603241618.809749,
+            "included_at_iso": "2020-10-21T00:53:38.809749",
+            "last_retested_at_epoch": 1603241618.809749,
+            "last_retested_at_iso": "2020-10-21T00:53:38.809749",
+            "status": "ACTIVE"
+        },
         "www.privacyassistant.net": {
             "included_at_epoch": 1600995430.755264,
             "included_at_iso": "2020-09-25T00:57:10.755264",
@@ -18903,10 +18931,10 @@
             "status": "ACTIVE"
         },
         "www.promotion.com-rewards.club": {
-            "included_at_epoch": 1600649629.692,
-            "included_at_iso": "2020-09-21T00:53:49.692000",
-            "last_retested_at_epoch": 1600649629.692,
-            "last_retested_at_iso": "2020-09-21T00:53:49.692000",
+            "included_at_epoch": 1603241618.494685,
+            "included_at_iso": "2020-10-21T00:53:38.494685",
+            "last_retested_at_epoch": 1603241618.494685,
+            "last_retested_at_iso": "2020-10-21T00:53:38.494685",
             "status": "INACTIVE"
         },
         "www.protectmobiletechieai.club": {
