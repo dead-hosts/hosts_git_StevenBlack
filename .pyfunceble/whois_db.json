@@ -2612,14 +2612,15 @@
         "state": "future"
     },
     "teddyshatsworld.pl": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "teenclubforum.pw": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.nic.pw",
         "state": "future"
     },
     "testdhome1.xyz": {
@@ -2818,8 +2819,9 @@
         "state": "future"
     },
     "unclebillswv.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "update-wind.com": {
@@ -2932,8 +2934,9 @@
         "state": "future"
     },
     "webpagetest.net": {
-        "epoch": 1602115200.0,
-        "expiration_date": "08-oct-2020",
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "websitecompany.org": {
@@ -2985,7 +2988,8 @@
     "xda-developers.us": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
-        "state": "future"
+        "server": "whois.nic.us",
+        "state": "past"
     },
     "xm0siulufost.com": {
         "epoch": 1624320000.0,
@@ -3073,8 +3077,9 @@
         "state": "future"
     },
     "younglustforum.pw": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.nic.pw",
         "state": "future"
     },
     "yoursuperservice.com": {
