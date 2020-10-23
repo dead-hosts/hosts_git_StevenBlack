@@ -222,10 +222,10 @@
         "state": "future"
     },
     "amazonco.uk": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1663718400.0,
+        "expiration_date": "21-sep-2022",
         "server": "whois.nic.uk",
-        "state": "past"
+        "state": "future"
     },
     "amorluv.com": {
         "epoch": 1611964800.0,
@@ -531,8 +531,9 @@
         "state": "future"
     },
     "cdnassels.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cdnmage.com": {
@@ -655,8 +656,9 @@
         "state": "future"
     },
     "configsysrc.info": {
-        "epoch": 1602115200.0,
-        "expiration_date": "08-oct-2020",
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "conhostservice.com": {
@@ -751,8 +753,9 @@
         "state": "future"
     },
     "daunteegyptian.pro": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "defenswin.com": {
@@ -822,8 +825,9 @@
         "state": "future"
     },
     "dolodos.top": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.nic.top",
         "state": "future"
     },
     "domenuscdm.com": {
@@ -1004,13 +1008,15 @@
         "state": "future"
     },
     "fortnight.space": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.nic.space",
         "state": "future"
     },
     "fortnitechat.site": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "found.ee": {
@@ -1172,8 +1178,9 @@
         "state": "future"
     },
     "goooooooooogle.com": {
-        "epoch": 1602806400.0,
-        "expiration_date": "16-oct-2020",
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "govaj.com": {
@@ -1192,8 +1199,9 @@
         "state": "future"
     },
     "grandmods.com": {
-        "epoch": 1601942400.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "grandonmedia.com": {
@@ -1257,10 +1265,10 @@
         "state": "future"
     },
     "hkrevolt.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "hostfleek.com": {
         "epoch": 1614988800.0,
@@ -1450,8 +1458,9 @@
         "state": "future"
     },
     "joinmy.site": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "jomamba.best": {
@@ -1551,10 +1560,10 @@
         "state": "future"
     },
     "lecap-services.fr": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
         "server": "whois.nic.fr",
-        "state": "past"
+        "state": "future"
     },
     "ledampenergy.net": {
         "epoch": 1615334400.0,
@@ -1622,8 +1631,9 @@
         "state": "future"
     },
     "magescripts.pw": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.nic.pw",
         "state": "future"
     },
     "magesecuritys.com": {
@@ -1667,8 +1677,9 @@
         "state": "future"
     },
     "mainsite.us": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "makmoney.club": {
@@ -2155,8 +2166,9 @@
         "state": "future"
     },
     "pingconnect.net": {
-        "epoch": 1602806400.0,
-        "expiration_date": "16-oct-2020",
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pinkcamforum.cc": {
@@ -2295,7 +2307,8 @@
     "retrak.co.ke": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
-        "state": "future"
+        "server": "whois.kenic.or.ke",
+        "state": "past"
     },
     "rjmwqf.com": {
         "epoch": 1616544000.0,
