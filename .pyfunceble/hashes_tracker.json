@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_StevenBlack/domains.list": {
         "base": {
-            "datetime_iso": "2020-10-21T00:52:42.506156",
-            "hash": "9190e8f176d723fe81b3dbb64ef30c789ab3f4fa5701c20691a8507e"
+            "datetime_iso": "2020-10-25T00:55:13.007705",
+            "hash": "67a2d192b90b4b8083ae806cb5bf8ffcfb1bd100cba3e24e9d5a8341"
         },
         "latest": {
-            "datetime_iso": "2020-10-23T02:54:42.385955",
-            "hash": "9190e8f176d723fe81b3dbb64ef30c789ab3f4fa5701c20691a8507e"
+            "datetime_iso": "2020-10-25T00:55:13.007705",
+            "hash": "67a2d192b90b4b8083ae806cb5bf8ffcfb1bd100cba3e24e9d5a8341"
         },
         "position": 0
     }
