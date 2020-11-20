@@ -2104,6 +2104,12 @@
         "expiration_date": "10-feb-2021",
         "state": "future"
     },
+    "opengapps.com": {
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "orzk.net": {
         "epoch": 1628294400.0,
         "expiration_date": "07-aug-2021",
@@ -2931,8 +2937,9 @@
         "state": "future"
     },
     "vitlescaux.com": {
-        "epoch": 1605225600.0,
-        "expiration_date": "13-nov-2020",
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "voice98765.online": {
