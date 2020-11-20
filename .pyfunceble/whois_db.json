@@ -20,18 +20,21 @@
         "state": "future"
     },
     "12724.xyz": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "15438.xyz": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "21736.xyz": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "2no.co": {
@@ -50,8 +53,9 @@
         "state": "future"
     },
     "3lift.org": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "448ff4fcfcd199a.com": {
@@ -196,8 +200,9 @@
         "state": "future"
     },
     "alidnx.com": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alliance4media.com": {
@@ -411,13 +416,15 @@
         "state": "future"
     },
     "bitstarz27.com": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bitstarz28.com": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blasze.com": {
@@ -446,8 +453,9 @@
         "state": "future"
     },
     "braincdn.org": {
-        "epoch": 1602028800.0,
-        "expiration_date": "07-oct-2020",
+        "epoch": 1633564800.0,
+        "expiration_date": "07-oct-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "brainschampions.com": {
@@ -476,8 +484,9 @@
         "state": "future"
     },
     "bs.direct": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.nic.direct",
         "state": "future"
     },
     "bslines.xyz": {
@@ -553,8 +562,9 @@
         "state": "future"
     },
     "chauksoa.net": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "checkwinupdate.com": {
@@ -743,8 +753,9 @@
         "state": "future"
     },
     "dadsats.com": {
-        "epoch": 1605052800.0,
-        "expiration_date": "11-nov-2020",
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "data-ero-advertising.com": {
@@ -831,8 +842,9 @@
         "state": "future"
     },
     "domenuscdm.com": {
-        "epoch": 1604102400.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1635638400.0,
+        "expiration_date": "31-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "doublepimpads.com": {
@@ -978,8 +990,9 @@
         "state": "future"
     },
     "feylibertad.org": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "fgddl9szdof7.com": {
@@ -1379,8 +1392,9 @@
         "state": "future"
     },
     "iplogger.com": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "iplogger.org": {
@@ -1673,8 +1687,9 @@
         "state": "future"
     },
     "mainpbnpower.info": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "mainsite.in": {
@@ -1977,18 +1992,21 @@
         "state": "future"
     },
     "nbf9b5aurl.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ncjjfn.org": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "ndjambo.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nevyfedera1.org": {
@@ -2208,8 +2226,9 @@
         "state": "future"
     },
     "powersitemainservfjr.org": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "powertradeprofit.com": {
@@ -2311,10 +2330,10 @@
         "state": "future"
     },
     "retrak.co.ke": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
         "server": "whois.kenic.or.ke",
-        "state": "past"
+        "state": "future"
     },
     "rjmwqf.com": {
         "epoch": 1616544000.0,
@@ -2458,8 +2477,9 @@
         "state": "future"
     },
     "sex-and-flirt.com": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "shop-rnib.org": {
@@ -2519,8 +2539,9 @@
         "state": "future"
     },
     "srvkcnyhd.org": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "sso-github.com": {
@@ -2534,13 +2555,15 @@
         "state": "future"
     },
     "stealthedeal.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1666569600.0,
+        "expiration_date": "24-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "stillval.com": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "stopify.co": {
@@ -2671,8 +2694,9 @@
         "state": "future"
     },
     "thebestgame2020.com": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "thedemocraticpost.com": {
@@ -2681,8 +2705,9 @@
         "state": "future"
     },
     "thediscoveryrun.com": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "themoil.site": {
