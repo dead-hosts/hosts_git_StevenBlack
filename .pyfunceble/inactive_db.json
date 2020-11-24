@@ -1851,10 +1851,10 @@
             "status": "ACTIVE"
         },
         "app.dynamicrosoft.com": {
-            "included_at_epoch": 1603763235.591057,
-            "included_at_iso": "2020-10-27T01:47:15.591057",
-            "last_retested_at_epoch": 1603763235.591057,
-            "last_retested_at_iso": "2020-10-27T01:47:15.591057",
+            "included_at_epoch": 1606191200.94932,
+            "included_at_iso": "2020-11-24T04:13:20.949320",
+            "last_retested_at_epoch": 1606191200.94932,
+            "last_retested_at_iso": "2020-11-24T04:13:20.949320",
             "status": "ACTIVE"
         },
         "app.hkrevolution.club": {
@@ -11797,6 +11797,13 @@
             "last_retested_at_iso": "2020-11-20T09:18:20.948790",
             "status": "ACTIVE"
         },
+        "pamsg.online": {
+            "included_at_epoch": 1606191201.071547,
+            "included_at_iso": "2020-11-24T04:13:21.071547",
+            "last_retested_at_epoch": 1606191201.071547,
+            "last_retested_at_iso": "2020-11-24T04:13:21.071547",
+            "status": "ACTIVE"
+        },
         "panel.gameads.io": {
             "included_at_epoch": 1606007757.128158,
             "included_at_iso": "2020-11-22T01:15:57.128158",
@@ -19013,6 +19020,13 @@
             "last_retested_at_epoch": 1605853315.879329,
             "last_retested_at_iso": "2020-11-20T06:21:55.879329",
             "status": "INACTIVE"
+        },
+        "www.pamsg.online": {
+            "included_at_epoch": 1606191201.011382,
+            "included_at_iso": "2020-11-24T04:13:21.011382",
+            "last_retested_at_epoch": 1606191201.011382,
+            "last_retested_at_iso": "2020-11-24T04:13:21.011382",
+            "status": "ACTIVE"
         },
         "www.parentelement.tk": {
             "included_at_epoch": 1605853315.918167,
