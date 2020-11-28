@@ -603,6 +603,12 @@
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
+    "closetlondon.org": {
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "cmdupdatewin.com": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
@@ -1017,8 +1023,9 @@
         "state": "future"
     },
     "fjrfjrsitenchdnfjr.org": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "foodandcot.com": {
@@ -1145,8 +1152,9 @@
         "state": "future"
     },
     "glthub.net": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "glthube.app": {
@@ -1428,8 +1436,9 @@
         "state": "future"
     },
     "jailbaits.top": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.nic.top",
         "state": "future"
     },
     "jbcam.cz": {
@@ -1440,7 +1449,8 @@
     "jbcapsforum.tk": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
-        "state": "future"
+        "server": "whois.dot.tk",
+        "state": "past"
     },
     "jbvmix.link": {
         "epoch": 1613779200.0,
@@ -1458,8 +1468,9 @@
         "state": "future"
     },
     "jfnnrjfjrfjr.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jintsung.cn": {
