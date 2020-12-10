@@ -4987,10 +4987,10 @@
             "status": "ACTIVE"
         },
         "ffdgbserv.ml": {
-            "included_at_epoch": 1605145291.926928,
-            "included_at_iso": "2020-11-12T01:41:31.926928",
-            "last_retested_at_epoch": 1606528186.793213,
-            "last_retested_at_iso": "2020-11-28T01:49:46.793213",
+            "included_at_epoch": 1607569631.29112,
+            "included_at_iso": "2020-12-10T03:07:11.291120",
+            "last_retested_at_epoch": 1607569631.29112,
+            "last_retested_at_iso": "2020-12-10T03:07:11.291120",
             "status": "INACTIVE"
         },
         "ffdpogservgbunity.ml": {
@@ -14836,10 +14836,10 @@
             "status": "INACTIVE"
         },
         "tlfdmrnpog.tk": {
-            "included_at_epoch": 1605145292.017895,
-            "included_at_iso": "2020-11-12T01:41:32.017895",
-            "last_retested_at_epoch": 1605145292.017895,
-            "last_retested_at_iso": "2020-11-12T01:41:32.017895",
+            "included_at_epoch": 1607569631.378954,
+            "included_at_iso": "2020-12-10T03:07:11.378954",
+            "last_retested_at_epoch": 1607569631.378954,
+            "last_retested_at_iso": "2020-12-10T03:07:11.378954",
             "status": "INACTIVE"
         },
         "tlfdnkgsitepog.ml": {
@@ -18763,10 +18763,10 @@
             "status": "INACTIVE"
         },
         "www.talk99.cn": {
-            "included_at_epoch": 1605145291.973936,
-            "included_at_iso": "2020-11-12T01:41:31.973936",
-            "last_retested_at_epoch": 1605145291.973936,
-            "last_retested_at_iso": "2020-11-12T01:41:31.973936",
+            "included_at_epoch": 1607569631.336756,
+            "included_at_iso": "2020-12-10T03:07:11.336756",
+            "last_retested_at_epoch": 1607569631.336756,
+            "last_retested_at_iso": "2020-12-10T03:07:11.336756",
             "status": "ACTIVE"
         },
         "www.tcm.optica.ero-advertising.com": {
