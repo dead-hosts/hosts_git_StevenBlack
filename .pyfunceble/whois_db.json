@@ -2348,6 +2348,12 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "remove-ads.xyz": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "renovatesystem.com": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
