@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/hosts_git_StevenBlack/hosts_git_StevenBlack/origin.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "origin.list",
+    "hash": "ecda60a00973090e10b08b68126f401047b8631812d233c9ed647aa0",
+    "line_number": 2847,
+    "output_dir": "/home/runner/work/hosts_git_StevenBlack/hosts_git_StevenBlack/output/origin.list",
+    "previous_hash": "ecda60a00973090e10b08b68126f401047b8631812d233c9ed647aa0",
+    "rel_source": "origin.list",
+    "session_id": "20b69596cd06d88b74f3ec5d",
+    "source": "/home/runner/work/hosts_git_StevenBlack/hosts_git_StevenBlack/origin.list",
+    "subject": "/home/runner/work/hosts_git_StevenBlack/hosts_git_StevenBlack/origin.list",
+    "subject_type": "domain",
+    "type": "file"
+}
