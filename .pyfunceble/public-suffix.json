@@ -7516,7 +7516,6 @@
         "for.sale"
     ],
     "sb": [
-        "com.sb",
         "edu.sb",
         "gov.sb",
         "net.sb",
@@ -8461,6 +8460,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--o3cw4h": [
+        "com.sb",
+        "xn--12co0c3b4eva.xn--o3cw4h"
     ],
     "xyz": [
         "blogsite.xyz",
