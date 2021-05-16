@@ -5375,7 +5375,6 @@
         "santafe.museum",
         "saskatchewan.museum",
         "satx.museum",
-        "savannahga.museum",
         "schlesisches.museum",
         "schoenbrunn.museum",
         "schokoladen.museum",
@@ -6375,6 +6374,7 @@
         "sarpsborg.no",
         "sauda.no",
         "sauherad.no",
+        "savannahga.museum",
         "sel.no",
         "selbu.no",
         "selje.no",
@@ -7516,6 +7516,7 @@
         "for.sale"
     ],
     "sb": [
+        "com.sb",
         "edu.sb",
         "gov.sb",
         "net.sb",
@@ -8460,10 +8461,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--o3cw4h": [
-        "com.sb",
-        "xn--12co0c3b4eva.xn--o3cw4h"
     ],
     "xyz": [
         "blogsite.xyz",
