@@ -965,7 +965,6 @@
         "awsglobalaccelerator.com",
         "awsmppl.com",
         "balena-devices.com",
-        "barsy.support",
         "barsycenter.com",
         "barsyonline.com",
         "beta.bounty-full.com",
@@ -7770,6 +7769,9 @@
         "vladikavkaz.su",
         "vladimir.su",
         "vologda.su"
+    ],
+    "support": [
+        "barsy.support"
     ],
     "sv": [
         "com.sv",
