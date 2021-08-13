@@ -1738,6 +1738,7 @@
         "häkkinen.fi",
         "iki.fi",
         "myspreadshop.fi",
+        "paas.datacenter.fi",
         "xn--hkkinen-5wa.fi"
     ],
     "financial": [
@@ -2186,7 +2187,6 @@
         "on-k3s.io",
         "on-rio.io",
         "paas.beebyte.io",
-        "paas.datacenter.fi",
         "pantheonsite.io",
         "protonet.io",
         "pstmn.io",
@@ -4857,6 +4857,7 @@
         "tbits.me",
         "tcp4.me",
         "ukco.me",
+        "vp4.me",
         "wbq.me",
         "webhop.me",
         "wedeploy.me",
@@ -7722,7 +7723,6 @@
         "store.st"
     ],
     "store": [
-        "paas.datacenter.fi",
         "sellfy.store",
         "shopware.store",
         "storebase.store"
