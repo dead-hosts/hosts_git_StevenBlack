@@ -5785,6 +5785,7 @@
     "network": [
         "alces.network",
         "arvo.network",
+        "azimuth.network",
         "co.network",
         "tlon.network"
     ],
@@ -6793,7 +6794,6 @@
         "org.nr"
     ],
     "nu": [
-        "azimuth.network",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
@@ -7991,7 +7991,6 @@
         "mymailer.com.tw",
         "net.tw",
         "org.tw",
-        "troandin.no",
         "url.tw",
         "xn--czrw28b.tw",
         "xn--uc0atv.tw",
