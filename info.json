@@ -6,8 +6,8 @@
     "finish_timestamp": 1667195477.747296,
     "last_download_datetime": "2020-12-28T01:29:45.450196",
     "last_download_timestamp": 1609118985.450196,
-    "latest_part_finish_datetime": "2022-10-31T05:51:17.747296",
-    "latest_part_finish_timestamp": 1667195477.747296,
+    "latest_part_finish_datetime": "2022-11-26T05:27:54.954713",
+    "latest_part_finish_timestamp": 1669440474.954713,
     "latest_part_start_datetime": "2020-12-28T01:29:45.465531",
     "latest_part_start_timestamp": 1609118985.465531,
     "live_update": true,
@@ -15,6 +15,7 @@
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+    "repo": "hosts_git_StevenBlack/hosts_git_StevenBlack",
     "start_datetime": "2020-12-28T01:29:45.462762",
     "start_timestamp": 1609118985.462762
 }
