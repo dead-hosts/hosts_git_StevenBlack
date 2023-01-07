@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-wmail-cdn.com,AVAILABILITY,origin.list,2023-01-05 05:35:14.556668
-wmail-schnellvpn.com,AVAILABILITY,origin.list,2023-01-05 05:35:24.048638
-bideo-endpoint.com,AVAILABILITY,origin.list,2023-01-05 05:36:20.127822
-privatproxy-endpoint.com,AVAILABILITY,origin.list,2023-01-05 05:36:46.005165
 gs.gw688.org,AVAILABILITY,origin.list,2023-01-06 05:34:52.372264
 wind.windmilldrops.com,AVAILABILITY,origin.list,2023-01-06 05:35:05.594481
 sgp.o2o.api.xiaomi.com,AVAILABILITY,origin.list,2023-01-06 05:35:06.282068
@@ -1210,3 +1206,7 @@ siteikj.ru,AVAILABILITY,origin.list,2023-01-06 05:48:41.958217
 tempinfo.96.lt,AVAILABILITY,origin.list,2023-01-06 05:48:43.152796
 www.traffclick.ru,AVAILABILITY,origin.list,2023-01-06 05:48:44.477992
 cdn.dosya.web.tr,AVAILABILITY,origin.list,2023-01-06 05:48:45.723305
+wmail-cdn.com,AVAILABILITY,origin.list,2023-01-07 05:35:08.386213
+wmail-schnellvpn.com,AVAILABILITY,origin.list,2023-01-07 05:35:08.432403
+bideo-endpoint.com,AVAILABILITY,origin.list,2023-01-07 05:35:08.663020
+privatproxy-endpoint.com,AVAILABILITY,origin.list,2023-01-07 05:35:08.774834
