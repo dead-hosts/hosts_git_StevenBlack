@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-wmail-cdn.com,AVAILABILITY,origin.list,2023-01-07 05:35:08.386213
-wmail-schnellvpn.com,AVAILABILITY,origin.list,2023-01-07 05:35:08.432403
-bideo-endpoint.com,AVAILABILITY,origin.list,2023-01-07 05:35:08.663020
-privatproxy-endpoint.com,AVAILABILITY,origin.list,2023-01-07 05:35:08.774834
-m.topiccore.com,AVAILABILITY,origin.list,2023-01-08 05:22:49.762571
 wind.windmilldrops.com,AVAILABILITY,origin.list,2023-01-08 05:34:42.445998
 sgp.o2o.api.xiaomi.com,AVAILABILITY,origin.list,2023-01-08 05:34:42.689971
 log-2.samsungacr.com,AVAILABILITY,origin.list,2023-01-08 05:34:42.785083
@@ -1211,3 +1206,8 @@ www.traffclick.ru,AVAILABILITY,origin.list,2023-01-08 05:48:24.694462
 tempinfo.96.lt,AVAILABILITY,origin.list,2023-01-08 05:48:29.017977
 cdn.dosya.web.tr,AVAILABILITY,origin.list,2023-01-08 05:48:29.099271
 install.ddns.info,AVAILABILITY,origin.list,2023-01-08 05:48:31.055455
+wmail-cdn.com,AVAILABILITY,origin.list,2023-01-09 05:36:33.709224
+wmail-schnellvpn.com,AVAILABILITY,origin.list,2023-01-09 05:36:33.851834
+bideo-endpoint.com,AVAILABILITY,origin.list,2023-01-09 05:36:33.927265
+privatproxy-endpoint.com,AVAILABILITY,origin.list,2023-01-09 05:36:34.002252
+m.topiccore.com,AVAILABILITY,origin.list,2023-01-09 05:36:34.352280
