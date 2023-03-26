@@ -2446,7 +2446,6 @@ analytics.shein.co.uk
 0.0.0.0 freestar-io.videoplayerhub.com
 0.0.0.0 oa.openxcdn.net
 0.0.0.0 s2s.t13.io
-0.0.0.0 seg.hadron.ad.g
 
 # Added January 11, 2023
 0.0.0.0 btc8886.com
@@ -2503,3 +2502,7 @@ analytics.shein.co.uk
 0.0.0.0 cdn.cookielaw.org 
 0.0.0.0 cdn.indexww.com 
 0.0.0.0 encrypted-tbn1.gstatic.com
+
+# Added March 25, 2023
+0.0.0.0 wpad.www.tendawifi.com
+0.0.0.0 crprt.livejasmin.com
