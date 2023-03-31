@@ -1,10 +1,16 @@
 {
     "counter": {
-        "PSI-USA, Inc. dba Domain Robot": 1,
-        "total": 1
+        "CloudFlare, Inc.": 1,
+        "GoDaddy.com, LLC": 2,
+        "NameCheap, Inc.": 2,
+        "eNom, LLC": 9,
+        "total": 14
     },
     "percentage": {
-        "PSI-USA, Inc. dba Domain Robot": 100.0,
+        "CloudFlare, Inc.": 7.142857142857143,
+        "GoDaddy.com, LLC": 14.285714285714286,
+        "NameCheap, Inc.": 14.285714285714286,
+        "eNom, LLC": 64.28571428571429,
         "total": 100.0
     }
 }
