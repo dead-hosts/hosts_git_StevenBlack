@@ -1,10 +1,18 @@
 {
     "counter": {
+        "Key-Systems GmbH": 2,
         "Name.com, Inc.": 2,
-        "total": 2
+        "Tucows Domains Inc.": 2,
+        "myNET gmbh ( https://nic.at/registrar/442 )": 2,
+        "total": 10,
+        "广州云讯信息科技有限公司": 2
     },
     "percentage": {
-        "Name.com, Inc.": 100.0,
-        "total": 100.0
+        "Key-Systems GmbH": 20.0,
+        "Name.com, Inc.": 20.0,
+        "Tucows Domains Inc.": 20.0,
+        "myNET gmbh ( https://nic.at/registrar/442 )": 20.0,
+        "total": 100.0,
+        "广州云讯信息科技有限公司": 20.0
     }
 }
